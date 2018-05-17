@@ -1,0 +1,2 @@
+#tentativo per usare disqus
+$ pip install sphinxcontrib-disqus
