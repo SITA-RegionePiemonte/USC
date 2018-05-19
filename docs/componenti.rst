@@ -1,15 +1,16 @@
+====================================
 **Le componenti normalizzate**
+====================================
 
+#. **Struttura del piano**
 
-        #. **Struttura del piano**
+Per una maggiore leggibilità e una rappresentazione gestibile del Prg informatizzato è stato previsto un modello a strati, formato da tanti *livelli informativi* quante sono le categorie di informazioni da memorizzare. Su ogni livello informativo vengono associati elementi grafici ed informazioni in forma tabellare, che caratterizzano ciascun elemento rappresentato (poligono, linea, punto) mediante attributi.
 
-    Per una maggiore leggibilità e una rappresentazione gestibile del Prg informatizzato è stato previsto un modello a strati, formato da tanti *livelli informativi* quante sono le categorie di informazioni da memorizzare. Su ogni livello informativo vengono associati elementi grafici ed informazioni in forma tabellare, che caratterizzano ciascun elemento rappresentato (poligono, linea, punto) mediante attributi.
+La lettura combinata dei diversi livelli informativi permetterà di individuare la disciplina specifica delle diverse porzioni di territorio comunale; quindi le norme di attuazione dei piani saranno riferite a porzioni di territorio definite dalla sovrapposizione ed intersezione di più livelli (vedi oltre: Zone normative).
 
-    La lettura combinata dei diversi livelli informativi permetterà di individuare la disciplina specifica delle diverse porzioni di territorio comunale; quindi le norme di attuazione dei piani saranno riferite a porzioni di territorio definite dalla sovrapposizione ed intersezione di più livelli (vedi oltre: Zone normative).
+L’immagine di Fig. 1 esemplifica questa logica, mostrando la sovrapposizione dei livelli propri del progetto urbanistico stratificati sopra le informazioni derivanti da vincoli, piani sovraordinati, condizionamenti idrogeologici, riferimenti catastali, morfologia del terreno, basi cartografiche, ortofoto, ecc.
 
-    L’immagine di Fig. 1 esemplifica questa logica, mostrando la sovrapposizione dei livelli propri del progetto urbanistico stratificati sopra le informazioni derivanti da vincoli, piani sovraordinati, condizionamenti idrogeologici, riferimenti catastali, morfologia del terreno, basi cartografiche, ortofoto, ecc.
-
-    Di seguito si indica l’elenco dei livelli informativi mediante i quali si definiscono le previsioni di piano:
+Di seguito si indica l’elenco dei livelli informativi mediante i quali si definiscono le previsioni di piano:
 
 * Livelli di base:
 
@@ -79,7 +80,7 @@
 
     *Nota: i livelli contrassegnati dall’asterisco (\*) dovranno essere topologicamente coerenti tra loro, almeno per quanto riguarda le parti sovrapposte.*
 
-image:: static/componenti1.jpeg 
+image:: static/componenti1.jpeg
 
     *Fig. 1 – Il Piano si compone attraverso la sovrapposizione dei livelli propri del progetto urbanistico, stratificati sopra le informazioni derivanti da vincoli, piani sovraordinati, condizionamenti idrogeologici, riferimenti catastali, morfologia del terreno, basi cartografiche, ortofoto, ecc.*
 

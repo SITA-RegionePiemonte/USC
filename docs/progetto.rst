@@ -1,5 +1,6 @@
-
+====================================
 **Perché l’Urbanistica Senza Carta**
+====================================
 
 La dematerializzazione dei procedimenti e dei processi favorisce l'erogazione di servizi da parte della PA  in maniera più consapevole, rapida e trasparente, sia a livello locale che a livello regionale, come peraltro richiesto dalle norme europee e nazionali (direttiva 2003/98/CE PSI, direttiva 2007/2/EC INSPIRE, d.lgs. 82/2005 - Codice dell’amministrazione digitale, Agenda Digitale Italiana, d.lgs. 33/2013, ...).
 
