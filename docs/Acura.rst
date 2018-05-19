@@ -1,4 +1,4 @@
-a cura del Gruppo di Lavoro composto da:
+A cura del Gruppo di Lavoro composto da:
 
 +------------------+--------------------+-----------------------+
 |Giovanni Assandri |Jessica Deffacis    |Gian Bartolomeo Siletto|
