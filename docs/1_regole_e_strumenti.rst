@@ -1,5 +1,5 @@
 =================================================================
-Capitolo 1. LE REGOLE E GLI STRUMENTI INFORMATIZZATI PER LA PIANIFICAZIONE
+1. LE REGOLE E GLI STRUMENTI INFORMATIZZATI PER LA PIANIFICAZIONE
 =================================================================
 
 Una componente fondamentale del progetto Urbanistica senza Carta è quella che mira a mettere a sistema le informazioni e le previsioni dei Piani Regolatori Comunali rendendole patrimonio informativo condiviso e riutilizzabile dagli enti pubblici, dai professionisti e dai cittadini a diverso titolo interessati al governo del territorio, secondo quanto stabilito dalla l.r. 56/1977 (art.3), dalla recente normativa in ambito OpenData e OpenGovernment (si veda p.es. il "Piano triennale per l’informatica nella pubblica amministrazione 2017 - 2019" \ [#F1]_\      e le “Linee guida per la valorizzazione del patrimonio informativo pubblico”), nonché dalla l.r. 21 del 1/12/2017 “Infrastruttura regionale per l’informazione geografica”.
@@ -26,7 +26,7 @@ Il processo di normalizzazione delle componenti del piano regolatore opera su tr
 
 A partire dalla base dati geografica condivisa ed aggiornata (BDTRE, Base Dati Territoriale di Riferimento degli Enti), i Comuni e loro forme associative dovranno quindi procedere con la redazione del piano esprimendone i contenuti progettuali ricorrendo alle tre forme di normalizzazione qui esposte, arrivando a produrre da un lato tutti gli elaborati previsti dalla procedura (relazioni, tabelle, tavole grafiche, ...), da consegnare in formato PDF/A e firmati digitalmente, al fine di adempiere agli obblighi di pubblicazione e archiviazione; dall’altro arrivando a formare un organico e strutturato insieme di informazioni relative alla pianificazione del territorio che - condivise nei formati elettronici opportuni - concorrono ad alimentare la banca dati regionale, coerentemente con le specifiche di cui nel seguito.
 
-#. **Ambito di applicazione**
+**Ambito di applicazione**
 -----------------------------
 
 Occorre precisare che queste modalità di redazione troveranno completa applicazione solo nel caso di revisioni generali o nuove stesure dello strumento urbanistico, ovvero laddove siano estese a tutto il territorio comunale.
@@ -35,7 +35,8 @@ Occorre precisare che queste modalità di redazione troveranno completa applicaz
 
 È utile al riguardo rilevare che ai sensi dell'articolo 17, comma 12 punto h) della l.r. 56/1977 e s.m.i. "*non costituiscono varianti al Prgc* […] gli aggiornamenti degli elaborati cartografici e normativi di piano in recepimento delle previsioni relative a varianti approvate e *il trasferimento di elaborati urbanistici su sistemi informatizzati, senza apportarvi modifiche* ". Tale articolo legittima altresì l'operazione di semplice "traduzione" dei contenuti dei piani vigenti all'interno della banca dati urbanistica regionale secondo le specifiche qui descritte, anche al di fuori della necessità di procedere con una variante.
 
-#. **Indicazioni per la redazione dei Prg**
+**Indicazioni per la redazione dei Prg**
+----------------------------------------
 
 Ogni Piano Regolatore nasce nell'ambito di politiche locali di governo del territorio, esprime specificità proprie del luogo, del contesto sociale, economico e politico di ogni Comune o sua forma associativa, deve rapportarsi a realtà geografiche, orografiche, ambientali diverse, deve ottemperare a normative di settore e garantire la propria coerenza con gli indirizzi espressi dai piani sovraordinati. Tutto ciò lascia trasparire come sia difficile poter prevedere un modello di piano regolatore normalizzato capace di accogliere la complessità ed il numero delle informazioni e delle relazioni tra gli elementi informativi che lo costituiscono.
 
@@ -52,7 +53,7 @@ Nei capitoli seguenti si descrivono le specifiche per la normalizzazione minima 
 Non sono qui in generale sviluppati i temi inerenti la pianificazione territoriale provinciale o di area metropolitana, che necessiterebbero di analoga normalizzazione di contenuti.
 
 
-#. **Rapporti della pianificazione locale con la pianificazione sovraordinata e con i piani di settore**
+**Rapporti della pianificazione locale con la pianificazione sovraordinata e con i piani di settore**
 --------------------------------------------------------------------------------------------------------
 
 In base al principio enunciato dall’art. 17, comma 1 bis della l.r. 56/1977 (introdotto dalla l.r. n. 16 del 31 ottobre 2017), secondo il quale le varianti ai piani regolatori sono conformi agli strumenti di pianificazione territoriale e paesaggistica regionali, provinciali e della città metropolitana, nonché ai piani settoriali, occorre soffermarsi sugli elementi contenuti in tali strumenti che devono essere principalmente considerati nella formazione degli strumenti urbanistici.
@@ -70,13 +71,9 @@ Resta comunque indispensabile il rispetto di tutte le altre disposizioni del Ptr
 Il *Piano paesaggistico regionale* costituisce strumento conoscitivo, regolativo e strategico; esso si configura attraverso:
 
 * il quadro strutturale, che definisce le risorse i caratteri e le opzioni di fondo del territorio;
-
 * l’individuazione degli ambiti di paesaggio e delle unità di paesaggio;
-
 * il riconoscimento dei beni paesaggistici;
-
 * la descrizione delle componenti del paesaggio;
-
 * il quadro normativo.
 
 Il riconoscimento dei beni paesaggistici, soggetti a tutela secondo la vigente normativa in materia, non esaurisce, infatti, il campo d’attenzione del Ppr, che considera anche altre componenti del paesaggio (naturalistico-ambientali, storico-culturali, percettivo-identitarie, morfologico-insediative), la cui disciplina è necessaria per una efficace tutela dei primi e che concorrono a diffondere sull’intero territorio regionale i valori paesaggistici.
