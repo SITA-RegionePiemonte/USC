@@ -12,6 +12,7 @@ Contenuti
     docs/progetto
     docs/1_regole_e_strumenti
     docs/1-4_componenti
+    docs/1_4_2_livellibase
     docs/elaborati
     docs/licenza
     docs/Acura
