@@ -1,6 +1,6 @@
 **Progetto USC**
 
-.. figure:: static/USC.png
+.. figure:: static/USC.jpeg
 
 Contenuti
 =========
