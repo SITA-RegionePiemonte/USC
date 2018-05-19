@@ -1,8 +1,8 @@
-====================================
-.1.4 **Le componenti normalizzate**
-====================================
+======================================
+Sezione 1.4 Le componenti normalizzate
+======================================
 
-#. **Struttura del piano**
+Sottosezione 1.4.1 **Struttura del piano**
 
 Per una maggiore leggibilità e una rappresentazione gestibile del Prg informatizzato è stato previsto un modello a strati, formato da tanti *livelli informativi* quante sono le categorie di informazioni da memorizzare. Su ogni livello informativo vengono associati elementi grafici ed informazioni in forma tabellare, che caratterizzano ciascun elemento rappresentato (poligono, linea, punto) mediante attributi.
 
@@ -12,13 +12,13 @@ L’immagine di Fig. 1 esemplifica questa logica, mostrando la sovrapposizione d
 
 Di seguito si indica l’elenco dei livelli informativi mediante i quali si definiscono le previsioni di piano:
 
-* Livelli di base:
+* *Livelli di base:*
 
 * BDTRE: base cartografica di riferimento
 
 * Catasto georiferito sulla base cartografica di riferimento
 
-* Livelli propedeutici alla progettazione urbanistica:
+* *Livelli propedeutici alla progettazione urbanistica:*
 
 * Quadro dei vincoli
 
@@ -60,7 +60,7 @@ Di seguito si indica l’elenco dei livelli informativi mediante i quali si defi
 
 * Consumo di suolo
 
-* Livelli progettuali del Prg:
+* *Livelli progettuali del Prg:*
 
 * Morfologie insediative di progetto (\*)
 
