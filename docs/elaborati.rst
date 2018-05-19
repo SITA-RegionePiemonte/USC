@@ -1,5 +1,5 @@
 **Elaborati**
 
 
-.. raw:: html
+raw:: html
        :file: disqus.html

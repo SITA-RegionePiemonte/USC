@@ -45,5 +45,5 @@ Con le tre componenti richiamate si intende quindi fornire una descrizione delle
 
 Con questo primo documento si entra nel merito della parte A, al fine di dare avvio alla fase di normalizzazione dei contenuti degli strumenti urbanistici.
 
-.. raw:: html
+raw:: html
        :file: disqus.html
