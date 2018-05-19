@@ -17,6 +17,7 @@ E’ necessario, quindi, riprogettare gli attuali processi e costruire servizi i
 Questi servizi faciliteranno le attività in capo alla Regione, ai Comuni, alle province e alla Città Metropolitana, che sono i soggetti competenti individuati dalla l.r. 56/1977 e s.m.i., e dovranno contribuire alla costruzione del sistema informativo regionale.
 
 **Articolazione logica dei contenuti**
+--------------------------------------
 
 Il progetto Urbanistica Senza Carta (USC) ha come obiettivo la dematerializzazione dei procedimenti urbanistici, promuovendo un passaggio graduale ma integrale alle procedure informatizzate, con l’obiettivo di arrivare alla semplificazione del procedimento urbanistico da parte di comune o sue forme associative, provincia, città metropolitana e regione, ricorrendo quanto più possibile alle soluzioni offerte dalla *Information Technology* .
 
@@ -45,6 +46,7 @@ Con le tre componenti richiamate si intende quindi fornire una descrizione delle
 Con questo primo documento si entra nel merito della parte A, al fine di dare avvio alla fase di normalizzazione dei contenuti degli strumenti urbanistici.
 
 #. LE REGOLE E GLI STRUMENTI INFORMATIZZATI PER LA PIANIFICAZIONE
+-----------------------------------------------------------------
 
 Una componente fondamentale del progetto Urbanistica senza Carta è quella che mira a mettere a sistema le informazioni e le previsioni dei Piani Regolatori Comunali rendendole patrimonio informativo condiviso e riutilizzabile dagli enti pubblici, dai professionisti e dai cittadini a diverso titolo interessati al governo del territorio, secondo quanto stabilito dalla l.r. 56/1977 (art.3), dalla recente normativa in ambito OpenData e OpenGovernment (si veda p.es. il "Piano triennale per l’informatica nella pubblica amministrazione 2017 - 2019" \ [#F1]_\      e le “Linee guida per la valorizzazione del patrimonio informativo pubblico”), nonché dalla l.r. 21 del 1/12/2017 “Infrastruttura regionale per l’informazione geografica”.
 
@@ -71,6 +73,7 @@ Il processo di normalizzazione delle componenti del piano regolatore opera su tr
 A partire dalla base dati geografica condivisa ed aggiornata (BDTRE, Base Dati Territoriale di Riferimento degli Enti), i Comuni e loro forme associative dovranno quindi procedere con la redazione del piano esprimendone i contenuti progettuali ricorrendo alle tre forme di normalizzazione qui esposte, arrivando a produrre da un lato tutti gli elaborati previsti dalla procedura (relazioni, tabelle, tavole grafiche, ...), da consegnare in formato PDF/A e firmati digitalmente, al fine di adempiere agli obblighi di pubblicazione e archiviazione; dall’altro arrivando a formare un organico e strutturato insieme di informazioni relative alla pianificazione del territorio che - condivise nei formati elettronici opportuni - concorrono ad alimentare la banca dati regionale, coerentemente con le specifiche di cui nel seguito.
 
 #. **Ambito di applicazione**
+-----------------------------
 
 Occorre precisare che queste modalità di redazione troveranno completa applicazione solo nel caso di revisioni generali o nuove stesure dello strumento urbanistico, ovvero laddove siano estese a tutto il territorio comunale.
 
@@ -96,6 +99,7 @@ Non sono qui in generale sviluppati i temi inerenti la pianificazione territoria
 
 
 #. **Rapporti della pianificazione locale con la pianificazione sovraordinata e con i piani di settore**
+--------------------------------------------------------------------------------------------------------
 
 In base al principio enunciato dall’art. 17, comma 1 bis della l.r. 56/1977 (introdotto dalla l.r. n. 16 del 31 ottobre 2017), secondo il quale le varianti ai piani regolatori sono conformi agli strumenti di pianificazione territoriale e paesaggistica regionali, provinciali e della città metropolitana, nonché ai piani settoriali, occorre soffermarsi sugli elementi contenuti in tali strumenti che devono essere principalmente considerati nella formazione degli strumenti urbanistici.
 
