@@ -1,5 +1,5 @@
 =================================================================
-1. LE REGOLE E GLI STRUMENTI INFORMATIZZATI PER LA PIANIFICAZIONE
+Capitolo 1. LE REGOLE E GLI STRUMENTI INFORMATIZZATI PER LA PIANIFICAZIONE
 =================================================================
 
 Una componente fondamentale del progetto Urbanistica senza Carta è quella che mira a mettere a sistema le informazioni e le previsioni dei Piani Regolatori Comunali rendendole patrimonio informativo condiviso e riutilizzabile dagli enti pubblici, dai professionisti e dai cittadini a diverso titolo interessati al governo del territorio, secondo quanto stabilito dalla l.r. 56/1977 (art.3), dalla recente normativa in ambito OpenData e OpenGovernment (si veda p.es. il "Piano triennale per l’informatica nella pubblica amministrazione 2017 - 2019" \ [#F1]_\      e le “Linee guida per la valorizzazione del patrimonio informativo pubblico”), nonché dalla l.r. 21 del 1/12/2017 “Infrastruttura regionale per l’informazione geografica”.
@@ -120,3 +120,6 @@ La Regione, entro 90 giorni da tale data, dovrà emanare disposizioni concernent
 Già dall'adozione del progetto preliminare di tale variante normativa erano stati emanati chiarimenti tecnici per la gestione a livello comunale delle istanze che potessero incidere sull'utilizzo del territorio ricadente nelle aree di pericolosità individuate dalle mappe di pericolosità del PGRA, nelle more dell'approvazione definitiva della variante.
 
 I chiarimenti tecnici sono stati comunicati con la nota inviata ai comuni piemontesi nel maggio 2016 successivamente ripresi dalla DGR n. 12-4031 del 10/10/2016 contenente il parere della Regione Piemonte al PGRA e presa d'atto della Conferenza programmatica (svoltasi ai sensi dell'art. 68, c. 3 e 4 del D.lgs. n. 152/2006).
+
+.. raw:: html
+       :file: disqus.html

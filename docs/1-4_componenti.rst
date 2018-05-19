@@ -85,3 +85,6 @@ image:: static/componenti1.jpeg
     *Fig. 1 – Il Piano si compone attraverso la sovrapposizione dei livelli propri del progetto urbanistico, stratificati sopra le informazioni derivanti da vincoli, piani sovraordinati, condizionamenti idrogeologici, riferimenti catastali, morfologia del terreno, basi cartografiche, ortofoto, ecc.*
 
     Per ogni livello informativo vengono nel seguito fornite indicazioni sulle fonti informative utilizzabili, sulla struttura dati, sulla nomenclatura da seguire nella classificazione delle aree, al fine di unificare il linguaggio definendo in modo univoco il significato dei termini, a garanzia di una maggiore trasparenza e confrontabilità. Per ciascun livello informativo è stato predisposto un glossario di riferimento, ovvero un dominio dei possibili valori che devono essere assegnati agli attributi di ogni elemento grafico rappresentato all’interno di ciascuna classe (*layer* o strato informativo).
+
+.. raw:: html
+           :file: disqus.html
