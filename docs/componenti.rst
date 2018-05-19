@@ -1,5 +1,5 @@
 ====================================
-**Le componenti normalizzate**
+.1.4 **Le componenti normalizzate**
 ====================================
 
 #. **Struttura del piano**
