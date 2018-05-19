@@ -1,11 +1,10 @@
-
+*Progetto USC*
 
 
 Contenuti
 =========
 
 .. toctree::
-    :maxdepth: 3
     :caption: Indice
 
     docs/progetto
@@ -16,5 +15,5 @@ Contenuti
 
 
 
-    .. raw:: html
+.. raw:: html
        :file: disqus.html
