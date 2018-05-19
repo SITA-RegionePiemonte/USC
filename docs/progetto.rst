@@ -35,11 +35,11 @@ L’obiettivo dell’Urbanistica Senza Carta si estrinseca quindi all’interno 
 
 In conseguenza di ciò, il progetto USC si articola logicamente in tre parti:
 
-#. le componenti di un piano regolatore - contenuti ed elaborati di consegna (glossari, specifiche e strumenti per la redazione di un piano regolatore “normalizzato” e la sua conservazione nella “banca dati urbanistica”)
+A. le componenti di un piano regolatore - contenuti ed elaborati di consegna (glossari, specifiche e strumenti per la redazione di un piano regolatore “normalizzato” e la sua conservazione nella “banca dati urbanistica”)
 
-#. regole e strumenti per la gestione dematerializzata del procedimento urbanistico (piattaforma telematica per gli enti coinvolti nel processo di copianificazione)
+B. regole e strumenti per la gestione dematerializzata del procedimento urbanistico (piattaforma telematica per gli enti coinvolti nel processo di copianificazione)
 
-#. sistema dei dati di base per la pianificazione (fase preliminare alla pianificazione vera e propria e fondamentale per garantire la “gestione integrata del sistema informativo geografico regionale” in un’ottica di Infrastruttura Geografica regionale)
+C. sistema dei dati di base per la pianificazione (fase preliminare alla pianificazione vera e propria e fondamentale per garantire la “gestione integrata del sistema informativo geografico regionale” in un’ottica di Infrastruttura Geografica regionale)
 
 Con le tre componenti richiamate si intende quindi fornire una descrizione delle componenti concettuali che concorrono alla redazione dei Prgc “normalizzati” e “dematerializzati”, ovvero individuare la struttura del “Prgc tipo”. Tale definizione è indispensabile ai fini della dematerializzazione dei procedimenti urbanistici attraverso una strutturata articolazione di *workflow* e modelli gestionali che possono migliorare la qualità delle procedure di formazione e revisione dei Piani, velocizzare la loro approvazione, ed in ultimo, contenere la spesa pubblica. Si intende inoltre illustrare come la redazione degli elaborati dei Piani in formato elettronico interagisca con altre attività di dematerializzazione, in particolar modo con la costruzione ed il mantenimento della base dati territoriale regionale (BDTRE – Base Dati Territoriale di Riferimento degli Enti, la cartografia digitale), nonché con i sistemi informatici di archiviazione e conservazione documentale degli atti.
 
