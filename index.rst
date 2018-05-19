@@ -10,12 +10,11 @@ Contenuti
     :maxdepth: 2
 
     docs/progetto
-    docs/componenti
+    docs/1_regole_e_strumenti
+    docs/1-4_componenti
     docs/elaborati
     docs/licenza
     docs/Acura
-
-
 
 .. raw:: html
        :file: disqus.html
