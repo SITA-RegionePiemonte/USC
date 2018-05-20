@@ -124,6 +124,6 @@ all’interno di ciascuna classe (*layer* o strato informativo).
 .. raw:: html
            :file: disqus.html
 
-.. |image1| image:: static/componenti1.jpeg
+.. |image1| image:: static/componenti1.jpg
    :width: 4.51875in
    :height: 4.51875in
