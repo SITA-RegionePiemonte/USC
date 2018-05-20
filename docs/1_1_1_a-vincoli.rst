@@ -230,15 +230,15 @@ geotecnco
 +-----------+-----------+-----------+---------+---------+---------+---------+
 |Limitazioni|Frana      | FA        | Attivo  |         | *Per i  | Circola |
 |e          |           |           |         |         | codici  | re      |
-|           |(Legenda   |           |         |         | relativ | PGR n.  |
-|idoneità   |regionale) |           |         |         | i       | 7/LAP/9 |
-|di         |           |           |         |         | alle    | 6       |
-|carattere  |           |           |         |         | varie   | e       |
-|geologico  |           |           |         |         | tipolog | success |
-|, geomorfol|           |           |         |         | ie      | iva     |
-|ogico      |           |           |         |         | di      | Nota    |
-|, geotecnic|           |           |         |         | movimen | Tecnica |
-|o          |           |           |         |         | to      | del     |
+|idoneità   |(Legenda   |           |         |         | relativ | PGR n.  |
+|di         |regionale) |           |         |         | i       | 7/LAP/9 |
+|carattere  |           |           |         |         | alle    | 6       |
+|geologico  |           |           |         |         | varie   | e       |
+|, geomorfol|           |           |         |         | tipolog | success |
+|ogico      |           |           |         |         | ie      | iva     |
+|, geotecnic|           |           |         |         | di      | Nota    |
+|o          |           |           |         |         | movimen | Tecnica |
+|           |           |           |         |         | to      | del     |
 |           |           |           |         |         | occorre | 1999    |
 |           |           |           |         |         | fare    |         |
 |           |           |           |         |         | riferim | DGR n.  |
