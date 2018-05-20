@@ -23,18 +23,18 @@ Tabella 1
 +-------------+-------------+-------------+-------------+-------------+
 |Limitazioni  |vincolo      |             | R.D.L.      |             |
 |e vincoli di |idrogeologico|             | 3267/23     |             |
-| tutela      | (vigente)   |             | art. 30     |             |
-|territoriale |             |             | l.r. n.     |             |
+|tutela territ|(vigente)    |             | art. 30     |             |
+|oriale       |             |             | l.r. n.     |             |
 |             |             |             | 56/1977 smi |             |
 |             |             |             | l.r. 45/89  |             |
 |             |             |             | circ.       |             |
 |             |             |             | 2/AGR/90    |             |
 +-------------+-------------+-------------+-------------+-------------+
 |             |vincolo      |vincolo      |             |             |
-|             | idrogeologi | idrogeologi |             |             |
-|             |co           |co           |             |             |
-|             | modificato  | aggiunto    |             |             |
-|             | dal Prg     |             |             |             |
+|             |idrogeologico| idrogeologi |             |             |
+|             |             |co           |             |             |
+|             |modificato   | aggiunto    |             |             |
+|             |dal Prg      |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 |             |             | vincolo     |             |             |
 |             |             | idrogeologi |             |             |
