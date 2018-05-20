@@ -125,4 +125,4 @@ all’interno di ciascuna classe (*layer* o strato informativo).
            :file: disqus.html
 
 .. |image1| image:: media/componenti1.jpg
-   :scale 50%
+           :scale: 50%
