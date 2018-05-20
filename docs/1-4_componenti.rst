@@ -120,5 +120,10 @@ ciascun livello informativo è stato predisposto un glossario di
 riferimento, ovvero un dominio dei possibili valori che devono essere
 assegnati agli attributi di ogni elemento grafico rappresentato
 all’interno di ciascuna classe (*layer* o strato informativo).
+
 .. raw:: html
            :file: disqus.html
+
+.. |image1| image:: static/componenti1.jpeg
+   :width: 4.51875in
+   :height: 4.51875in
