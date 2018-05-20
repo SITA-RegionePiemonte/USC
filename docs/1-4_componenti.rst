@@ -31,36 +31,44 @@ si definiscono le previsioni di piano:
  -  Catasto georiferito sulla base cartografica di riferimento
 
 -  LIVELLI PROPEDEUTICI ALLA PROGETTAZIONE URBANISTICA:
-   - Quadro dei vincoli
+
+ - Quadro dei vincoli
+
      - di tutela territoriale (v. geologici, idrogeologici, geomorfologici, geotecnici, sismici, idoneità geologica all’utilizzazione urbanistica del territorio)
      - di tutela culturale, ambientale e paesaggistica (di Piano e recepiti da Normativa sovraordinata)
      - antropici e introdotti dal piano
-   - Industrie a rischio di incidente rilevante
-   - Zonizzazione Acustica
-   - Zonizzazione Commerciale
-   - Reti ecologiche
-   - Livelli derivati dal Ppr:
+
+ - Industrie a rischio di incidente rilevante
+ - Zonizzazione Acustica
+ - Zonizzazione Commerciale
+ - Reti ecologiche
+ - Livelli derivati dal Ppr:
+
       - Componenti Naturalistico-ambientali
       - Componenti Storico-Culturali
       - Componenti Percettivo-Identitarie
       - Componenti Morfologico-insediative
-   - Perimetrazioni
+
+ - Perimetrazioni
+
      - Perimetrazione del centro abitato [art. 12, comma 2, n. 5 bis) l.r. 56/1977 e s.m.i.] (*)
      - Perimetrazione del centro abitato [art 4 d.lgs. 285/1992 Codice della Strada] (*)
      - Perimetrazione del centro storico [art. 24 l.r. 56/1977 e s.m.i.] (*)
-   - Uso del suolo in atto ai fini agricoli, forestali, estrattivi (Carta della copertura del suolo)
-   - Capacità d’uso dei Suoli
-   - Consumo di suolo
+     
+ - Uso del suolo in atto ai fini agricoli, forestali, estrattivi (Carta della copertura del suolo)
+ - Capacità d’uso dei Suoli
+ - Consumo di suolo
 
 -  LIVELLI PROGETTUALI DEL PRGC:
-   - Morfologie insediative di progetto (*)
-   - Destinazioni d’Uso (*)
-   - Aree urbanistiche di progetto (*)
-   - Modalità di attuazione (*)
-   - Tipi di intervento edilizio (*)
-   - Confronto fra le previsioni del Prg vigente e del nuovo Prg/variante
-   - Zone Territoriali Omogenee
-   - Zone normative
+
+ - Morfologie insediative di progetto (*)
+ - Destinazioni d’Uso (*)
+ - Aree urbanistiche di progetto (*)
+ - Modalità di attuazione (*)
+ - Tipi di intervento edilizio (*)
+ - Confronto fra le previsioni del Prg vigente e del nuovo Prg/variante
+ - Zone Territoriali Omogenee
+ - Zone normative
 
 *Nota: i livelli contrassegnati dall’asterisco (*) dovranno essere
 topologicamente coerenti tra loro, almeno per quanto riguarda le parti
