@@ -16,12 +16,12 @@ modificare la struttura generale proposta.
 Tabella 1
 
 +-------------+-------------+-------------+-------------+-------------+
-| **Vincolo/tutela**                      |**riferimento              |
+|**Vincolo/tutela**                       |**riferimento              |
 |                                         |normativo**                |
 +=============+=============+=============+=============+=============+
 | **Liv. 1**  | **Liv. 2**  | **Liv. 3**  |                           |
 +-------------+-------------+-------------+-------------+-------------+
-|Limitazioni  |vincolo      |             | R.D.L.      |             |
+| Limitazioni | vincolo     |             | R.D.L.      |             |
 |e vincoli di |idrogeologico|             | 3267/23     |             |
 |tutela territ|(vigente)    |             | art. 30     |             |
 |oriale       |             |             | l.r. n.     |             |
