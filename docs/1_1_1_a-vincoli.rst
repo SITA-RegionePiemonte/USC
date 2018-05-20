@@ -17,29 +17,29 @@ Tabella 1
 
 +-------------+-------------+-------------+-------------+-------------+
 | **Vincolo/t |                           | **Riferimen |             |
-| utela**     |                           | to          |             |
+| utela**     |                           |to           |             |
 |             |                           | normativo** |             |
 +=============+=============+=============+=============+=============+
 | **Liv. 1**  | **Liv. 2**  | **Liv. 3**  |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-|    Limitazi | vincolo     |             | R.D.L.      |             |
-| oni         | idrogeologi |             | 3267/23     |             |
-|    e        | co          |             | art. 30     |             |
-|    vincoli  | (vigente)   |             | l.r. n.     |             |
-|    di       |             |             | 56/1977 smi |             |
-|    tutela   |             |             | l.r. 45/89  |             |
-|    territor |             |             | circ.       |             |
-| iale        |             |             | 2/AGR/90    |             |
+|Limitazioni  | vincolo     |             | R.D.L.      |             |
+|e vincoli di | idrogeologi |             | 3267/23     |             |
+| tutela      |co (vigente) |             | art. 30     |             |
+|territoriale |             |             | l.r. n.     |             |
+|             |             |             | 56/1977 smi |             |
+|             |             |             | l.r. 45/89  |             |
+|             |             |             | circ.       |             |
+|             |             |             | 2/AGR/90    |             |
 +-------------+-------------+-------------+-------------+-------------+
 |             | vincolo     | vincolo     |             |             |
 |             | idrogeologi | idrogeologi |             |             |
-|             | co          | co          |             |             |
+|             |co           |co           |             |             |
 |             | modificato  | aggiunto    |             |             |
 |             | dal Prg     |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 |             |             | vincolo     |             |             |
 |             |             | idrogeologi |             |             |
-|             |             | co          |             |             |
+|             |             |co           |             |             |
 |             |             | ridotto     |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 |             | fascia di   | fascia di   | art. 29     |             |
@@ -56,7 +56,7 @@ Tabella 1
 |             |             | esistenti   |             |             |
 |             |             | prima       |             |             |
 |             |             | dell’entrat |             |             |
-|             |             | a           |             |             |
+|             |             |a            |             |             |
 |             |             | in vigore   |             |             |
 |             |             | della l.r.  |             |             |
 |             |             | 11/2012 (15 |             |             |
