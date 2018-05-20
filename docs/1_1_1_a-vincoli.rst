@@ -401,31 +401,27 @@ geotecnco
 |           |(classe II)|           |         |         |         |         |
 |           |           |           |         |         |         |         |
 +           +-----------+-----------+---------+---------+---------+---------+
-|           |Ambiti     | 3A        | Ambiti  |         |         |         |
-|           |a          |           | inedifi |         |         |         |
-|           |pericolosit|           | cati    |         |         |         |
-|           |à          |           | inidone |         |         |         |
-|           |elevata    |           | i       |         |         |         |
-|           |(classe    |           | a nuovi |         |         |         |
-|           |III)       |           | insedia |         |         |         |
-|           |           |           | menti   |         |         |         |
-|           |           |           | (classe |         |         |         |
-|           |           |           | IIIa)   |         |         |         |
+|           |Ambiti     | 3A        |Ambiti   |         |         |         |
+|           |a          |           |inedifi- |         |         |         |
+|           |pericolosit|           |cati     |         |         |         |
+|           |à          |           |inidonei |         |         |         |
+|           |elevata    |           |a        |         |         |         |
+|           |(classe    |           |nuovi    |         |         |         |
+|           |III)       |           |insedia- |         |         |         |
+|           |           |           |menti    |         |         |         |
+|           |           |           |(classe  |         |         |         |
+|           |           |           |IIIa)    |         |         |         |
 +           +           +-----------+---------+---------+---------+---------+
-|           |           | 3B        | Ambiti  | 3B1     | Classe  |         |
-|           |           |           | edifica |         | 3B1     |         |
-|           |           |           | ti      |         |         |         |
-|           |           |           | da      |         |         |         |
-|           |           |           | sottopo |         |         |         |
-|           |           |           | rre     |         |         |         |
-|           |           |           | ad      |         |         |         |
-|           |           |           | interve |         |         |         |
-|           |           |           | nti     |         |         |         |
-|           |           |           | di      |         |         |         |
-|           |           |           | riasset |         |         |         |
-|           |           |           | to      |         |         |         |
-|           |           |           | (classe |         |         |         |
-|           |           |           | IIIb)   |         |         |         |
+|           |           | 3B        |Ambiti   | 3B1     | Classe  |         |
+|           |           |           |edificati|         | 3B1     |         |
+|           |           |           |da       |         |         |         |
+|           |           |           |sottopor-|         |         |         |
+|           |           |           |re ad    |         |         |         |
+|           |           |           |intervent|         |         |         |
+|           |           |           |i di     |         |         |         |
+|           |           |           |riassetto|         |         |         |
+|           |           |           |(classe  |         |         |         |
+|           |           |           |IIIb)    |         |         |         |
 +           +           +           +         +---------+---------+---------+
 |           |           |           |         | 3B2     | Classe  |         |
 |           |           |           |         |         | 3B2     |         |
