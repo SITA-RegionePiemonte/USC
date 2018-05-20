@@ -311,8 +311,8 @@ geotecnco
 |           |           |           | media/m |         |         |         |
 |           |           |           | oderata |         |         |         |
 +-----------+-----------+-----------+---------+---------+---------+---------+
-|           | Esondaz   | Ee\ :sub: | Lineare |         |         |         |
-|           | ione      | `L`       | a       |         |         |         |
+|           | Esondaz   | Ee\       | Lineare |         |         |         |
+|           | ione      | :sub:`L`  | a       |         |         |         |
 |           | reticolo  |           | pericol |         |         |         |
 |           | minore    |           | osità   |         |         |         |
 |           |           |           | molto   |         |         |         |
@@ -321,8 +321,8 @@ geotecnco
 |           |           |           |         |         |         |         |
 |           |           |           |         |         |         |         |
 +           +           +-----------+---------+---------+---------+---------+
-|           |           | Eb\ :su   | Lineare |         |         |         |
-|           |           | b:`L`     | a       |         |         |         |
+|           |           | Eb\       | Lineare |         |         |         |
+|           |           | :sub:`L`  | a       |         |         |         |
 |           |           |           | pericol |         |         |         |
 |           |           |           | osità   |         |         |         |
 |           |           |           | elevata |         |         |         |
