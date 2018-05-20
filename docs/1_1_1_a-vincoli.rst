@@ -32,8 +32,7 @@ Tabella 1
 +-------------+-------------+-------------+-------------+-------------+
 |             |vincolo      |vincolo      |             |             |
 |             |idrogeologico| idrogeologi |             |             |
-|             |             |co           |             |             |
-|             |modificato   | aggiunto    |             |             |
+|             |modificato   |co aggiunto  |             |             |
 |             |dal Prg      |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 |             |             | vincolo     |             |             |
