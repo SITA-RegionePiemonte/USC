@@ -3,7 +3,7 @@
 --------------------------------------
 
 1.4.1 **Struttura del piano**
-'''''''''''''''''''''''''''''
+''''''''''''''''''''''''''''''
 
 Per una maggiore leggibilità e una rappresentazione gestibile del Prg informatizzato è stato previsto un modello a strati, formato da tanti *livelli informativi* quante sono le categorie di informazioni da memorizzare. Su ogni livello informativo vengono associati elementi grafici ed informazioni in forma tabellare, che caratterizzano ciascun elemento rappresentato (poligono, linea, punto) mediante attributi.
 
