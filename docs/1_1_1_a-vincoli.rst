@@ -16,22 +16,21 @@ modificare la struttura generale proposta.
 Tabella 1
 
 +-------------+-------------+-------------+-------------+-------------+
-| **Vincolo/t |                           | **Riferimen |             |
-| utela**     |                           |to           |             |
-|             |                           | normativo** |             |
+| **Vincolo/tutela**                      |**riferimento              |
+|                                         |normativo**                |
 +=============+=============+=============+=============+=============+
-| **Liv. 1**  | **Liv. 2**  | **Liv. 3**  |             |             |
+| **Liv. 1**  | **Liv. 2**  | **Liv. 3**  |                           |
 +-------------+-------------+-------------+-------------+-------------+
-|Limitazioni  | vincolo     |             | R.D.L.      |             |
-|e vincoli di | idrogeologi |             | 3267/23     |             |
-| tutela      |co (vigente) |             | art. 30     |             |
+|Limitazioni  |vincolo      |             | R.D.L.      |             |
+|e vincoli di |idrogeologico|             | 3267/23     |             |
+| tutela      | (vigente)   |             | art. 30     |             |
 |territoriale |             |             | l.r. n.     |             |
 |             |             |             | 56/1977 smi |             |
 |             |             |             | l.r. 45/89  |             |
 |             |             |             | circ.       |             |
 |             |             |             | 2/AGR/90    |             |
 +-------------+-------------+-------------+-------------+-------------+
-|             | vincolo     | vincolo     |             |             |
+|             |vincolo      |vincolo      |             |             |
 |             | idrogeologi | idrogeologi |             |             |
 |             |co           |co           |             |             |
 |             | modificato  | aggiunto    |             |             |
