@@ -383,8 +383,8 @@ geotecnco
 |utilizzaz  |limitazioni|           |         | 7/LAP/9 |         |         |
 |ione       |geomorfolog|           |         | 6       |         |         |
 |urbanistica|iche       |           |         | e       |         |         |
-|del        |(classe I) |           |         | success |         |
-|territorio |           |           |         | iva     |         |         |         |
+|del        |(classe I) |           |         | success |         |         |
+|territorio |           |           |         | iva     |         |         |
 |           |           |           |         | Nota    |         |         |
 |           |           |           |         | Tecnica |         |         |
 |           |           |           |         | del     |         |         |
@@ -443,7 +443,7 @@ geotecnco
 |           |           |           | rilocal |         |         |         |
 |           |           |           | izzare  |         |         |         |
 |           |           |           | (classe |         |         |         |
-|           |           |         s | IIIc)   |         |         |         |
+|           |           |           | IIIc)   |         |         |         |
 +-----------+-----------+-----------+---------+---------+---------+---------+
 
 Tabella 1 (continua) Vincoli di tutela culturale, paesaggistica e ambientale
