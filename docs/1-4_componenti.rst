@@ -125,5 +125,4 @@ all’interno di ciascuna classe (*layer* o strato informativo).
            :file: disqus.html
 
 .. |image1| image:: media/componenti1.jpg
-   :width: 2in
-   :height: 2in
+   :scale 50%
