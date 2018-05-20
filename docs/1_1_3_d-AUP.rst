@@ -10,9 +10,7 @@ riconfermate sia quelle di nuova previsione.
 Tabella 14 – Aree urbanistiche di progetto
 
 +-----------------+-----------------+-----------------+-----------------+
-| **AREE          |
-| URBANISTICHE DI |
-| PROGETTO**      |
+| **AREE URBANISTICHE DI PROGETTO**                                     |
 +=================+=================+=================+=================+
 | **Codice**      | **Nome**        | **Descrizione** |                 |
 +-----------------+-----------------+-----------------+-----------------+

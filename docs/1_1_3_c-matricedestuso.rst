@@ -19,41 +19,8 @@ compatibili (nelle righe).
 Tabella 13 – usi compatibili con le destinazioni d’uso prevalenti
 
 +-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+-----+
-|     | **U |
-|     | SI  |
-|     | COM |
-|     | PAT |
-|     | IBI |
-|     | LI  |
-|     | CON |
-|     | LE  |
-|     | DES |
-|     | TIN |
-|     | AZI |
-|     | ONI |
-|     | D'U |
-|     | SO  |
-|     | PRE |
-|     | VAL |
-|     | ENT |
-|     | I   |
-|     | **\ |
-|     |  (L |
-|     | egg |
-|     | e   |
-|     | reg |
-|     | ion |
-|     | ale |
-|     | 25  |
-|     | mar |
-|     | zo  |
-|     | 201 |
-|     | 3,  |
-|     | n.  |
-|     | 3,  |
-|     | art |
-|     | .   |
-|     | 12) |
+| **USI COMPATIBILI CON LE DESTINAZIONI D'USOPREVALENTI**         |
+|\ (Legge regioale 25 marzo 2013 n. 3, art. 12)                   |
 +=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+=====+
 |     | **D |     |     |     |     |     |     |     |     |     |
 |     | EST |     |     |     |     |     |     |     |     |     |

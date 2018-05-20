@@ -24,31 +24,26 @@ classificazione delle zone di insediamento commerciale riconosciute
 
 Tabella 4 – Zonizzazione commerciale
 
-+-----------------------------------+-----------------------------------+
-| **ZONIZZAZIONE COMMERCIALE**                                          |
-+===================================+===================================+
-| **Codice**                        | **Nome**                          |
-+-----------------------------------+-----------------------------------+
-| **A1**                            | Addensamenti storici rilevanti    |
-+-----------------------------------+-----------------------------------+
-| **A2**                            | Addensamenti storici secondari    |
-+-----------------------------------+-----------------------------------+
-| **A3**                            | Addensamenti commerciali urbani   |
-|                                   | forti                             |
-+-----------------------------------+-----------------------------------+
-| **A4**                            | Addensamenti commerciali urbani   |
-|                                   | minori (o deboli)                 |
-+-----------------------------------+-----------------------------------+
-| **A5**                            | Addensamenti commerciali          |
-|                                   | extraurbani (arteriali)           |
-+-----------------------------------+-----------------------------------+
-| **L1**                            | Localizzazioni commerciali urbane |
-|                                   | non addensate                     |
-+-----------------------------------+-----------------------------------+
-| **L2**                            | Localizzazioni commerciali        |
-|                                   | urbano-periferiche non addensate  |
-+-----------------------------------+-----------------------------------+
++----------------+--------------------------------------------------+
+| **ZONIZZAZIONE COMMERCIALE**                                      |
++================+==================================================+
+| **Codice**     | **Nome**                                         |
++----------------+--------------------------------------------------+
+| **A1**         | Addensamenti storici rilevanti                   |
++----------------+--------------------------------------------------+
+| **A2**         | Addensamenti storici secondari                   |
++----------------+--------------------------------------------------+
+| **A3**         | Addensamenti commerciali urbani forti            |
++----------------+--------------------------------------------------+
+| **A4**         | Addensamenti commerciali urbani minori (o deboli)|
++----------------+--------------------------------------------------+
+| **A5**         | Addensamenti commerciali extraurbani (arteriali) |
++----------------+--------------------------------------------------+
+| **L1**         | Localizzazioni commerciali urbane non addensate  |
++----------------+--------------------------------------------------+
+| **L2**         | Localizzazioni commerciali urbano-periferiche    |
+|                |  non addensate                                   |
++-------------------------------------------------------------------+
 
 .. raw:: html
            :file: disqus.html
-s

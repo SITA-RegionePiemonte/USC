@@ -7,7 +7,7 @@ del suolo omogenea, descritte secondo la tabella:
 Tabella 8 – Capacità d’uso dei suoli
 
 +-----------------------------------+-----------------------------------+
-| **CAPACITÀ D’USO DEI SUOLI**      |
+| **CAPACITÀ D’USO DEI SUOLI**                                          |
 +===================================+===================================+
 | **CLASSE**                        | **CARATTERISTICHE**               |
 +-----------------------------------+-----------------------------------+

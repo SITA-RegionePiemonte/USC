@@ -98,3 +98,6 @@ geografici.
 Maggiori informazioni sono reperibili all'indirizzo
 http://www.geoportale.piemonte.it/cms/bdtre/progetto-mosaicatura-catastale
 .
+
+.. raw:: html
+           :file: disqus.html

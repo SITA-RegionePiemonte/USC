@@ -74,12 +74,8 @@ Tabella 9 - sintesi delle aree generatrici di consumo di suolo (verifica
 art. 31 ptr)
 
 +-----------------+-----------------+-----------------+-----------------+
-| **SINTESI DELLE |
-| AREE            |
-| GENERATRICI DI  |
-| CONSUMO DI      |
-| SUOLO (VERIFICA |
-| ART. 31 PTR)**  |
+| **SINTESI DELLE AREE GENERATRICI DI CONSUMO DI SUOLO**                |
+|  (VERIFICA ART. 31 PTR)                                               |
 +=================+=================+=================+=================+
 |                 | *Superficie     | *Totale         |                 |
 |                 | (m2)*           | superficie      |                 |

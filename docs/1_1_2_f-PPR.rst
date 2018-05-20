@@ -10,11 +10,7 @@ Tabella 5 – Componenti del Piano Paesaggistico Regionale (gli articoli
 fanno riferimento alle Norme di Attuazione)
 
 +-----------------------+-----------------------+-----------------------+
-| .. rubric:: COMPONENT |
-| I                     |
-|    Ppr                |
-|    :name: componenti- |
-| ppr                   |
+| Componenti del Piano Paesaggistico Regionale                          |
 +=======================+=======================+=======================+
 | **livello 1**         | **livello 2**         | **livello 3**         |
 +-----------------------+-----------------------+-----------------------+
@@ -134,7 +130,7 @@ fanno riferimento alle Norme di Attuazione)
 Tabella 5 (continua)
 
 +-----------------------+-----------------------+-----------------------+
-| **COMPONENTI Ppr**    |
+| **COMPONENTI Ppr**                                                    |
 +=======================+=======================+=======================+
 | **livello 1**         | **livello 2**         | **livello 3**         |
 +-----------------------+-----------------------+-----------------------+
@@ -273,8 +269,8 @@ Tabella 5 (continua)
 |                       |                       | coltivi distinguendo: |
 |                       |                       | i vigneti (SV6)       |
 +-----------------------+-----------------------+-----------------------+
-|    **Componenti       | Disciplina generale   | Porte urbane          |
-|    morfologico-insedi | delle componenti      |                       |
+|**Componenti           | Disciplina generale   | Porte urbane          |
+|morfologico-insedi     | delle componenti      |                       |
 | ative**               | morfologico -         |                       |
 |                       | insediative (art. 34) |                       |
 +-----------------------+-----------------------+-----------------------+
@@ -351,7 +347,7 @@ Tabella 5 (continua)
 Tabella 5 (continua)
 
 +-----------------------+-----------------------+-----------------------+
-| **COMPONENTI Ppr**    |
+| **COMPONENTI Ppr**                                                    |
 +=======================+=======================+=======================+
 | **livello 1**         | **livello 2**         | **livello 3**         |
 +-----------------------+-----------------------+-----------------------+

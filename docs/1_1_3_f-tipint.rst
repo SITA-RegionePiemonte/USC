@@ -11,9 +11,7 @@ edilizia) e di cui all’art. 13 della l.r. 56/1977 s.m.i.
 Tabella 157 – Tipi di intervento edilizio
 
 +-----------------+-----------------+-----------------+-----------------+
-| **TIPI DI       |
-| INTERVENTO      |
-| EDILIZIO**      |
+| **TIPI DI INTERVENTO EDILIZIO**                                       |
 +=================+=================+=================+=================+
 |    **Codice**   | Nome            | **Descrizione** | **Riferimenti** |
 +-----------------+-----------------+-----------------+-----------------+

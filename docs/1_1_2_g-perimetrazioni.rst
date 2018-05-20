@@ -7,15 +7,14 @@ trattate esclusivamente quelle con significato urbanistico.
 Tabella 6 - Perimetrazioni dei centri abitati e del centro storico
 
 +-----------------------------------+-----------------------------------+
-| **PERIMETRAZIONE DEI CENTRI       |
-| ABITATI / CENTRO STORICO**        |
+| **PERIMETRAZIONE DEI CENTRI ABITATI / CENTRO STORICO**                |
 +===================================+===================================+
 | **Nome**                          |                                   |
 +-----------------------------------+-----------------------------------+
 | Perimetrazione del centro abitato | Centro abitato                    |
 | ai sensi della L.R. 56/77 smi,    |                                   |
 | art.12                            |                                   |
-+-----------------------------------+-----------------------------------+
++                                   +-----------------------------------+
 |                                   | Nucleo abitato                    |
 +-----------------------------------+-----------------------------------+
 | Perimetrazione del centro abitato |                                   |
@@ -45,57 +44,57 @@ esistente viene più volte richiamata nel testo della l.r. 56/1977 e
 s.m.i.:
 
 1. all’articolo 14, primo comma, numero 3, lettera d bis) è stabilito
-      che le tavole del Prg contengano l'illustrazione del rapporto tra
-      le previsioni del piano e la perimetrazione del centro abitato di
-      cui all'articolo 12, comma 2, numero 5 bis);
+   che le tavole del Prg contengano l'illustrazione del rapporto tra
+   le previsioni del piano e la perimetrazione del centro abitato di
+   cui all'articolo 12, comma 2, numero 5 bis);
 
 2. all’articolo 14 bis, comma 3 è previsto che con gli elaborati nella
-      componente operativa del Prg conformativo della proprietà, siano
-      definite le azioni, gli interventi e i progetti di trasformazione,
-      di riqualificazione o di nuovo impianto da intraprendere,
-      disciplinandone contenuti tecnici e modalità operative. Tali
-      elaborati comprendono gli elementi necessari a definire
-      l'attuazione delle previsioni relative alle varie parti del
-      territorio oggetto del Prg, nelle scale da 1:5.000 a 1:1.000, in
-      relazione a quanto previsto anche dall'articolo 14, comma 1,
-      numero 3), lettera d bis)
+   componente operativa del Prg conformativo della proprietà, siano
+   definite le azioni, gli interventi e i progetti di trasformazione,
+   di riqualificazione o di nuovo impianto da intraprendere,
+   disciplinandone contenuti tecnici e modalità operative. Tali
+   elaborati comprendono gli elementi necessari a definire
+   l'attuazione delle previsioni relative alle varie parti del
+   territorio oggetto del Prg, nelle scale da 1:5.000 a 1:1.000, in
+   relazione a quanto previsto anche dall'articolo 14, comma 1,
+   numero 3), lettera d bis)
 
 3. all’articolo 17, comma 6, relativamente ai requisiti delle varianti
-      parziali, è previsto che le previsioni insediative, oggetto di
-      variante parziale, debbano interessare aree interne o contigue a
-      centri o nuclei abitati, comunque dotate di opere di
-      urbanizzazione primaria collegate funzionalmente con quelle
-      comunali, o aree edificate dismesse o degradate o da riqualificare
-      anch’esse dotate di opere di urbanizzazione primaria collegate
-      funzionalmente con quelle comunali. A tal fine gli elaborati della
-      variante comprendono una tavola schematica delle urbanizzazioni
-      primarie esistenti negli ambiti oggetto di variante. Le previsioni
-      insediative, oggetto di variante parziale, devono risultare
-      compatibili o complementari con le destinazioni d’uso esistenti;
+   parziali, è previsto che le previsioni insediative, oggetto di
+   variante parziale, debbano interessare aree interne o contigue a
+   centri o nuclei abitati, comunque dotate di opere di
+   urbanizzazione primaria collegate funzionalmente con quelle
+   comunali, o aree edificate dismesse o degradate o da riqualificare
+   anch’esse dotate di opere di urbanizzazione primaria collegate
+   funzionalmente con quelle comunali. A tal fine gli elaborati della
+   variante comprendono una tavola schematica delle urbanizzazioni
+   primarie esistenti negli ambiti oggetto di variante. Le previsioni
+   insediative, oggetto di variante parziale, devono risultare
+   compatibili o complementari con le destinazioni d’uso esistenti;
 
 4. all’articolo 25, secondo comma, lettera n) è previsto che il piano
-      regolatore individui e normi, ove se ne ravvisi l'esigenza, aree
-      di proprietà pubblica all'interno o ai margini dei centri abitati,
-      per la coltivazione di orti urbani, da assegnare in uso
-      convenzionato a privati che ne facciano richiesta;
+   regolatore individui e normi, ove se ne ravvisi l'esigenza, aree
+   di proprietà pubblica all'interno o ai margini dei centri abitati,
+   per la coltivazione di orti urbani, da assegnare in uso
+   convenzionato a privati che ne facciano richiesta;
 
 5. all’articolo 27, comma 5 è previsto che i cimiteri debbano essere
-      collocati alla distanza di almeno 200 metri dal centro abitato,
-      così come definito dall'articolo 12, comma 2, numero 5 bis);
+   collocati alla distanza di almeno 200 metri dal centro abitato,
+   così come definito dall'articolo 12, comma 2, numero 5 bis);
 
 6. all’articolo 29, quarto comma è previsto che le norme relative alle
-      fasce di rispetto di fiumi, torrenti, canali, laghi naturali o
-      artificiali e zone umide, previste al primo, secondo e terzo comma
-      dell’articolo 29 non si applichino negli abitati esistenti, e
-      comunque nell’ambito della loro perimetrazione, se difesi da
-      adeguate opere di protezione.
+   fasce di rispetto di fiumi, torrenti, canali, laghi naturali o
+   artificiali e zone umide, previste al primo, secondo e terzo comma
+   dell’articolo 29 non si applichino negli abitati esistenti, e
+   comunque nell’ambito della loro perimetrazione, se difesi da
+   adeguate opere di protezione.
 
 La *“procedura per la perimetrazione degli abitati”* di cui all'articolo
 12, comma 2, numero 5 bis) è disciplinata all’articolo 81 della l.r.
 56/1977.
 
-Criteri per la perimetrazione
 
+**Criteri per la perimetrazione**
 
 Al fine di applicare correttamente i disposti delle norme su elencate,
 si definisce:
@@ -189,7 +188,6 @@ Perimetrazione del centro storico (art. 24 l.r. 56/1977 e s.m.i.)
 Il centro storico, in generale corrispondente alla "zona A" ai sensi del
 D.M. 1444/1968, deve essere individuato ai sensi dell’Art. 24 della l.r.
 56/1977 e s.m.i.
-
 
 
 

@@ -7,10 +7,7 @@ data area. Comprende sia gli interventi diretti che i piani esecutivi.
 Tabella 16 – Modalità di attuazione
 
 +-------------+-------------+-------------+-------------+-------------+
-| **MODALITA' |
-| DI          |
-| ATTUAZIONE* |
-| *           |
+| **MODALITA' DI ATTUAZIONE**                                         |
 +=============+=============+=============+=============+=============+
 |    **Codice | Nome        |             | **Riferimen |             |
 | **          |             |             | ti**        |             |

@@ -16,9 +16,7 @@ impianto.
 Tabella 11 – morfologie insediative di progetto
 
 +-----------------------+-----------------------+-----------------------+
-| **MORFOLOGIE          |
-| INSEDIATIVE DI        |
-| PROGETTO**            |
+| **MORFOLOGIE INSEDIATIVE DI PROGETTO**                                |
 +=======================+=======================+=======================+
 | **Tipo di morfologia  | **Descrizione**       |                       |
 | di progetto**         |                       |                       |
