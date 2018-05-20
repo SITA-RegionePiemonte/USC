@@ -161,3 +161,7 @@ Tabella 2 - Rischio di incidente rilevante
 Il dato, al momento in forma puntuale, è scaricabile dal Geoportale
 Piemonte ricercando “Attività soggette a normativa Seveso –
 Stabilimenti”.
+
+.. raw:: html
+           :file: disqus.html
+           
