@@ -809,3 +809,6 @@ Tabella 1 (continua) Vincoli antropici
 |                 | inedificabilità |                 | 56/1977 s.m.i.  |
 |                 | generica        |                 |                 |
 +-----------------+-----------------+-----------------+-----------------+
+
+.. raw:: html
+           :file: disqus.html
