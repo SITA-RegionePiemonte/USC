@@ -31,14 +31,13 @@ Tabella 1
 |             |             |             | 2/AGR/90    |             |
 +-------------+-------------+-------------+-------------+-------------+
 |             |vincolo      |vincolo      |             |             |
-|             |idrogeologico| idrogeologi |             |             |
-|             |modificato   |co aggiunto  |             |             |
+|             |idrogeologico|idrogeologico|             |             |
+|             |modificato   |aggiunto     |             |             |
 |             |dal Prg      |             |             |             |
 +-------------+-------------+-------------+-------------+-------------+
-|             |             | vincolo     |             |             |
-|             |             | idrogeologi |             |             |
-|             |             |co           |             |             |
-|             |             | ridotto     |             |             |
+|             |             |vincolo      |             |             |
+|             |             |idrogeologico|             |             |
+|             |             |ridotto      |             |             |
 +-------------+-------------+-------------+-------------+-------------+
 |             | fascia di   | fascia di   | art. 29     |             |
 |             | rispetto    | rispetto di | l.r. n.     |             |
