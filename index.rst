@@ -9,7 +9,7 @@ Contenuti
     :caption: Indice
     :maxdepth: 2
 
-    docs/1____progetto
+    docs/1_____progetto
     docs/1___regole_e_strumenti
     docs/1-1__componenti
     docs/1_1_1_livellibase
