@@ -21,8 +21,11 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |**Liv. 2**    | **Liv. 3**           |                           |
 +--------------+----------------------+---------------------------+
 |vincolo       |                      | R.D.L. 3267/23 art. 30    |
-|idrogeologico |                      | l.r. n. 56/1977 smi       |
-|(vigente)     |                      | l.r. 45/89                |
+|idrogeologico |                      |                           |
+|(vigente)     |                      | l.r. n. 56/1977 smi       |
+|              |                      |                           |
+|              |                      | l.r. 45/89                |
+               |                      |                           |
 |              |                      | circ. 2/AGR/90            |
 +--------------+----------------------+---------------------------+
 |vincolo       |vincolo idrogeologico |                           |
@@ -40,7 +43,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |              |dell’entrata in vigore|                           |
 |              |della l.r. 11/2012    |                           |
 |              |(15 m)                |                           |
-+              +----------------------+---------------------------+
++              +----------------------+                           +
 |              |fascia di rispetto di |                           |
 |              |fiumi, torrenti e     |                           |
 |              |canali non arginati   |                           |
@@ -51,7 +54,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |              |dell’entrata in vigore|                           |
 |              |della l.r. 11/2012    |                           |
 |              | (100 m)              |                           |
-+              +----------------------+---------------------------+
++              +----------------------+                           +
 |              |fascia di rispetto di |                           |
 |              |fiumi, torrenti e     |                           |
 |              |canali arginati, ad   |                           |
@@ -67,24 +70,24 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |              |e idraulica (25 m dal |                           |
 |              |piede esterno degli   |                           |
 |              |argini maestri)       |                           |
-+              +----------------------+---------------------------+
++              +----------------------+                           +
 |              |fascia di rispetto di |                           |
 |              |laghi naturali e      |                           |
 |              |artificiali e delle   |                           |
 |              |zone umide (200 m)    |                           |
 +--------------+----------------------+---------------------------+
-|comune        |Microzone omogenee in | L. 64/74                  |
-|classificato  |prospettiva sismica   | D.M. 4 febbraio 1982      |
-|sismico       |(livello 1)           | l.r. 19/85                |
+|comune        |Microzone omogenee in | L. 64/74;                 |
+|classificato  |prospettiva sismica   | D.M. 4 febbraio 1982;     |
+|sismico       |(livello 1)           | l.r. 19/85;               |
 |              |                      | D.G.R. 11-13058 del       |
-|              |                      | 19/01/2010                |
+|              |                      | 19/01/2010;               |
 |              |                      | D.G.R. 4-3084 del         |
 |              |                      | 12/12/2011                |
 +--------------+----------------------+---------------------------+
-|abitato da    |                      | L. 445/1908               |
-|trasferire    |                      | L. 64/74 art. 30 bis      |
+|abitato da    |                      | L. 445/1908;              |
+|trasferire    |                      | L. 64/74 art. 30 bis;     |
 |              |                      | l.r. n. 56/1977 smi       |
-+--------------+----------------------+---------------------------+
++--------------+----------------------+                           +
 |abitato da    |                      |                           |
 |consolidare   |                      |                           |
 +--------------+----------------------+---------------------------+
@@ -94,22 +97,22 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |PAI (piano    |fascia di deflusso    |Piano stralcio per         |
 |di assetto    |della piena (fascia   |l'Assetto Idrogeologico    |
 |idrogeologico)|"a" del PAI)          |(PAI)                      |
-+              +----------------------+---------------------------+
++              +----------------------+                           +
 |              |fascia di esondazione |                           |
 |              |(fascia "b"  del PAI) |                           |
-+              +----------------------+---------------------------+
++              +----------------------+                           +
 |              |area di inondazione   |                           |
 |              |per piena catastrofica|                           |
 |              |(fascia "c" del PAI)  |                           |
-+              +----------------------+---------------------------+
++              +----------------------+                           +
 |              |limite di progetto tra|                           |
 |              |fascia “b” e          |                           |
 |              |fascia “c”            |                           |
-+              +----------------------+---------------------------+
++              +----------------------+                           +
 |              |aree inondabili       |                           |
 |              |retrostanti i limiti  |                           |
 |              |“b” di progetto       |                           |
-+              +----------------------+---------------------------+
++              +----------------------+                           +
 |              |aree a rischio molto  |                           |
 |              |elevato vigenti (rme) |                           |
 +--------------+----------------------+---------------------------+
