@@ -93,7 +93,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 +--------------+----------------------+---------------------------+
 |PAI (piano    |fascia di deflusso    |Piano stralcio per         |
 |di assetto    |della piena (fascia   |l'Assetto Idrogeologico    |
-|idrogeologico)|"a" del PAI           | (PAI)                     |
+|idrogeologico)|"a" del PAI)          | (PAI)                     |
 +              +----------------------+---------------------------+
 |              |fascia di esondazione |                           |
 |              |(fascia "b"  del PAI) |                           |
