@@ -93,7 +93,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 +--------------+----------------------+---------------------------+
 |PAI (piano    |fascia di deflusso    |Piano stralcio per         |
 |di assetto    |della piena (fascia   |l'Assetto Idrogeologico    |
-|idrogeologico)|"a" del PAI)          | (PAI)                     |
+|idrogeologico)|"a" del PAI)          |(PAI)                      |
 +              +----------------------+---------------------------+
 |              |fascia di esondazione |                           |
 |              |(fascia "b"  del PAI) |                           |
@@ -113,7 +113,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |              |aree a rischio molto  |                           |
 |              |elevato vigenti (rme) |                           |
 +--------------+----------------------+---------------------------+
-|pgra (piano   |H        - P3         |                           |
+|PGRA (piano   |H        - P3         |                           |
 |di gestione   |aree interessate da   |                           |
 |rischio       |alluvione frequente P3|                           |
 +alluvioni)    +----------------------+---------------------------+
@@ -126,168 +126,110 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |              |aree interessate da   |                           |
 |              |alluvione rara        |                           |
 +--------------+----------------------+---------------------------+
-|Aree a rischio|                      | d.lgs. 163/2006           |
-|archeologico  |                      | artt. 95 e 96             |
+|Aree a rischio|                      |d.lgs. 163/2006            |
+|archeologico  |                      |artt. 95 e 96              |
 +--------------+----------------------+---------------------------+
 
-Tabella 1 (continua) Limitazioni e idoneità di carattere geologico, geomorfologico,
+Tabella 1b - Limitazioni e idoneità di carattere geologico, geomorfologico,
 geotecnco
 
++---------------------------------------------+-------------------+
+|**Vincolo/tutela**                           |**riferimento      |
+|                                             |normativo**        |
++===========+===================+=============+=========+=========+
+| **Liv. 2**| **Liv. 3**        |             |                   |
++-----------+-------------------+-------------+---------+---------+
+|Frana      | FA      Attivo                  |Circolare PGR      |
+|           |                                 |n. 7/LAP/96        |
+|(Legenda   |*Per i codici relativi alle varie|e successiva       |
+|regionale) |tipologie di movimento occorre   |Nota Tecnica del   |
+|           |fare riferimento alle indicazioni|1999               |
+|           |contenute al punto 3 della parte |                   |
+|           |II dell'Allegato A alla DGR n.   |DGR n. 64-741 del  |
+|           |64-7417 del 7/4/2014*            |7/4/2014           |
++           +-------------------+-------------+---------+---------+
+|           |FQ       Quiescente              |                   |
++           +-------------------+-------------+---------+---------+
+|           |FS       Stabilizzato            |                   |
++-----------+-------------------+-------------+---------+---------+
+|Conoide    |CAe                |CAe1         |                   |
+|(Legenda   |Attivo a           |Senza        |                   |
+|regionale) |pericolosità       |interventi   |                   |
++           +molto elevata      +-------------+-------------------+
+|           |                   |CAe2         |                   |
+|           |                   |con          |                   |
+|           |                   |interventi   |                   |
+|           |                   |migliorativi |                   |
++           +-------------------+-------------+---------+---------+
+|           |CAb                |CAb1         |                   |
+|           |Attivo a           |Senza        |                   |
+|           |pericolosità       |interventi   |                   |
++           |elevata            +-------------+---------+---------+
+|           |                   |CAb2         |                   |
+|           |                   |Con          |                   |
+|           |                   |interventi   |                   |
+|           |                   |migliorativi |                   |
++           +-------------------+-------------+---------+---------+
+|           |CAm                |CAm1         |                   |
+|           |Attivo a           |con          |                   |
+|           |pericolosità media/|interventi   |                   |
+|           |moderata           |migliorativi |                   |
++           +                   +-------------+---------+---------+
+|           |                   |CAm2         |                   |
+|           |                   |Senza        |                   |
+|           |                   |interventi   |                   |
++           +-------------------+-------------+---------+---------+
+|           |CS                 |             |                   |
+|           |Stabilizzato a     |             |                   |
+|           |pericolosità media/|             |                   |
+|           |moderata           |             |                   |
++-----------+-------------------+-------------+-------------------+
+|Esondazione|Ee\:sub:`L`                      |                   |
+|reticolo   |Lineare a pericolosità           |                   |
+|minore     |molto elevata                    |                   |
++(Legenda   +-------------------+-------------+-------------------+
+|regionale  |Eb\:sub:`L`                      |                   |
+|           |Lineare a pericolosità elevata   |                   |
++           +-------------------+-------------+-------------------+
+|           |Em\:sub:`L`                      |                   |
+|           |Lineare a pericolosità media/    |                   |
+|           |moderata                         |                   |
++           +-------------------+-------------+-------------------+
+|           |Ee\:sub:`A`                      |                   |
+|           |Areale a pericolosità            |                   |
+|           |molto elevata                    |                   |
++           +-------------------+-------------+-------------------+
+|           |Eb\:sub:`A`                      |                   |
+|           |Areale a pericolosità elevata    |                   |
++           +-------------------+-------------+-------------------+
+|           |Em\:sub:`A`                      |                   |
+|           |Areale a pericolosità media/     |                   |
+|           |moderata                         |                   |
++-----------+-------------------+-------------+-------------------+
+|Valanga    |Ve                 |Ve1          |                   |
+|(Legenda   |pericolosità       |Senza        |                   |
+|regionale) |elevata            |interventi   |                   |
++           +                   +-------------+-------------------+
+|           |                   |Ve2          |                   |
+|           |                   |Con          |                   |
+|           |                   |interventi   |                   |
+|           |                   |migliorativi |                   |
++           +-------------------+-------------+-------------------+
+|           |Vm                 |Vm1          |                   |
+|           |Pericolosità       |Senza        |                   |
+|           |moderata           |interventi   |                   |
++           +                   +-------------+-------------------+
+|           |                   |Vm2          |                   |
+|           |                   |Con          |                   |
+|           |                   |interventi   |                   |
+|           |                   |migliorativi |                   |
++-----------+-------------------+-------------+-------------------+
+
+Tabella 1c - Idoneità geologica all'utilizzazione urbanistica del territorio
 +-------------------------------------------------------+-------------------+
 |**Vincolo/tutela**                                     |**riferimento      |
 |                                                       |normativo**        |
 +===========+===========+===========+=========+=========+=========+=========+
-|           | **Liv. 2**| **Liv. 3**          |         |                   |
-+-----------+-----------+-----------+---------+---------+---------+---------+
-|           |Frana      | FA        | Attivo  |         | *Per i  | Circola |
-|           |           |           |         |         | codici  | re      |
-|           |(Legenda   |           |         |         | relativ | PGR n.  |
-|           |regionale) |           |         |         | i       | 7/LAP/9 |
-|           |           |           |         |         | alle    | 6       |
-|           |           |           |         |         | varie   | e       |
-|           |           |           |         |         | tipolog | success |
-|           |           |           |         |         | ie      | iva     |
-|           |           |           |         |         | di      | Nota    |
-|           |           |           |         |         | movimen | Tecnica |
-|           |           |           |         |         | to      | del     |
-|           |           |           |         |         | occorre | 1999    |
-|           |           |           |         |         | fare    |         |
-|           |           |           |         |         | riferim | DGR n.  |
-|           |           |           |         |         | ento    | 64-7417 |
-|           |           |           |         |         | alle    | del     |
-|           |           |           |         |         | indicaz | 7/4/201 |
-|           |           |           |         |         | ioni    | 4       |
-|           |           |           |         |         | contenu |         |
-|           |           |           |         |         | te      |         |
-|           |           |           |         |         | al      |         |
-|           |           |           |         |         | punto 3 |         |
-|           |           |           |         |         | della   |         |
-|           |           |           |         |         | Parte   |         |
-|           |           |           |         |         | II      |         |
-|           |           |           |         |         | dell’al |         |
-|           |           |           |         |         | legato  |         |
-|           |           |           |         |         | A alla  |         |
-|           |           |           |         |         | DGR n.  |         |
-|           |           |           |         |         | 64-7417 |         |
-|           |           |           |         |         | del     |         |
-|           |           |           |         |         | 7/4/14* |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | FQ        | Quiesce |         |         |         |
-|           |           |           | nte     |         |         |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | FS        | Stabili |         |         |         |
-|           |           |           | zzato   |         |         |         |
-+-----------+-----------+-----------+---------+---------+---------+---------+
-|           | Conoide   | CAe       | Attivo  | CAe1    | Senza   |         |
-|           | (Legenda  |           | a       |         | interve |         |
-|           | regionale)|           | pericol |         | nti     |         |
-|           |           |           | osità   |         |         |         |
-|           |           |           | molto   |         |         |         |
-|           |           |           | elevata |         |         |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           |           |         | CAe2    | Con     |         |
-|           |           |           |         |         | interve |         |
-|           |           |           |         |         | nti     |         |
-|           |           |           |         |         | miglior |         |
-|           |           |           |         |         | ativi   |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | CAb       | Attivo  | CAb1    | Senza   |         |
-|           |           |           | a       |         | interve |         |
-|           |           |           | pericol |         | nti     |         |
-|           |           |           | osità   |         |         |         |
-|           |           |           | elevata |         |         |         |
-+           +           +           +         +---------+---------+---------+
-|           |           |           |         | CAb2    | Con     |         |
-|           |           |           |         |         | interve |         |
-|           |           |           |         |         | nti     |         |
-|           |           |           |         |         | miglior |         |
-|           |           |           |         |         | ativi   |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | CAm       | Attivo  | CAm1    | Con     |         |
-|           |           |           | a       |         | interve |         |
-|           |           |           | pericol |         | nti     |         |
-|           |           |           | osità   |         | miglior |         |
-|           |           |           | media/m |         | ativi   |         |
-|           |           |           | oderata |         |         |         |
-+           +           +           +         +---------+---------+---------+
-|           |           |           |         | CAm2    | Senza   |         |
-|           |           |           |         |         | interve |         |
-|           |           |           |         |         | nti     |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | CS        | Stabili |         |         |         |
-|           |           |           | zzato   |         |         |         |
-|           |           |           | a       |         |         |         |
-|           |           |           | pericol |         |         |         |
-|           |           |           | osità   |         |         |         |
-|           |           |           | media/m |         |         |         |
-|           |           |           | oderata |         |         |         |
-+-----------+-----------+-----------+---------+---------+---------+---------+
-|           | Esondaz   | Ee\       | Lineare |         |         |         |
-|           | ione      | :sub:`L`  | a       |         |         |         |
-|           | reticolo  |           | pericol |         |         |         |
-|           | minore    |           | osità   |         |         |         |
-|           |           |           | molto   |         |         |         |
-|           | (Legenda  |           | elevata |         |         |         |
-|           | regionale |           |         |         |         |         |
-|           |           |           |         |         |         |         |
-|           |           |           |         |         |         |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | Eb\       | Lineare |         |         |         |
-|           |           | :sub:`L`  | a       |         |         |         |
-|           |           |           | pericol |         |         |         |
-|           |           |           | osità   |         |         |         |
-|           |           |           | elevata |         |         |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | Em\       | Lineare |         |         |         |
-|           |           | :sub:`L`  | a       |         |         |         |
-|           |           |           | pericol |         |         |         |
-|           |           |           | osità   |         |         |         |
-|           |           |           | media/m |         |         |         |
-|           |           |           | oderata |         |         |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | Ee\       | Areale  |         |         |         |
-|           |           | :sub:`A`  | a       |         |         |         |
-|           |           |           | pericol |         |         |         |
-|           |           |           | osità   |         |         |         |
-|           |           |           | molto   |         |         |         |
-|           |           |           | elevata |         |         |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | Eb\       | Areale  |         |         |         |
-|           |           | :sub:`A`  | a       |         |         |         |
-|           |           |           | pericol |         |         |         |
-|           |           |           | osità   |         |         |         |
-|           |           |           | elevata |         |         |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | Em\       | Areale  |         |         |         |
-|           |           | :sub:`A`  | a       |         |         |         |
-|           |           |           | pericol |         |         |         |
-|           |           |           | osità   |         |         |         |
-|           |           |           | media/m |         |         |         |
-|           |           |           | oderata |         |         |         |
-+           +-----------+-----------+---------+---------+---------+---------+
-|           | Valanga   | Ve        | Pericol | Ve1     | Senza   |         |
-|           | (Legenda  |           | osità   |         | interve |         |
-|           | regionale)|           | elevata |         | nti     |         |
-|           |           |           |         |         |         |         |
-|           |           |           |         |         |         |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           |           |         | Ve2     | Con     |         |
-|           |           |           |         |         | interve |         |
-|           |           |           |         |         | nti     |         |
-|           |           |           |         |         | miglior |         |
-|           |           |           |         |         | ativi   |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | Vm        | Pericol | Vm1     | Senza   |         |
-|           |           |           | osità   |         | interve |         |
-|           |           |           | moderat |         | nti     |         |
-|           |           |           | a       |         |         |         |
-+           +           +           +---------+---------+---------+---------+
-|           |           |           |         | Vm2     | Con     |         |
-|           |           |           |         |         | interve |         |
-|           |           |           |         |         | nti     |         |
-|           |           |           |         |         | miglior |         |
-|           |           |           |         |         | ativi   |         |
-+-----------+-----------+-----------+---------+---------+---------+---------+
 |idoneità   |Ambiti     | 1         |         | Circola |         |         |
 |geologica  |senza      |           |         | re      |         |         |
 |all'       |particolari|           |         | PGR n.  |         |         |
