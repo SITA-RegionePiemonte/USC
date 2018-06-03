@@ -180,25 +180,25 @@ geotecnco (*per i codici relativi alle varie tipologie di movimento occorre fare
 |           |Stabilizzato a pericolosità      |                   |
 |           |media/moderata                   |                   |
 +-----------+-------------------+-------------+                   +
-|Esondazione|Ee \:sub:`L`                     |                   |
+|Esondazione|Ee\ :sub:`L`                     |                   |
 |reticolo   |Lineare a pericolosità           |                   |
 |minore     |molto elevata                    |                   |
 +(Legenda   +-------------------+-------------+                   +
-|regionale  |Eb \:sub:`L`                     |                   |
+|regionale  |Eb\ :sub:`L`                     |                   |
 |           |Lineare a pericolosità elevata   |                   |
 +           +-------------------+-------------+                   +
-|           |Em \:sub:`L`                     |                   |
+|           |Em\ :sub:`L`                     |                   |
 |           |Lineare a pericolosità media/    |                   |
 |           |moderata                         |                   |
 +           +-------------------+-------------+                   +
-|           |Ee \:sub:`A`                     |                   |
+|           |Ee\ :sub:`A`                     |                   |
 |           |Areale a pericolosità            |                   |
 |           |molto elevata                    |                   |
 +           +-------------------+-------------+                   +
-|           |Eb \:sub:`A`                     |                   |
+|           |Eb\ :sub:`A`                     |                   |
 |           |Areale a pericolosità elevata    |                   |
 +           +-------------------+-------------+                   +
-|           |Em \:sub:`A`                     |                   |
+|           |Em\ :sub:`A`                     |                   |
 |           |Areale a pericolosità media/     |                   |
 |           |moderata                         |                   |
 +-----------+-------------------+-------------+                   +
