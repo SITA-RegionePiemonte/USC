@@ -226,6 +226,7 @@ geotecnco
 +-----------+-------------------+-------------+-------------------+
 
 Tabella 1c - Idoneità geologica all'utilizzazione urbanistica del territorio
+
 +-------------------------------------------------------+-------------------+
 |**Vincolo/tutela**                                     |**riferimento      |
 |                                                       |normativo**        |
