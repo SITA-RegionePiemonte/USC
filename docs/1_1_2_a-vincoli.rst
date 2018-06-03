@@ -184,25 +184,25 @@ geotecnco
 |           |pericolosità media/|             |                   |
 |           |moderata           |             |                   |
 +-----------+-------------------+-------------+-------------------+
-|Esondazione|Ee:sub:`L`                       |                   |
+|Esondazione|Ee \:sub:`L`                     |                   |
 |reticolo   |Lineare a pericolosità           |                   |
 |minore     |molto elevata                    |                   |
 +(Legenda   +-------------------+-------------+-------------------+
-|regionale  |Eb\:sub:`L`                      |                   |
+|regionale  |Eb \:sub:`L`                     |                   |
 |           |Lineare a pericolosità elevata   |                   |
 +           +-------------------+-------------+-------------------+
-|           |Em\:sub:`L`                      |                   |
+|           |Em \:sub:`L`                     |                   |
 |           |Lineare a pericolosità media/    |                   |
 |           |moderata                         |                   |
 +           +-------------------+-------------+-------------------+
-|           |Ee\:sub:`A`                      |                   |
+|           |Ee \:sub:`A`                     |                   |
 |           |Areale a pericolosità            |                   |
 |           |molto elevata                    |                   |
 +           +-------------------+-------------+-------------------+
-|           |Eb\:sub:`A`                      |                   |
+|           |Eb \:sub:`A`                     |                   |
 |           |Areale a pericolosità elevata    |                   |
 +           +-------------------+-------------+-------------------+
-|           |Em\:sub:`A`                      |                   |
+|           |Em \:sub:`A`                     |                   |
 |           |Areale a pericolosità media/     |                   |
 |           |moderata                         |                   |
 +-----------+-------------------+-------------+-------------------+
@@ -227,74 +227,33 @@ geotecnco
 
 Tabella 1c - Idoneità geologica all'utilizzazione urbanistica del territorio
 
-+-------------------------------------------------------+-------------------+
-|**Vincolo/tutela**                                     |**riferimento      |
-|                                                       |normativo**        |
-+===========+===========+===========+=========+=========+=========+=========+
-|idoneità   |Ambiti     | 1         |         | Circola |         |         |
-|geologica  |senza      |           |         | re      |         |         |
-|all'       |particolari|           |         | PGR n.  |         |         |
-|utilizzaz  |limitazioni|           |         | 7/LAP/9 |         |         |
-|ione       |geomorfolog|           |         | 6       |         |         |
-|urbanistica|iche       |           |         | e       |         |         |
-|del        |(classe I) |           |         | success |         |         |
-|territorio |           |           |         | iva     |         |         |
-|           |           |           |         | Nota    |         |         |
-|           |           |           |         | Tecnica |         |         |
-|           |           |           |         | del     |         |         |
-|           |           |           |         | 1999    |         |         |
-|           |           |           |         |         |         |         |
-+           +-----------+-----------+---------+---------+---------+---------+
-|           |Ambiti     | 2         |         |         |         |         |
-|           |a          |           |         |         |         |         |
-|           |moderata   |           |         |         |         |         |
-|           |pericolosit|           |         |         |         |         |
-|           |à          |           |         |         |         |         |
-|           |geomorfolog|           |         |         |         |         |
-|           |ica        |           |         |         |         |         |
-|           |(classe II)|           |         |         |         |         |
-|           |           |           |         |         |         |         |
-+           +-----------+-----------+---------+---------+---------+---------+
-|           |Ambiti     | 3A        |Ambiti   |         |         |         |
-|           |a          |           |inedifi- |         |         |         |
-|           |pericolosit|           |cati     |         |         |         |
-|           |à          |           |inidonei |         |         |         |
-|           |elevata    |           |a        |         |         |         |
-|           |(classe    |           |nuovi    |         |         |         |
-|           |III)       |           |insedia- |         |         |         |
-|           |           |           |menti    |         |         |         |
-|           |           |           |(classe  |         |         |         |
-|           |           |           |IIIa)    |         |         |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | 3B        |Ambiti   | 3B1     | Classe  |         |
-|           |           |           |edificati|         | 3B1     |         |
-|           |           |           |da       |         |         |         |
-|           |           |           |sottopor-|         |         |         |
-|           |           |           |re ad    |         |         |         |
-|           |           |           |intervent|         |         |         |
-|           |           |           |i di     |         |         |         |
-|           |           |           |riassetto|         |         |         |
-|           |           |           |(classe  |         |         |         |
-|           |           |           |IIIb)    |         |         |         |
-+           +           +           +         +---------+---------+---------+
-|           |           |           |         | 3B2     | Classe  |         |
-|           |           |           |         |         | 3B2     |         |
-+           +           +           +         +---------+---------+---------+
-|           |           |           |         | 3B3     | Classe  |         |
-|           |           |           |         |         | 3B3     |         |
-+           +           +           +         +---------+---------+---------+
-|           |           |           |         | 3B4     | Classe  |         |
-|           |           |           |         |         | 3B4     |         |
-+           +           +-----------+---------+---------+---------+---------+
-|           |           | 3C        | Ambiti  |         |         |         |
-|           |           |           | edifica |         |         |         |
-|           |           |           | ti      |         |         |         |
-|           |           |           | da      |         |         |         |
-|           |           |           | rilocal |         |         |         |
-|           |           |           | izzare  |         |         |         |
-|           |           |           | (classe |         |         |         |
-|           |           |           | IIIc)   |         |         |         |
-+-----------+-----------+-----------+---------+---------+---------+---------+
++-----------------------+-------------------+------------+-----------------+
+|**Vincolo/tutela**                                      |**riferimento    |
+|                                                        |normativo**      |
++=======================+===================+============+=========+=======+
+|Ambiti senza particolari limitazioni                    |Circolare PGR    |
+|geomorfologiche                                         |n. 7/LAP/96      |
+|(classe I)                                              |e successiva     |
++-----------------------+-------------------+------------+Nota Tecnica     |
+|Ambiti a moderata pericolosità                          |del 1999         |
+|geomorfologica (classe II)                              |                 |
++-----------------------+-------------------+------------+                 +
+|Ambiti a pericolosità  |3A                              |                 |
+|elevata (classe III)   |Ambiti inedificati inidonei a   |                 |
+|                       |nuovi insediamenti (classe IIIa)|                 |
+|                       +-------------------+------------+                 +
+|                       |3B                 |Classe IIIb1|                 |
+|                       |Ambiti edificati   |------------+                 +
+|                       |da sottoporre a    |Classe IIIb2|                 |
+|                       |interventi di      |------------+                 +
+|                       |riassetto          |Classe IIIb3|                 |
+|                       |(classe IIIb)      |------------+                 +
+|                       |                   |Classe IIIb4|                 |
++                       +-------------------+------------+                 +
+|                       |3C                              |                 |
+|                       |Ambiti edificati da             |                 +
+|                       |rilocalizzare (Classe IIIc)     |                 |
++-----------------------+-------------------+------------+-----------------+
 
 Tabella 1 (continua) Vincoli di tutela culturale, paesaggistica e ambientale
 
