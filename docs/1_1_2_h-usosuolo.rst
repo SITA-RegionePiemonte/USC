@@ -11,9 +11,9 @@ di copertura secondo le categorie in tabella.
 Tabella 7 . Copertura del suolo (le classi fanno riferimento alla BDTRE)
 
 +-----------+-----------+-----------+-----------+-----------+-----------+
-| **COPERTURA DEL SUOLO**                                                |
+| **COPERTURA DEL SUOLO**                                               |
 +===========+===========+===========+===========+===========+===========+
-| **TEMA**  |**CLASSE** | **TIPO**  | **NOTE**  |           |           |
+| **TEMA**  |**CLASSE**             | **TIPO**              | **NOTE**  |
 +-----------+-----------+-----------+-----------+-----------+-----------+
 | Aree      | Coltura   | *seminati | seminativ | In aree   |           |
 | agro-fore | agricola  | vi*       | i         | irrigue   |           |
