@@ -39,11 +39,11 @@ Tabella 7 . Copertura del suolo (le classi fanno riferimento alla BDTRE)
 +-----------+-----------+-----------+-----------+-----------+-----------+
 |           |           |           | frutteto  |           |           |
 +-----------+-----------+-----------+-----------+-----------+-----------+
-|           |           | *colture  | colture   |           |           |
-|           |           | orticole  | orticole  |           |           |
-|           |           | e         | specializ |           |           |
-|           |           | floricole | zate      |           |           |
-|           |           | *         | (orti)    |           |           |
+|           |           |*colture   | colture   |           |           |
+|           |           |orticole   | orticole  |           |           |
+|           |           |e          | specializ |           |           |
+|           |           |floricole* | zate      |           |           |
+|           |           |           | (orti)    |           |           |
 +-----------+-----------+-----------+-----------+-----------+-----------+
 |           |           |           | colture   |           |           |
 |           |           |           | floricole |           |           |
