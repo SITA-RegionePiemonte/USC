@@ -53,7 +53,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |              |come esistenti prima  |                           |
 |              |dell’entrata in vigore|                           |
 |              |della l.r. 11/2012    |                           |
-|              | (100 m)              |                           |
+|              |(100 m)              |                           |
 +              +----------------------+                           +
 |              |fascia di rispetto di |                           |
 |              |fiumi, torrenti e     |                           |
