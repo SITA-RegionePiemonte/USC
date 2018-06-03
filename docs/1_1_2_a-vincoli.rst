@@ -131,7 +131,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 +--------------+----------------------+---------------------------+
 
 Tabella 1b - Limitazioni e idoneità di carattere geologico, geomorfologico,
-geotecnco
+geotecnco (*per i codici relativi alle varie tipologie di movimento occorre fare riferimento alle indicazioni contenute al punto 3 della parte II dell'Allegato A alla DGR n. 64-7417 del 7/4/2014*)
 
 +---------------------------------------------+-------------------+
 |**Vincolo/tutela**                           |**riferimento      |
@@ -140,21 +140,14 @@ geotecnco
 | **Liv. 2**| **Liv. 3**        |             |                   |
 +-----------+-------------------+-------------+-------------------+
 |Frana      | FA      Attivo                  |Circolare PGR      |
-|           |                                 |n. 7/LAP/96        |
-|(Legenda   |*Per i codici relativi alle varie|e successiva       |
-|regionale) |tipologie di movimento occorre   |Nota Tecnica del   |
-|           |fare riferimento alle indicazioni|1999               |
-|           |contenute al punto 3 della parte |                   |
-|           |II dell'Allegato A alla DGR n.   |DGR n. 64-741 del  |
-|           |64-7417 del 7/4/2014*            |7/4/2014           |
-+           +-------------------+-------------+                   +
-|           |FQ       Quiescente              |                   |
-+           +-------------------+-------------+                   +
-|           |FS       Stabilizzato            |                   |
++           +-------------------+-------------+n. 7/LAP/96        +
+|(Legenda   |FQ       Quiescente              |e successiva       |
++regionale) +-------------------+-------------+Nota Tecnica del   +
+|           |FS       Stabilizzato            |1999               |
 +-----------+-------------------+-------------+                   +
-|Conoide    |CAe                |CAe1         |                   |
-|(Legenda   |Attivo a           |Senza        |                   |
-|regionale) |pericolosità       |interventi   |                   |
+|Conoide    |CAe                |CAe1         |DGR n. 64-741 del  |
+|(Legenda   |Attivo a           |Senza        |7/4/2014           |
+|regionale) |pericolosità       |interventi   |                   +
 +           +molto elevata      +-------------+                   +
 |           |                   |CAe2         |                   |
 |           |                   |con          |                   |
