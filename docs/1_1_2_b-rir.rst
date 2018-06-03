@@ -47,116 +47,110 @@ opportune azioni di pianificazione all’interno delle aree di danno
 Tabella 2 - Rischio di incidente rilevante
 
 +-----------------------+-----------------------+-----------------------+
-| **RISCHIO DI                                                          |
-| INCIDENTE RILEVANTE**                                                 |
-+=======================+=======================+=======================+
-| **AREE**              | **DESCRIZIONE**       | **NORMATIVA DI        |
-|                       |                       | RIFERIMENTO**         |
-+-----------------------+-----------------------+-----------------------+
-| **Aree di danno**     | area all’interno      | DM 9/5/2001           |
-|                       | della quale gli       |                       |
-|                       | effetti fisici        |                       |
-|                       | derivati dagli        |                       |
-|                       | scenari incidentali   |                       |
-|                       | ipotizzabili possono  |                       |
-|                       | determinare danni a   |                       |
-|                       | persone e/o danni a   |                       |
-|                       | strutture, sulla base |                       |
-|                       | del superamento dei   |                       |
-|                       | valori di soglia      |                       |
-|                       | espressi nella        |                       |
-|                       | tabella 2 del punto   |                       |
-|                       | 6.2 dell’allegato al  |                       |
-|                       | d.m. ll.pp. 9 maggio  |                       |
-|                       | 2001.                 |                       |
-+-----------------------+-----------------------+-----------------------+
-| **Area di             | area circostante      | Dgr 17-377-del        |
-| esclusione**          | un’area/attività      | 26/7/2010 Pag 76      |
-|                       | produttiva non        |                       |
-|                       | direttamente          | Approvazione di Linee |
-|                       | coinvolta dalle aree  | guida per la          |
-|                       | di danno, qualora     | valutazione del       |
-|                       | disponibili. L’area   | rischio industriale   |
-|                       | di esclusione deve    | nell'ambito della     |
-|                       | essere definita per   | pianificazione        |
-|                       | le Attività Seveso e  | territoriale.         |
-|                       | per le situazioni     |                       |
-|                       | definite Molto        |                       |
-|                       | Critiche e Critiche   |                       |
-|                       | al capitolo 3.        |                       |
-|                       |                       |                       |
-|                       | L’Area di Esclusione  |                       |
-|                       | presenta un raggio    |                       |
-|                       | dal confine           |                       |
-|                       | dell’attività o       |                       |
-|                       | dell’area, pari a 200 |                       |
-|                       | m, per livelli di     |                       |
-|                       | criticità alta (Molto |                       |
-|                       | Critico) e pari a 100 |                       |
-|                       | m, per livelli di     |                       |
-|                       | criticità medi        |                       |
-|                       | (Critico).            |                       |
-|                       |                       |                       |
-|                       | Nel caso di Attività  |                       |
-|                       | Severo l’Area di      |                       |
-|                       | Esclusione è          |                       |
-|                       | determinata ampliando |                       |
-|                       | di 100 m il raggio    |                       |
-|                       | delle aree di danno   |                       |
-|                       | per eventi energetici |                       |
-|                       | (incendi e            |                       |
-|                       | esplosioni) e di 200  |                       |
-|                       | m il raggio delle     |                       |
-|                       | aree di danno per     |                       |
-|                       | eventi di tipo        |                       |
-|                       | tossico, oppure, se   |                       |
-|                       | più cautelativo,      |                       |
-|                       | vincolando un’area di |                       |
-|                       | estensione pari a 200 |                       |
-|                       | m dal confine dell’   |                       |
-|                       | area/attività per     |                       |
-|                       | eventi energetici e   |                       |
-|                       | di 300 m per eventi   |                       |
-|                       | di tipo tossico.      |                       |
-+-----------------------+-----------------------+-----------------------+
-| **Area di             | area più vasta        | Dgr 17-377 del        |
-| osservazione**        | intorno               | 26/7/2010 Pag 76      |
-|                       | all’area/attività     | “Approvazione di      |
-|                       | produttiva            | Linee guida per la    |
-|                       | identificata al fine  | valutazione del       |
-|                       | di definire sul       | rischio industriale   |
-|                       | territorio            | nell'ambito della     |
-|                       | caratteristiche       | pianificazione        |
-|                       | idonee a proteggere   | territoriale.”        |
-|                       | la popolazione        |                       |
-|                       | nell’eventualità di   |                       |
-|                       | un’emergenza          |                       |
-|                       | industriale. Di       |                       |
-|                       | solito quest’area     |                       |
-|                       | coincide con l’area   |                       |
-|                       | più estesa            |                       |
-|                       | considerata nel Piano |                       |
-|                       | di Emergenza Esterna  |                       |
-|                       | e indicativamente     |                       |
-|                       | dovrà avere           |                       |
-|                       | un’estensione di      |                       |
-|                       | almeno 500 m dal      |                       |
-|                       | confine               |                       |
-|                       | dell’attività. In     |                       |
-|                       | particolare, l’area   |                       |
-|                       | non ha                |                       |
-|                       | necessariamente forma |                       |
-|                       | circolare, ma è       |                       |
-|                       | opportunamente        |                       |
-|                       | calibrata sugli       |                       |
-|                       | elementi morfologici, |                       |
-|                       | viari, o sugli        |                       |
-|                       | insediamenti          |                       |
-|                       | esistenti, includendo |                       |
-|                       | quelli significativi  |                       |
-|                       | situati a margine     |                       |
-|                       | dell’area stessa.     |                       |
-+-----------------------+-----------------------+-----------------------+
+|**RISCHIO DI                                                           |
+|INCIDENTE RILEVANTE**                                                  |
++===================+===========================+=======================+
+|**AREE**           |**DESCRIZIONE**            |**NORMATIVA DI         |
+|                   |                           |RIFERIMENTO**          |
++-------------------+---------------------------+-----------------------+
+|**Aree di danno**  |area all’interno della     |DM 9/5/2001            |
+|                   |quale gli effetti fisici   |                       |
+|                   |derivati dagli scenari     |                       |
+|                   |incidentali ipotizzabili   |                       |
+|                   |possono determinare danni  |                       |
+|                   |a persone e/o danni a      |                       |
+|                   |strutture, sulla base del  |                       |
+|                   |superamento dei valori di  |                       |
+|                   |soglia espressi nella      |                       |
+|                   |tabella 2 del punto 6.2    |                       |
+|                   |dell’allegato al d.m.ll.pp.|                       |
+|                   |9 maggio 2001              |                       |
++-------------------+---------------------------+-----------------------+
+|**Area di          |area circostante           |Dgr 17-377-del         |
+|esclusione**       |un’area/attività           |26/7/2010 Pag 76       |
+|                   |produttiva non             |                       |
+|                   |direttamente               |Approvazione di Linee  |
+|                   |coinvolta dalle aree       |guida per la           |
+|                   |di danno, qualora          |valutazione del        |
+|                   |disponibili. L’area        |rischio industriale    |
+|                   |di esclusione deve         |nell'ambito della      |
+|                   |essere definita per        |pianificazione         |
+|                   |le Attività Seveso e       |territoriale.          |
+|                   |per le situazioni          |                       |
+|                   |definite Molto             |                       |
+|                   |Critiche e Critiche        |                       |
+|                   |al capitolo 3.             |                       |
+|                   |L’Area di Esclusione       |                       |
+|                   |presenta un raggio         |                       |
+|                   |dal confine                |                       |
+|                   |dell’attività o            |                       |
+|                   |dell’area, pari a 200      |                       |
+|                   |m, per livelli di          |                       |
+|                   |criticità alta (Molto      |                       |
+|                   |Critico) e pari a 100      |                       |
+|                   |m, per livelli di          |                       |
+|                   |criticità medi             |                       |
+|                   |(Critico).                 |                       |
+|                   |Nel caso di Attività       |                       |
+|                   |Severo l’Area di           |                       |
+|                   |Esclusione è               |                       |
+|                   |determinata ampliando      |                       |
+|                   |di 100 m il raggio         |                       |
+|                   |delle aree di danno        |                       |
+|                   |per eventi energetici      |                       |
+|                   |(incendi e                 |                       |
+|                   |esplosioni) e di 200       |                       |
+|                   |m il raggio delle          |                       |
+|                   |aree di danno per          |                       |
+|                   |eventi di tipo             |                       |
+|                   |tossico, oppure, se        |                       |
+|                   |più cautelativo,           |                       |
+|                   |vincolando un’area di      |                       |
+|                   |estensione pari a 200      |                       |
+|                   |m dal confine dell’        |                       |
+|                   |area/attività per          |                       |
+|                   |eventi energetici e        |                       |
+|                   |di 300 m per eventi        |                       |
+|                   |di tipo tossico.           |                       |
++-------------------+---------------------------+-----------------------+
+|**Area di          |area più vasta             |Dgr 17-377 del         |
+|osservazione**     |intorno                    |26/7/2010 Pag 76       |
+|                   |all’area/attività          |“Approvazione di       |
+|                   |produttiva                 |Linee guida per la     |
+|                   |identificata al fine       |valutazione del        |
+|                   |di definire sul            |rischio industriale    |
+|                   |territorio                 |nell'ambito della      |
+|                   |caratteristiche            |pianificazione         |
+|                   |idonee a proteggere        |territoriale.”         |
+|                   |la popolazione             |                       |
+|                   |nell’eventualità di        |                       |
+|                   |un’emergenza               |                       |
+|                   |industriale. Di            |                       |
+|                   |solito quest’area          |                       |
+|                   |coincide con l’area        |                       |
+|                   |più estesa                 |                       |
+|                   |considerata nel Piano      |                       |
+|                   |di Emergenza Esterna       |                       |
+|                   |e indicativamente          |                       |
+|                   |dovrà avere                |                       |
+|                   |un’estensione di           |                       |
+|                   |almeno 500 m dal           |                       |
+|                   |confine                    |                       |
+|                   |dell’attività. In          |                       |
+|                   |particolare, l’area        |                       |
+|                   |non ha                     |                       |
+|                   |necessariamente forma      |                       |
+|                   |circolare, ma è            |                       |
+|                   |opportunamente             |                       |
+|                   |calibrata sugli            |                       |
+|                   |elementi morfologici,      |                       |
+|                   |viari, o sugli             |                       |
+|                   |insediamenti               |                       |
+|                   |esistenti, includendo      |                       |
+|                   |quelli significativi       |                       |
+|                   |situati a margine          |                       |
+|                   |dell’area stessa.          |                       |
++-------------------+---------------------------+-----------------------+
 
 Il dato, al momento in forma puntuale, è scaricabile dal Geoportale
 Piemonte ricercando “Attività soggette a normativa Seveso –
@@ -164,4 +158,3 @@ Stabilimenti”.
 
 .. raw:: html
            :file: disqus.html
-           
