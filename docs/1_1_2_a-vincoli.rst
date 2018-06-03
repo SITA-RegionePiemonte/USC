@@ -233,7 +233,7 @@ Tabella 1c - Idoneità geologica all'utilizzazione urbanistica del territorio
 |Ambiti senza particolari limitazioni                    |Circolare PGR    |
 |geomorfologiche                                         |n. 7/LAP/96      |
 |(classe I)                                              |e successiva     |
-+-----------------------+-------------------+------------+Nota Tecnica     |
++-----------------------+-------------------+------------+Nota Tecnica     +
 |Ambiti a moderata pericolosità                          |del 1999         |
 |geomorfologica (classe II)                              |                 |
 +-----------------------+-------------------+------------+                 +
