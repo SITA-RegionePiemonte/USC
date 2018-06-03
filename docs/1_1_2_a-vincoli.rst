@@ -25,7 +25,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |(vigente)     |                      | l.r. n. 56/1977 smi       |
 |              |                      |                           |
 |              |                      | l.r. 45/89                |
-               |                      |                           |
+|              |                      |                           |
 |              |                      | circ. 2/AGR/90            |
 +--------------+----------------------+---------------------------+
 |vincolo       |vincolo idrogeologico |                           |
@@ -136,16 +136,16 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 Tabella 1b - Limitazioni e idoneità di carattere geologico, geomorfologico,
 geotecnco (*per i codici relativi alle varie tipologie di movimento occorre fare riferimento alle indicazioni contenute al punto 3 della parte II dell'Allegato A alla DGR n. 64-7417 del 7/4/2014*)
 
-+---------------------------------------------+-------------------+
++-----------+-------------------+-------------+-------------------+
 |**Vincolo/tutela**                           |**riferimento      |
 |                                             |normativo**        |
 +===========+===================+=============+===================+
 | **Liv. 2**| **Liv. 3**        |             |                   |
 +-----------+-------------------+-------------+-------------------+
 |Frana      | FA      Attivo                  |Circolare PGR      |
-+           +-------------------+-------------+n. 7/LAP/96        +
-|(Legenda   |FQ       Quiescente              |e successiva       |
-+regionale) +-------------------+-------------+Nota Tecnica del   +
++(Legenda   +-------------------+-------------+n. 7/LAP/96        +
+|regionale) |FQ       Quiescente              |e successiva       |
++           +-------------------+-------------+Nota Tecnica del   +
 |           |FS       Stabilizzato            |1999               |
 +-----------+-------------------+-------------+                   +
 |Conoide    |CAe                |CAe1         |DGR n. 64-741 del  |
@@ -160,7 +160,7 @@ geotecnco (*per i codici relativi alle varie tipologie di movimento occorre fare
 |           |CAb                |CAb1         |                   |
 |           |Attivo a           |Senza        |                   |
 |           |pericolosità       |interventi   |                   |
-+           |elevata            +-------------+                   +
++           +elevata            +-------------+                   +
 |           |                   |CAb2         |                   |
 |           |                   |Con          |                   |
 |           |                   |interventi   |                   |
@@ -236,13 +236,13 @@ Tabella 1c - Idoneità geologica all'utilizzazione urbanistica del territorio
 |Ambiti a pericolosità  |3A                              |                 |
 |elevata (classe III)   |Ambiti inedificati inidonei a   |                 |
 |                       |nuovi insediamenti (classe IIIa)|                 |
-|                       +-------------------+------------+                 +
++                       +-------------------+------------+                 +
 |                       |3B                 |Classe IIIb1|                 |
-|                       |Ambiti edificati   |------------+                 +
++                       +Ambiti edificati   +------------+                 +
 |                       |da sottoporre a    |Classe IIIb2|                 |
-|                       |interventi di      |------------+                 +
++|                      +interventi di      +------------+                 +
 |                       |riassetto          |Classe IIIb3|                 |
-|                       |(classe IIIb)      |------------+                 +
++                       +(classe IIIb)      +------------+                 +
 |                       |                   |Classe IIIb4|                 |
 +                       +-------------------+------------+                 +
 |                       |3C                              |                 |
