@@ -7,7 +7,7 @@ classi acustiche (Classi di destinazione d’uso - Tabella A del D.P.C.M.
 Tabella 3 – Zonizzazione acustica
 
 +-----------------------------------+-----------------------------------+
-| **ZONIZZAZIONE ACUSTICA**         |
+| **ZONIZZAZIONE ACUSTICA**                                             |
 +===================================+===================================+
 | **Nome**                          | **Descrizione**                   |
 +-----------------------------------+-----------------------------------+

@@ -9,123 +9,126 @@ gerarchici di approfondimento successivo.
 Tabella 5 – Componenti del Piano Paesaggistico Regionale (gli articoli
 fanno riferimento alle Norme di Attuazione)
 
-+-----------------------+-----------------------+-----------------------+
-| Componenti del Piano Paesaggistico Regionale                          |
-+=======================+=======================+=======================+
-| **livello 1**         | **livello 2**         | **livello 3**         |
-+-----------------------+-----------------------+-----------------------+
-| **Componenti          | Aree di montagna      | Aree di montagna      |
-| naturalistico-ambient | (art. 13)             |                       |
-| ali**                 |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Vette                 |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Sistemi di crinali    |
-|                       |                       | montani principali e  |
-|                       |                       | secondari             |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Ghiacciai, rocce e    |
-|                       |                       | macereti              |
-+-----------------------+-----------------------+-----------------------+
-|                       | Sistema idrografico   | Zona fluviale         |
-|                       | (art. 14)             | allargata             |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Zona fluviale interna |
-+-----------------------+-----------------------+-----------------------+
-|                       | Laghi (art. 15)       | Laghi                 |
-+-----------------------+-----------------------+-----------------------+
-|                       | Territori a           | Territori a           |
-|                       | prevalente copertura  | prevalente copertura  |
-|                       | boscata (art. 16)     | boscata\ :sup:`1`     |
-+-----------------------+-----------------------+-----------------------+
-|                       | Aree ed elementi di   | Geositi e singolarità |
-|                       | specifico interesse   | geologiche            |
-|                       | geomorfologico e      |                       |
-|                       | naturalistico (art.   |                       |
-|                       | 17)                   |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Aree umide            |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Alberi monumentali    |
-+-----------------------+-----------------------+-----------------------+
-|                       | Aree rurali di        | Praterie rupicole,    |
-|                       | elevata               | Praterie,             |
-|                       | biopermeabilità (art. | prato-pascoli,        |
-|                       | 19)                   | cespuglieti :sup:`2`  |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Aree non montane a    |
-|                       |                       | diffusa presenza di   |
-|                       |                       | siepi e filari        |
-+-----------------------+-----------------------+-----------------------+
-|                       | Aree di elevato       | Aree di elevato       |
-|                       | interesse agronomico  | interesse agronomico  |
-|                       | (art. 20)             |                       |
-+-----------------------+-----------------------+-----------------------+
-| **Componenti          | Viabilità storica e   | Rete viaria di età    |
-| storico-culturali**   | patrimonio            | romana e medievale    |
-|                       | ferroviario (art.22)  |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Rete viaria di età    |
-|                       |                       | moderna o             |
-|                       |                       | contemporanea         |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Rete ferroviaria      |
-|                       |                       | storica               |
-+-----------------------+-----------------------+-----------------------+
-|                       | Centri e nuclei       | Torino e centri di I, |
-|                       | storici (art. 24)     | II e III              |
-|                       |                       | rango\ :sup:`3`       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Struttura insediativa |
-|                       |                       | storica dei centri    |
-|                       |                       | con forte identità    |
-|                       |                       | morfologica\ :sup:`4` |
-+-----------------------+-----------------------+-----------------------+
-|                       | Patrimonio rurale     | Sistemi di            |
-|                       | storico (art. 25)     | testimonianze         |
-|                       |                       | storiche del          |
-|                       |                       | territorio rurale     |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Nuclei alpini         |
-|                       |                       | connessi agli usi     |
-|                       |                       | agro-silvo-pastorali  |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Presenza stratificata |
-|                       |                       | di sistemi irrigui    |
-+-----------------------+-----------------------+-----------------------+
-|                       | Ville, giardini e     | Sistemi di ville,     |
-|                       | parchi, aree e        | giardini e parchi     |
-|                       | impianti per il       |                       |
-|                       | loisir e il turismo   |                       |
-|                       | (art. 26)             |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Luoghi di             |
-|                       |                       | villeggiatura e       |
-|                       |                       | centri di             |
-|                       |                       | loisir\ :sup:`3`      |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Infrastrutture e      |
-|                       |                       | attrezzature          |
-|                       |                       | turistiche per la     |
-|                       |                       | montagna              |
-+-----------------------+-----------------------+-----------------------+
-|                       | Aree e impianti della | Aree e impianti della |
-|                       | produzione            | produzione            |
-|                       | industriale ed        | industriale ed        |
-|                       | energetica di         | energetica di         |
-|                       | interesse storico     | interesse storico     |
-|                       | (art. 27)             |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       | Poli della            | Poli della            |
-|                       | religiosità (art. 28  | religiosità           |
-|                       | e art. 33             |                       |
-|                       | relativamente ai      |                       |
-|                       | Sacri Monti Unesco)   |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       | Sistemi di            | Sistemi di            |
-|                       | fortificazioni        | fortificazioni        |
-|                       | (art.29)              |                       |
-+-----------------------+-----------------------+-----------------------+
++-----------------------+-----------------------+
+| **Componenti naturalistico-ambientali**       |
++=======================+=======================+
+| **livello 2**         | **livello 3**         |
++-----------------------+-----------------------+
+| Aree di montagna      | Aree di montagna      |
+| (art. 13)             |                       |
+|                       |                       |
++                       +-----------------------+
+|                       | Vette                 |
++                       +-----------------------+
+|                       | Sistemi di crinali    |
+|                       | montani principali e  |
+|                       | secondari             |
++                       +-----------------------+
+|                       | Ghiacciai, rocce e    |
+|                       | macereti              |
++-----------------------+-----------------------+
+| Sistema idrografico   | Zona fluviale         |
+| (art. 14)             | allargata             |
++                       +-----------------------+
+|                       | Zona fluviale interna |
++-----------------------+-----------------------+
+| Laghi (art. 15)       | Laghi                 |
++-----------------------+-----------------------+
+| Territori a           | Territori a           |
+| prevalente copertura  | prevalente copertura  |
+| boscata (art. 16)     | boscata\ :sup:`1`     |
++-----------------------+-----------------------+
+| Aree ed elementi di   | Geositi e singolarità |
+| specifico interesse   | geologiche            |
+| geomorfologico e      |                       |
+| naturalistico (art.17)|                       |
++                       +-----------------------+
+|                       | Aree umide            |
++                       +-----------------------+
+|                       | Alberi monumentali    |
++-----------------------+-----------------------+
+| Aree rurali di        | Praterie rupicole,    |
+| elevata               | Praterie,             |
+| biopermeabilità (art. | prato-pascoli,        |
+| 19)                   | cespuglieti :sup:`2`  |
++-----------------------+-----------------------+
+|                       | Aree non montane a    |
+|                       | diffusa presenza di   |
+|                       | siepi e filari        |
++-----------------------+-----------------------+
+| Aree di elevato       | Aree di elevato       |
+| interesse agronomico  | interesse agronomico  |
+| (art. 20)             |                       |
++-----------------------+-----------------------+
+
++-----------------------+-----------------------+
+| **Componenti storico-culturali**              |
++=======================+=======================+
+| Viabilità storica e   | Rete viaria di età    |
+| patrimonio            | romana e medievale    |
+| ferroviario (art.22)  |                       |
++                       +-----------------------+
+|                       | Rete viaria di età    |
+|                       | moderna o             |
+|                       | contemporanea         |
++                       +-----------------------+
+|                       | Rete ferroviaria      |
+|                       | storica               |
++-----------------------+-----------------------+
+| Centri e nuclei       | Torino e centri di I, |
+| storici (art. 24)     | II e III              |
+|                       | rango\ :sup:`3`       |
++                       +-----------------------+
+|                       | Struttura insediativa |
+|                       | storica dei centri    |
+|                       | con forte identità    |
+|                       | morfologica\ :sup:`4` |
++-----------------------+-----------------------+
+| Patrimonio rurale     | Sistemi di            |
+| storico (art. 25)     | testimonianze         |
+|                       | storiche del          |
+|                       | territorio rurale     |
++                       +-----------------------+
+|                       | Nuclei alpini         |
+|                       | connessi agli usi     |
+|                       | agro-silvo-pastorali  |
++                       +-----------------------+
+|                       | Presenza stratificata |
+|                       | di sistemi irrigui    |
++-----------------------+-----------------------+
+| Ville, giardini e     | Sistemi di ville,     |
+| parchi, aree e        | giardini e parchi     |
+| impianti per il       |                       |
+| loisir e il turismo   |                       |
+| (art. 26)             |                       |
++                       +-----------------------+
+|                       | Luoghi di             |
+|                       | villeggiatura e       |
+|                       | centri di             |
+|                       | loisir\ :sup:`3`      |
++                       +-----------------------+
+|                       | Infrastrutture e      |
+|                       | attrezzature          |
+|                       | turistiche per la     |
+|                       | montagna              |
++-----------------------+-----------------------+
+| Aree e impianti della | Aree e impianti della |
+| produzione            | produzione            |
+| industriale ed        | industriale ed        |
+| energetica di         | energetica di         |
+| interesse storico     | interesse storico     |
+| (art. 27)             |                       |
++-----------------------+-----------------------+
+| Poli della            | Poli della            |
+| religiosità (art. 28  | religiosità           |
+| e art. 33             |                       |
+| relativamente ai      |                       |
+| Sacri Monti Unesco)   |                       |
++-----------------------+-----------------------+
+| Sistemi di            | Sistemi di            |
+| fortificazioni        | fortificazioni        |
+| (art.29)              |                       |
++-----------------------+-----------------------+
 
 Tabella 5 (continua)
 
@@ -135,8 +138,8 @@ Tabella 5 (continua)
 | **livello 1**         | **livello 2**         | **livello 3**         |
 +-----------------------+-----------------------+-----------------------+
 | **Componenti          | Belvedere, bellezze   | Belvedere             |
-| percettivo-identitari | panoramiche, siti di  |                       |
-| e**                   | valore scenico ed     |                       |
+| percettivo-identitarie| panoramiche, siti di  |                       |
+| **                    | valore scenico ed     |                       |
 |                       | estetico (art. 30)    |                       |
 +-----------------------+-----------------------+-----------------------+
 |                       |                       | Percorsi panoramici   |
