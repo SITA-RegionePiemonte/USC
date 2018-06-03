@@ -189,7 +189,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |             | molto       |             |             |
 |             | elevato     |             |             |
 |             | vigenti     |             |             |
-||             | (rme)       |             |             |
+|             | (rme)       |             |             |
 |-------------+-------------+-------------+-------------+
 | pgra (piano | H           | aree        |             |
 | di gestione |             | interessate |             |
