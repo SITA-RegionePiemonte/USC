@@ -131,7 +131,7 @@ urbanistico a prescindere dalla sua natura.
 Tabella 10 – monitoraggio del progressivo consumo di suolo
 
 +-----------+---------+---------+---------+---------+---------+---------+
-| **MONITORAGGIO DEL PROGRESSIVO CONSUMO DI SUOLO**                    |
+| **MONITORAGGIO DEL PROGRESSIVO CONSUMO DI SUOLO**                     |
 +===========+=========+=========+=========+=========+=========+=========+
 |           |**Sup    | **CSU** | **CSU   | **CSU   | **Δ**   | **Δ**   |
 |           |comune** |     (m2)| in      | in      |         |         |
