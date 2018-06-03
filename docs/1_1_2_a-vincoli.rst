@@ -450,7 +450,7 @@ Tabella 1e - Vincoli antropici
 +                       +---------------------------+                     +
 |                       |fascia di rispetto delle   |                     |
 |                       |nuove stalle da altri      |                     |
-|                       | edifici                   |                     |
+|                       |edifici                    |                     |
 +                       +---------------------------+                     +
 |                       |fascia di rispetto delle   |                     |
 |                       |stalle da centri abitati   |                     |
