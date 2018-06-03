@@ -132,236 +132,242 @@ fanno riferimento alle Norme di Attuazione)
 
 Tabella 5 (continua)
 
-+-----------------------+-----------------------+-----------------------+
-| **COMPONENTI Ppr**                                                    |
-+=======================+=======================+=======================+
-| **livello 1**         | **livello 2**         | **livello 3**         |
-+-----------------------+-----------------------+-----------------------+
-| **Componenti          | Belvedere, bellezze   | Belvedere             |
-| percettivo-identitarie| panoramiche, siti di  |                       |
-| **                    | valore scenico ed     |                       |
-|                       | estetico (art. 30)    |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Percorsi panoramici   |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Assi prospettici      |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Fulcri del costruito  |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Fulcri naturali       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Profili               |
-|                       |                       | paesaggistici\ :sup:` |
-|                       |                       | 3`                    |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Elementi              |
-|                       |                       | caratterizzanti di    |
-|                       |                       | rilevanza             |
-|                       |                       | paesaggistica         |
-+-----------------------+-----------------------+-----------------------+
-|                       | Relazioni visive tra  | Sistema di crinali    |
-|                       | insediamento e        | collinari e           |
-|                       | contesto (art. 31)    | pedemontani           |
-|                       |                       | principali e          |
-|                       |                       | secondari             |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Insediamenti          |
-|                       |                       | tradizionali con      |
-|                       |                       | bordi poco alterati o |
-|                       |                       | - fronti urbani       |
-|                       |                       | costituiti da         |
-|                       |                       | edificati compatti in |
-|                       |                       | rapporto con acque,   |
-|                       |                       | boschi, coltivi (SC1) |
-|                       |                       | :sup:`3`              |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Sistemi di nuclei     |
-|                       |                       | costruiti di costa o  |
-|                       |                       | di fondovalle,        |
-|                       |                       | leggibili             |
-|                       |                       | nell’insieme o in     |
-|                       |                       | sequenza (SC2)        |
-|                       |                       | :sup:`3`              |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Insediamenti          |
-|                       |                       | pedemontani o di      |
-|                       |                       | crinale in emergenza  |
-|                       |                       | rispetto a versanti   |
-|                       |                       | collinari o montani   |
-|                       |                       | prevalentemente       |
-|                       |                       | boscati o coltivati   |
-|                       |                       | (SC3) :sup:`3`        |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Contesti di nuclei    |
-|                       |                       | storici o di          |
-|                       |                       | emergenze             |
-|                       |                       | architettoniche       |
-|                       |                       | isolate (SC4)         |
-|                       |                       | :sup:`3`              |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Aree caratterizzate   |
-|                       |                       | dalla presenza        |
-|                       |                       | diffusa di sistemi di |
-|                       |                       | attrezzature o        |
-|                       |                       | infrastrutture        |
-|                       |                       | storiche (idrauliche, |
-|                       |                       | di impianti           |
-|                       |                       | produttivi            |
-|                       |                       | industriali o         |
-|                       |                       | minerari, di impianti |
-|                       |                       | rurali SC5) :sup:`3`  |
-+-----------------------+-----------------------+-----------------------+
-|                       | Aree rurali di        | Aree sommitali        |
-|                       | specifico interesse   | costituenti fondali e |
-|                       | paesaggistico (art.   | skyline (SV1)         |
-|                       | 32)                   | :sup:`3`              |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Sistemi paesaggistici |
-|                       |                       | agroforestali di      |
-|                       |                       | particolare           |
-|                       |                       | interdigitazione tra  |
-|                       |                       | aree coltivate e      |
-|                       |                       | bordi boscati (SV2)   |
-|                       |                       | :sup:`3`              |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | SV3 - Sistemi         |
-|                       |                       | paesaggistici rurali  |
-|                       |                       | di significativa      |
-|                       |                       | varietà e             |
-|                       |                       | specificità, con la   |
-|                       |                       | presenza di radi      |
-|                       |                       | insediamenti          |
-|                       |                       | tradizionali integri  |
-|                       |                       | o di tracce di        |
-|                       |                       | sistemazioni agrarie  |
-|                       |                       | e delle relative      |
-|                       |                       | infrastrutture        |
-|                       |                       | storiche (tra cui i   |
-|                       |                       | Tenimenti storici     |
-|                       |                       | dell'Ordine           |
-|                       |                       | Mauriziano non        |
-|                       |                       | assoggettati a        |
-|                       |                       | dichiarazione di      |
-|                       |                       | notevole interesse    |
-|                       |                       | pubblico,             |
-|                       |                       | disciplinati          |
-|                       |                       | dall'art. 33)         |
-|                       |                       | :sup:`3-5`            |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Sistemi rurali lungo  |
-|                       |                       | fiume con radi        |
-|                       |                       | insediamenti          |
-|                       |                       | tradizionali e, in    |
-|                       |                       | particolare, nelle    |
-|                       |                       | confluenze fluviali   |
-|                       |                       | (SV4) :sup:`3`        |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Sistemi paesaggistici |
-|                       |                       | rurali di             |
-|                       |                       | significativa         |
-|                       |                       | omogeneità e          |
-|                       |                       | caratterizzazione dei |
-|                       |                       | coltivi distinguendo: |
-|                       |                       | le risaie (SV5)       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Sistemi paesaggistici |
-|                       |                       | rurali di             |
-|                       |                       | significativa         |
-|                       |                       | omogeneità e          |
-|                       |                       | caratterizzazione dei |
-|                       |                       | coltivi distinguendo: |
-|                       |                       | i vigneti (SV6)       |
-+-----------------------+-----------------------+-----------------------+
-|**Componenti           | Disciplina generale   | Porte urbane          |
-|morfologico-insedi     | delle componenti      |                       |
-| ative**               | morfologico -         |                       |
-|                       | insediative (art. 34) |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Varchi tra aree       |
-|                       |                       | edificate             |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Elementi strutturanti |
-|                       |                       | i bordi urbani        |
-+-----------------------+-----------------------+-----------------------+
-|                       | Aree urbane           | Urbano consolidato    |
-|                       | consolidate (art. 35) | dei centri maggiori   |
-|                       |                       | m.i. 1                |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Urbano consolidato    |
-|                       |                       | dei centri minori     |
-|                       |                       | m.i. 2                |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Tessuti urbani        |
-|                       |                       | esterni ai centri     |
-|                       |                       | m.i. 3                |
-+-----------------------+-----------------------+-----------------------+
-|                       | Tessuti discontinui   | Tessuti discontinui   |
-|                       | suburbani (art. 36)   | suburbani m.i. 4      |
-+-----------------------+-----------------------+-----------------------+
-|                       | Insediamenti          | Insediamenti          |
-|                       | specialistici         | specialistici         |
-|                       | organizzati (art. 37) | organizzati m.i. 5    |
-+-----------------------+-----------------------+-----------------------+
-|                       | Aree di dispersione   | Aree a dispersione    |
-|                       | insediativa (art. 38) | insediativa           |
-|                       |                       | prevalentemente       |
-|                       |                       | residenziale m.i. 6   |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Aree a dispersione    |
-|                       |                       | insediativa           |
-|                       |                       | prevalentemente       |
-|                       |                       | specialistica m.i. 7  |
-+-----------------------+-----------------------+-----------------------+
-|                       | "Insule”              | "Insule”              |
-|                       | specializzate e       | specializzate m.i. 8  |
-|                       | complessi             |                       |
-|                       | infrastrutturali      |                       |
-|                       | (art. 39)             |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Complessi             |
-|                       |                       | infrastrutturali m.i. |
-|                       |                       | 9                     |
-+-----------------------+-----------------------+-----------------------+
-|                       | Insediamenti rurali   | Aree rurali di        |
-|                       | (art. 40)             | pianura o collina     |
-|                       |                       | m.i. 10               |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Sistemi di nuclei     |
-|                       |                       | rurali di pianura,    |
-|                       |                       | collina e bassa       |
-|                       |                       | montagna m.i. 11      |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Villaggi di montagna  |
-|                       |                       | m.i. 12               |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Aree rurali di        |
-|                       |                       | montagna o collina    |
-|                       |                       | con edificazione rada |
-|                       |                       | e dispersa m.i. 13    |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Aree rurali di        |
-|                       |                       | pianura m.i. 14       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Alpeggi e             |
-|                       |                       | insediamenti rurali   |
-|                       |                       | di alta quota m.i. 15 |
-+-----------------------+-----------------------+-----------------------+
++-----------------------+-----------------------+
+| **Componenti percettivo-identitarie**         |
++=======================+=======================+
+| **livello 2**         | **livello 3**         |
++-----------------------+-----------------------+
+| Belvedere, bellezze   | Belvedere             |
+| panoramiche, siti di  |                       |
+| valore scenico ed     |                       |
+| estetico (art. 30)    |                       |
++                       +-----------------------+
+|                       | Percorsi panoramici   |
++                       +-----------------------+
+|                       | Assi prospettici      |
++                       +-----------------------+
+|                       | Fulcri del costruito  |
++                       +-----------------------+
+|                       | Fulcri naturali       |
++                       +-----------------------+
+|                       | Profili               |
+|                       | paesaggistici\ :sup:` |
+|                       | 3`                    |
++                       +-----------------------+
+|                       | Elementi              |
+|                       | caratterizzanti di    |
+|                       | rilevanza             |
+|                       | paesaggistica         |
++-----------------------+-----------------------+
+| Relazioni visive tra  | Sistema di crinali    |
+| insediamento e        | collinari e           |
+| contesto (art. 31)    | pedemontani           |
+|                       | principali e          |
+|                       | secondari             |
++                       +-----------------------+
+|                       | Insediamenti          |
+|                       | tradizionali con      |
+|                       | bordi poco alterati o |
+|                       | - fronti urbani       |
+|                       | costituiti da         |
+|                       | edificati compatti in |
+|                       | rapporto con acque,   |
+|                       | boschi, coltivi (SC1) |
+|                       | :sup:`3`              |
++                       +-----------------------+
+|                       | Sistemi di nuclei     |
+|                       | costruiti di costa o  |
+|                       | di fondovalle,        |
+|                       | leggibili             |
+|                       | nell’insieme o in     |
+|                       | sequenza (SC2)        |
+|                       | :sup:`3`              |
++                       +-----------------------+
+|                       | Insediamenti          |
+|                       | pedemontani o di      |
+|                       | crinale in emergenza  |
+|                       | rispetto a versanti   |
+|                       | collinari o montani   |
+|                       | prevalentemente       |
+|                       | boscati o coltivati   |
+|                       | (SC3) :sup:`3`        |
++                       +-----------------------+
+|                       | Contesti di nuclei    |
+|                       | storici o di          |
+|                       | emergenze             |
+|                       | architettoniche       |
+|                       | isolate (SC4)         |
+|                       | :sup:`3`              |
++                       +-----------------------+
+|                       | Aree caratterizzate   |
+|                       | dalla presenza        |
+|                       | diffusa di sistemi di |
+|                       | attrezzature o        |
+|                       | infrastrutture        |
+|                       | storiche (idrauliche, |
+|                       | di impianti           |
+|                       | produttivi            |
+|                       | industriali o         |
+|                       | minerari, di impianti |
+|                       | rurali SC5) :sup:`3`  |
++-----------------------+-----------------------+
+| Aree rurali di        | Aree sommitali        |
+| specifico interesse   | costituenti fondali e |
+| paesaggistico (art.   | skyline (SV1)         |
+| 32)                   | :sup:`3`              |
++                       +-----------------------+
+|                       | Sistemi paesaggistici |
+|                       | agroforestali di      |
+|                       | particolare           |
+|                       | interdigitazione tra  |
+|                       | aree coltivate e      |
+|                       | bordi boscati (SV2)   |
+|                       | :sup:`3`              |
++                       +-----------------------+
+|                       | SV3 - Sistemi         |
+|                       | paesaggistici rurali  |
+|                       | di significativa      |
+|                       | varietà e             |
+|                       | specificità, con la   |
+|                       | presenza di radi      |
+|                       | insediamenti          |
+|                       | tradizionali integri  |
+|                       | o di tracce di        |
+|                       | sistemazioni agrarie  |
+|                       | e delle relative      |
+|                       | infrastrutture        |
+|                       | storiche (tra cui i   |
+|                       | Tenimenti storici     |
+|                       | dell'Ordine           |
+|                       | Mauriziano non        |
+|                       | assoggettati a        |
+|                       | dichiarazione di      |
+|                       | notevole interesse    |
+|                       | pubblico,             |
+|                       | disciplinati          |
+|                       | dall'art. 33)         |
+|                       | :sup:`3-5`            |
++                       +-----------------------+
+|                       | Sistemi rurali lungo  |
+|                       | fiume con radi        |
+|                       | insediamenti          |
+|                       | tradizionali e, in    |
+|                       | particolare, nelle    |
+|                       | confluenze fluviali   |
+|                       | (SV4) :sup:`3`        |
++                       +-----------------------+
+|                       | Sistemi paesaggistici |
+|                       | rurali di             |
+|                       | significativa         |
+|                       | omogeneità e          |
+|                       | caratterizzazione dei |
+|                       | coltivi distinguendo: |
+|                       | le risaie (SV5)       |
++                       +-----------------------+
+|                       | Sistemi paesaggistici |
+|                       | rurali di             |
+|                       | significativa         |
+|                       | omogeneità e          |
+|                       | caratterizzazione dei |
+|                       | coltivi distinguendo: |
+|                       | i vigneti (SV6)       |
++-----------------------+-----------------------+
+
++-----------------------+-----------------------+
+| **Componenti morfologico-insediative**        |
++=======================+=======================+
+| **livello 2**         | **livello 3**         |
++-----------------------+-----------------------+
+| Disciplina generale   | Porte urbane          |
+| delle componenti      |                       |
+| morfologico -         |                       |
+| insediative (art. 34) |                       |
++                       +-----------------------+
+|                       | Varchi tra aree       |
+|                       | edificate             |
++                       +-----------------------+
+|                       | Elementi strutturanti |
+|                       | i bordi urbani        |
++-----------------------+-----------------------+
+| Aree urbane           | Urbano consolidato    |
+| consolidate (art. 35) | dei centri maggiori   |
+|                       | m.i. 1                |
++                       +-----------------------+
+|                       | Urbano consolidato    |
+|                       | dei centri minori     |
+|                       | m.i. 2                |
++                       +-----------------------+
+|                       | Tessuti urbani        |
+|                       | esterni ai centri     |
+|                       | m.i. 3                |
++-----------------------+-----------------------+
+| Tessuti discontinui   | Tessuti discontinui   |
+| suburbani (art. 36)   | suburbani m.i. 4      |
++-----------------------+-----------------------+
+| Insediamenti          | Insediamenti          |
+| specialistici         | specialistici         |
+| organizzati (art. 37) | organizzati m.i. 5    |
++-----------------------+-----------------------+
+| Aree di dispersione   | Aree a dispersione    |
+| insediativa (art. 38) | insediativa           |
+|                       | prevalentemente       |
+|                       | residenziale m.i. 6   |
++                       +-----------------------+
+|                       | Aree a dispersione    |
+|                       | insediativa           |
+|                       | prevalentemente       |
+|                       | specialistica m.i. 7  |
++-----------------------+-----------------------+
+| "Insule”              | "Insule”              |
+| specializzate e       | specializzate m.i. 8  |
+| complessi             |                       |
+| infrastrutturali      |                       |
+| (art. 39)             |                       |
++                       +-----------------------+
+|                       | Complessi             |
+|                       | infrastrutturali m.i. |
+|                       | 9                     |
++-----------------------+-----------------------+
+| Insediamenti rurali   | Aree rurali di        |
+| (art. 40)             | pianura o collina     |
+|                       | m.i. 10               |
++                       +-----------------------+
+|                       | Sistemi di nuclei     |
+|                       | rurali di pianura,    |
+|                       | collina e bassa       |
+|                       | montagna m.i. 11      |
++                       +-----------------------+
+|                       | Villaggi di montagna  |
+|                       | m.i. 12               |
++                       +-----------------------+
+|                       | Aree rurali di        |
+|                       | montagna o collina    |
+|                       | con edificazione rada |
+|                       | e dispersa m.i. 13    |
++                       +-----------------------+
+|                       | Aree rurali di        |
+|                       | pianura m.i. 14       |
++                       +-----------------------+
+|                       | Alpeggi e             |
+|                       | insediamenti rurali   |
+|                       | di alta quota m.i. 15 |
++-----------------------+-----------------------+
 
 Tabella 5 (continua)
 
-+-----------------------+-----------------------+-----------------------+
-| **COMPONENTI Ppr**                                                    |
-+=======================+=======================+=======================+
-| **livello 1**         | **livello 2**         | **livello 3**         |
-+-----------------------+-----------------------+-----------------------+
-| **Criticità**         | Aree caratterizzate   | Elementi di criticità |
-|                       | da elementi critici e | puntuali              |
-|                       | con detrazioni visive |                       |
-|                       | (art. 41)             |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Elementi di criticità |
-|                       |                       | lineari               |
-+-----------------------+-----------------------+-----------------------+
++-----------------------+-----------------------+
+| **Criticità**                                 |
++=======================+=======================+
+| **livello 2**         | **livello 3**         |
++-----------------------+-----------------------+
+| Aree caratterizzate   | Elementi di criticità |
+| da elementi critici e | puntuali              |
+| con detrazioni visive |                       |
+| (art. 41)             |                       |
++                       +-----------------------+
+|                       | Elementi di criticità |
+|                       | lineari               |
++-----------------------+-----------------------+
 
 Le seguenti note forniscono chiarimenti per la trasposizione delle
 componenti del Ppr in sede di redazione degli strumenti urbanistici:
