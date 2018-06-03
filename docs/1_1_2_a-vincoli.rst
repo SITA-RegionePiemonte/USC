@@ -184,7 +184,7 @@ geotecnco
 |           |pericolosità media/|             |                   |
 |           |moderata           |             |                   |
 +-----------+-------------------+-------------+-------------------+
-|Esondazione|Ee\:sub:`L`                      |                   |
+|Esondazione|Ee:sub:`L`                       |                   |
 |reticolo   |Lineare a pericolosità           |                   |
 |minore     |molto elevata                    |                   |
 +(Legenda   +-------------------+-------------+-------------------+
