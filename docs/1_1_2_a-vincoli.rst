@@ -13,211 +13,210 @@ culturale-ambientale-paesaggistica, vincoli antropici). Il progettista è
 libero di aggiungere ulteriori livelli di approfondimento senza
 modificare la struttura generale proposta.
 
-Tabella 1
+Tabella 1a - Limitazioni e vincoli di tutela territoriale
 
-+-----------------------------------------+---------------------------+
-|**Vincolo/tutela**                       |**riferimento              |
-|                                         |normativo**                |
-+=============+=============+=============+=============+=============+
-| **Liv. 1**  | **Liv. 2**  | **Liv. 3**  |                           |
-+-------------+-------------+-------------+-------------+-------------+
-|Limitazioni  |vincolo      |             | R.D.L.      |             |
-|e vincoli di |idrogeologico|             | 3267/23     |             |
-|tutela       |(vigente)    |             | art. 30     |             |
-|territoriale |             |             | l.r. n.     |             |
-|             |             |             | 56/1977 smi |             |
-|             |             |             | l.r. 45/89  |             |
-|             |             |             | circ.       |             |
-|             |             |             | 2/AGR/90    |             |
-+             +-------------+-------------+-------------+-------------+
-|             |vincolo      |vincolo      |             |             |
-|             |idrogeologico|idrogeologico|             |             |
-|             |modificato   |aggiunto     |             |             |
-|             |dal Prg      |             |             |             |
-+             +             +-------------+-------------+-------------+
-|             |             |vincolo      |             |             |
-|             |             |idrogeologico|             |             |
-|             |             |ridotto      |             |             |
-+             +-------------+-------------+-------------+-------------+
-|             | fascia di   |fascia di    | art. 29     |             |
-|             | rispetto    |rispetto di  | l.r. n.     |             |
-|             | delle acque |fiumi,       | 56/1977 smi |             |
-|             |             |torrenti e   |             |             |
-|             |             |canali nei   |             |             |
-|             |             |territori    |             |             |
-|             |             |compresi     |             |             |
-|             |             |nelle        |             |             |
-|             |             |Comunità     |             |             |
-|             |             |Montane      |             |             |
-|             |             |così come    |             |             |
-|             |             |esistenti    |             |             |
-|             |             |prima        |             |             |
-|             |             |dell’entrata |             |             |
-|             |             |in vigore    |             |             |
-|             |             |della l.r.   |             |             |
-|             |             |11/2012 (15m |             |             |
-+             +             +-------------+-------------+-------------+
-|             |             | fascia di   |             |             |
-|             |             | rispetto di |             |             |
-|             |             | fiumi,      |             |             |
-|             |             | torrenti e  |             |             |
-|             |             | canali non  |             |             |
-|             |             | arginati    |             |             |
-|             |             | nei         |             |             |
-|             |             | territori   |             |             |
-|             |             | non         |             |             |
-|             |             | compresi    |             |             |
-|             |             | nelle       |             |             |
-|             |             | Comunità    |             |             |
-|             |             | Montane     |             |             |
-|             |             | così come   |             |             |
-|             |             | esistenti   |             |             |
-|             |             | prima       |             |             |
-|             |             | dell’entrat |             |             |
-|             |             | a           |             |             |
-|             |             | in vigore   |             |             |
-|             |             | della l.r.  |             |             |
-|             |             | 11/2012     |             |             |
-|             |             | (100 m)     |             |             |
-+             +             +-------------+-------------+-------------+
-|             |             | fascia di   |             |             |
-|             |             | rispetto    |             |             |
-|             |             | per fiumi,  |             |             |
-|             |             | torrenti e  |             |             |
-|             |             | canali      |             |             |
-|             |             | arginati,   |             |             |
-|             |             | ad          |             |             |
-|             |             | esclusione  |             |             |
-|             |             | dei canali  |             |             |
-|             |             | che         |             |             |
-|             |             | costituisco |             |             |
-|             |             | no          |             |             |
-|             |             | rete di     |             |             |
-|             |             | consorzio   |             |             |
-|             |             | irriguo o   |             |             |
-|             |             | mera rete   |             |             |
-|             |             | funzionale  |             |             |
-|             |             | all’irrigaz |             |             |
-|             |             | ione,       |             |             |
-|             |             | fatta salva |             |             |
-|             |             | la          |             |             |
-|             |             | dimostrata  |             |             |
-|             |             | presenza di |             |             |
-|             |             | condizioni  |             |             |
-|             |             | di          |             |             |
-|             |             | pericolosit |             |             |
-|             |             | à           |             |             |
-|             |             | geomorfolog |             |             |
-|             |             | ica         |             |             |
-|             |             | e idraulica |             |             |
-|             |             | (25 m dal   |             |             |
-|             |             | piede       |             |             |
-|             |             | esterno     |             |             |
-|             |             | degli       |             |             |
-|             |             | argini      |             |             |
-|             |             | maestri)    |             |             |
-+             +             +-------------+-------------+-------------+
-|             |             | fascia di   |             |             |
-|             |             | rispetto    |             |             |
-|             |             | per laghi   |             |             |
-|             |             | naturali e  |             |             |
-|             |             | artificiali |             |             |
-|             |             | e per le    |             |             |
-|             |             | zone umide  |             |             |
-|             |             | (200 m)     |             |             |
-+             +-------------+-------------+-------------+-------------+
-|             | comune      | Microzone   | L. 64/74    |             |
-|             | classificato| omogenee in | D.M. 4      |             |
-|             | sismico     | prospettiva | febbraio    |             |
-|             |             | sismica     | 1982        |             |
-|             |             | (livello 1) | l.r. 19/85  |             |
-|             |             |             | D.G.R.      |             |
-|             |             |             | 11-13058    |             |
-|             |             |             | del         |             |
-|             |             |             | 19/01/2010  |             |
-|             |             |             | D.G.R.      |             |
-|             |             |             | 4-3084 del  |             |
-|             |             |             | 12/12/2011  |             |
-+             +-------------+-------------+-------------+-------------+
-|             | abitato da  |             | L. 445/1908 |             |
-|             | trasferire  |             | L. 64/74    |             |
-|             |             |             | art. 30 bis |             |
-|             |             |             | l.r. n.     |             |
-|             |             |             | 56/1977 smi |             |
-+             +-------------+-------------+-------------+-------------+
-|             | abitato da  |             |             |             |
-|             | consolidare |             |             |             |
-+             +-------------+-------------+-------------+-------------+
-|             | zona        |             | l.r. 4/2009 |             |
-|             | boscata [3] |             |             |             |
-+             +-------------+-------------+-------------+-------------+
-|             | PAI (piano  | fascia di   | Piano       |             |
-|             | di assetto  | deflusso    | stralcio    |             |
-|             | idrogeologi | della piena | per         |             |
-|             | co)         | (fascia "a" | l'Assetto   |             |
-|             |             | del pai)    | Idrogeologi |             |
-|             |             |             | co          |             |
-|             |             |             | (PAI)       |             |
-+             +             +-------------+-------------+-------------+
-|             |             | fascia di   |             |             |
-|             |             | esondazione |             |             |
-|             |             | (fascia "b" |             |             |
-|             |             | del PAI)    |             |             |
-+             +             +-------------+-------------+-------------+
-|             |             | area di     |             |             |
-|             |             | inondazione |             |             |
-|             |             | per piena   |             |             |
-|             |             | catastrofic |             |             |
-|             |             | a           |             |             |
-|             |             | (fascia "c" |             |             |
-|             |             | del PAI)    |             |             |
-+             +             +-------------+-------------+-------------+
-|             |             | limite di   |             |             |
-|             |             | progetto    |             |             |
-|             |             | tra fascia  |             |             |
-|             |             | “b” e       |             |             |
-|             |             | fascia “c”  |             |             |
-+             +             +-------------+-------------+-------------+
-|             |             | aree        |             |             |
-|             |             | inondabili  |             |             |
-|             |             | retrostanti |             |             |
-|             |             | i limiti    |             |             |
-|             |             | “b” di      |             |             |
-|             |             | progetto    |             |             |
-+             +             +-------------+-------------+-------------+
-|             |             | aree a      |             |             |
-|             |             | rischio     |             |             |
-|             |             | molto       |             |             |
-|             |             | elevato     |             |             |
-|             |             | vigenti     |             |             |
-|             |             | (rme)       |             |             |
-|             +-------------+-------------+-------------+-------------+
-|             | pgra (piano | H           | aree        |             |
-|             | di gestione |             | interessate |             |
-|             | rischio     |             | da          |             |
-|             | alluvioni)  |             | alluvione   |             |
-|             |             |             | frequente - |             |
-|             |             |             | P3          |             |
-+             +             +-------------+-------------+-------------+
-|             |             | M           | aree        |             |
-|             |             |             | interessate |             |
-|             |             |             | da          |             |
-|             |             |             | alluvione   |             |
-|             |             |             | poco        |             |
-|             |             |             | frequente - |             |
-|             |             |             | P2          |             |
-+             +             +-------------+-------------+-------------+
-|             |             | L           | aree        |             |
-|             |             |             | interessate |             |
-|             |             |             | da          |             |
-|             |             |             | alluvione   |             |
-|             |             |             | rara - P1   |             |
-+             +-------------+-------------+-------------+-------------+
-|             | Aree a      |             | d.lgs.      |             |
-|             | rischio     |             | 163/2006    |             |
-|             | archeologico|             | artt. 95 e  |             |
-|             |             |             | 96          |             |
-+-------------+-------------+-------------+-------------+-------------+
++---------------------------+---------------------------+
+|**Vincolo/tutela**         |**riferimento normativo**  |
++=============+=============+=============+=============+
+|**Liv. 2**   | **Liv. 3**  |                           |
++-------------+-------------+-------------+-------------+
+|vincolo      |             | R.D.L.      |             |
+|idrogeologico|             | 3267/23     |             |
+|(vigente)    |             | art. 30     |             |
+|             |             | l.r. n.     |             |
+|             |             | 56/1977 smi |             |
+|             |             | l.r. 45/89  |             |
+|             |             | circ.       |             |
+|             |             | 2/AGR/90    |             |
++-------------+-------------+-------------+-------------+
+|vincolo      |vincolo      |             |             |
+|idrogeologico|idrogeologico|             |             |
+|modificato   |aggiunto     |             |             |
+|dal Prg      |             |             |             |
++             +-------------+-------------+-------------+
+|             |vincolo      |             |             |
+|             |idrogeologico|             |             |
+|             |ridotto      |             |             |
++-------------+-------------+-------------+-------------+
+| fascia di   |fascia di    | art. 29     |             |
+| rispetto    |rispetto di  | l.r. n.     |             |
+| delle acque |fiumi,       | 56/1977 smi |             |
+|             |torrenti e   |             |             |
+|             |canali nei   |             |             |
+|             |territori    |             |             |
+|             |compresi     |             |             |
+|             |nelle        |             |             |
+|             |Comunità     |             |             |
+|             |Montane      |             |             |
+|             |così come    |             |             |
+|             |esistenti    |             |             |
+|             |prima        |             |             |
+|             |dell’entrata |             |             |
+|             |in vigore    |             |             |
+|             |della l.r.   |             |             |
+|             |11/2012 (15m |             |             |
++             +-------------+-------------+-------------+
+|             | fascia di   |             |             |
+|             | rispetto di |             |             |
+|             | fiumi,      |             |             |
+|             | torrenti e  |             |             |
+|             | canali non  |             |             |
+|             | arginati    |             |             |
+|             | nei         |             |             |
+|             | territori   |             |             |
+|             | non         |             |             |
+|             | compresi    |             |             |
+|             | nelle       |             |             |
+|             | Comunità    |             |             |
+|             | Montane     |             |             |
+|             | così come   |             |             |
+|             | esistenti   |             |             |
+|             | prima       |             |             |
+|             | dell’entrat |             |             |
+|             | a           |             |             |
+|             | in vigore   |             |             |
+|             | della l.r.  |             |             |
+|             | 11/2012     |             |             |
+|             | (100 m)     |             |             |
++             +-------------+-------------+-------------+
+|             | fascia di   |             |             |
+|             | rispetto    |             |             |
+|             | per fiumi,  |             |             |
+|             | torrenti e  |             |             |
+|             | canali      |             |             |
+|             | arginati,   |             |             |
+|             | ad          |             |             |
+|             | esclusione  |             |             |
+|             | dei canali  |             |             |
+|             | che         |             |             |
+|             | costituisco |             |             |
+|             | no          |             |             |
+|             | rete di     |             |             |
+|             | consorzio   |             |             |
+|             | irriguo o   |             |             |
+|             | mera rete   |             |             |
+|             | funzionale  |             |             |
+|             | all’irrigaz |             |             |
+|             | ione,       |             |             |
+|             | fatta salva |             |             |
+|             | la          |             |             |
+|             | dimostrata  |             |             |
+|             | presenza di |             |             |
+|             | condizioni  |             |             |
+|             | di          |             |             |
+|             | pericolosit |             |             |
+|             | à           |             |             |
+|             | geomorfolog |             |             |
+|             | ica         |             |             |
+|             | e idraulica |             |             |
+|             | (25 m dal   |             |             |
+|             | piede       |             |             |
+|             | esterno     |             |             |
+|             | degli       |             |             |
+|             | argini      |             |             |
+|             | maestri)    |             |             |
++             +-------------+-------------+-------------+
+|             | fascia di   |             |             |
+|             | rispetto    |             |             |
+|             | per laghi   |             |             |
+|             | naturali e  |             |             |
+|             | artificiali |             |             |
+|             | e per le    |             |             |
+|             | zone umide  |             |             |
+|             | (200 m)     |             |             |
++-------------+-------------+-------------+-------------+
+| comune      | Microzone   | L. 64/74    |             |
+| classificato| omogenee in | D.M. 4      |             |
+| sismico     | prospettiva | febbraio    |             |
+|             | sismica     | 1982        |             |
+|             | (livello 1) | l.r. 19/85  |             |
+|             |             | D.G.R.      |             |
+|             |             | 11-13058    |             |
+|             |             | del         |             |
+|             |             | 19/01/2010  |             |
+|             |             | D.G.R.      |             |
+|             |             | 4-3084 del  |             |
+|             |             | 12/12/2011  |             |
++-------------+-------------+-------------+-------------+
+| abitato da  |             | L. 445/1908 |             |
+| trasferire  |             | L. 64/74    |             |
+|             |             | art. 30 bis |             |
+|             |             | l.r. n.     |             |
+|             |             | 56/1977 smi |             |
++-------------+-------------+-------------+-------------+
+| abitato da  |             |             |             |
+| consolidare |             |             |             |
++-------------+-------------+-------------+-------------+
+| zona        |             | l.r. 4/2009 |             |
+| boscata [3] |             |             |             |
++-------------+-------------+-------------+-------------+
+| PAI (piano  | fascia di   | Piano       |             |
+| di assetto  | deflusso    | stralcio    |             |
+| idrogeologi | della piena | per         |             |
+| co)         | (fascia "a" | l'Assetto   |             |
+|             | del pai)    | Idrogeologi |             |
+|             |             | co          |             |
+|             |             | (PAI)       |             |
++             +-------------+-------------+-------------+
+|             | fascia di   |             |             |
+|             | esondazione |             |             |
+|             | (fascia "b" |             |             |
+|             | del PAI)    |             |             |
++             +-------------+-------------+-------------+
+|             | area di     |             |             |
+|             | inondazione |             |             |
+|             | per piena   |             |             |
+|             | catastrofic |             |             |
+|             | a           |             |             |
+|             | (fascia "c" |             |             |
+|             | del PAI)    |             |             |
++             +-------------+-------------+-------------+
+|             | limite di   |             |             |
+|             | progetto    |             |             |
+|             | tra fascia  |             |             |
+|             | “b” e       |             |             |
+|             | fascia “c”  |             |             |
++             +-------------+-------------+-------------+
+|             | aree        |             |             |
+|             | inondabili  |             |             |
+|             | retrostanti |             |             |
+|             | i limiti    |             |             |
+|             | “b” di      |             |             |
+|             | progetto    |             |             |
++             +-------------+-------------+-------------+
+|             | aree a      |             |             |
+|             | rischio     |             |             |
+|             | molto       |             |             |
+|             | elevato     |             |             |
+|             | vigenti     |             |             |
+||             | (rme)       |             |             |
+|-------------+-------------+-------------+-------------+
+| pgra (piano | H           | aree        |             |
+| di gestione |             | interessate |             |
+| rischio     |             | da          |             |
+| alluvioni)  |             | alluvione   |             |
+|             |             | frequente - |             |
+|             |             | P3          |             |
++             +-------------+-------------+-------------+
+|             | M           | aree        |             |
+|             |             | interessate |             |
+|             |             | da          |             |
+|             |             | alluvione   |             |
+|             |             | poco        |             |
+|             |             | frequente - |             |
+|             |             | P2          |             |
++             +-------------+-------------+-------------+
+|             | L           | aree        |             |
+|             |             | interessate |             |
+|             |             | da          |             |
+|             |             | alluvione   |             |
+|             |             | rara - P1   |             |
++-------------+-------------+-------------+-------------+
+| Aree a      |             | d.lgs.      |             |
+| rischio     |             | 163/2006    |             |
+| archeologico|             | artt. 95 e  |             |
+|             |             | 96          |             |
++-------------+-------------+-------------+-------------+
 
 Tabella 1 (continua) Limitazioni e idoneità di carattere geologico, geomorfologico,
 geotecnco
