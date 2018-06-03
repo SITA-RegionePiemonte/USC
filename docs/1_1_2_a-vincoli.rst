@@ -133,6 +133,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |archeologico  |                      |artt. 95 e 96              |
 +--------------+----------------------+---------------------------+
 
+
 Tabella 1b - Limitazioni e idoneità di carattere geologico, geomorfologico,
 geotecnco (*per i codici relativi alle varie tipologie di movimento occorre fare riferimento alle indicazioni contenute al punto 3 della parte II dell'Allegato A alla DGR n. 64-7417 del 7/4/2014*)
 
@@ -177,7 +178,7 @@ geotecnco (*per i codici relativi alle varie tipologie di movimento occorre fare
 +           +-------------------+-------------+                   +
 |           |CS                               |                   |
 |           |Stabilizzato a pericolosità      |                   |
-|           | media/moderata                  |                   |
+|           |media/moderata                   |                   |
 +-----------+-------------------+-------------+                   +
 |Esondazione|Ee \:sub:`L`                     |                   |
 |reticolo   |Lineare a pericolosità           |                   |
@@ -220,6 +221,7 @@ geotecnco (*per i codici relativi alle varie tipologie di movimento occorre fare
 |           |                   |migliorativi |                   |
 +-----------+-------------------+-------------+-------------------+
 
+
 Tabella 1c - Idoneità geologica all'utilizzazione urbanistica del territorio
 
 +-----------------------+-------------------+------------+-----------------+
@@ -250,155 +252,116 @@ Tabella 1c - Idoneità geologica all'utilizzazione urbanistica del territorio
 |                       |rilocalizzare (Classe IIIc)     |                 |
 +-----------------------+-------------------+------------+-----------------+
 
-Tabella 1 (continua) Vincoli di tutela culturale, paesaggistica e ambientale
 
-+-----------------------------------------------------+-----------------+
-|**Vincolo/tutela**                                   |**riferimento    |
-|                                                     |normativo**      |
-+=================+=================+=================+=================+
-| **Liv. 1**      | **Liv. 2**      | **Liv. 3**      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|TUTELA           | Beni culturali  |                 | artt. 10 e 12   |
-|CULTURALE,       |                 |                 | del D.lgs       |
-|PAESAGGISTICA    |                 |                 | 42/2004         |
-|E AMBIENTALE     |                 |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Beni e          |                 | art. 24 lr      |
-|                 | insediamenti di |                 | 56/77           |
-|                 | interesse       |                 |                 |
-|                 | storico         |                 |                 |
-|                 | artistico       |                 |                 |
-|                 | paesaggistico   |                 |                 |
-|                 | (ex art 24 lr   |                 |                 |
-|                 | 56/77),         |                 |                 |
-|                 | compresi gli    |                 |                 |
-|                 | elementi        |                 |                 |
-|                 | architettonici  |                 |                 |
-|                 | e/o decorativi  |                 |                 |
-|                 | di pregio       |                 |                 |
-|                 | meritevoli di   |                 |                 |
-|                 | tutela  [5]_    |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Immobili e aree |                 | art. 157 del    |
-|                 | di notevole     |                 | D.lgs. 42/2004  |
-|                 | interesse       |                 | (L. 778/1922 e  |
-|                 | pubblico (ex    |                 | L. 1497/1939)   |
-|                 | 778-1497)       |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Immobili e aree |                 | art. 157 del    |
-|                 | di notevole     |                 | D.lgs. 42/2004  |
-|                 | interesse       |                 | (L. 1497/1939,  |
-|                 | pubblico (c.d.  |                 | D.M. 21/9/1984  |
-|                 | "Galassini")    |                 | e D.L. 312/1985 |
-|                 |                 |                 | con DD.MM.      |
-|                 |                 |                 | 1/8/1985)       |
-+                 +-----------------+-----------------+-----------------+
-|                 | Immobili e aree |                 | art. 136 del    |
-|                 | di notevole     |                 | D.lgs. 42/2004  |
-|                 | interesse       |                 | (artt. dal 138  |
-|                 | pubblico (ex    |                 | al 141del       |
-|                 | Codice)         |                 | Codice stesso)  |
-+                 +-----------------+-----------------+-----------------+
-|                 | Alberi          |                 | art. 157 del    |
-|                 | monumentali     |                 | D.lgs. 42/2004  |
-|                 |                 |                 | (l.r. 50/1995)  |
-+                 +-----------------+-----------------+-----------------+
-|                 | Territori       |                 | comma 1, lett.  |
-|                 | contermini ai   |                 | B art. 142 del  |
-|                 | laghi compresi  |                 | D.lgs. 42/2004  |
-|                 | in una fascia   |                 |                 |
-|                 | della           |                 |                 |
-|                 | profondità di   |                 |                 |
-|                 | 300 m           |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fiumi, i        |                 | comma 1, lett.  |
-|                 | torrenti, corsi |                 | c art. 142 del  |
-|                 | d'acqua e le    |                 | D.lgs. 42/2004  |
-|                 | relative sponde |                 |                 |
-|                 | o piedi degli   |                 |                 |
-|                 | argini per una  |                 |                 |
-|                 | fascia di 150 m |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Montagne per la |                 | comma 1, lett.  |
-|                 | parte eccedente |                 | d art. 142 del  |
-|                 | 1.600 m s.l.m.  |                 | D.lgs. 42/2004  |
-|                 | per la catena   |                 |                 |
-|                 | alpina e 1.200  |                 |                 |
-|                 | m s.l.m. per la |                 |                 |
-|                 | catena          |                 |                 |
-|                 | appenninica     |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Ghiacciai e     |                 | comma 1, lett.  |
-|                 | circhi glaciali |                 | e art. 142 del  |
-|                 |                 |                 | D.lgs. 42/2004  |
-+                 +-----------------+-----------------+-----------------+
-|                 | Parchi e        |                 | comma1, lett. f |
-|                 | riserve         |                 | art. 142 del    |
-|                 | nazionali o     |                 | D.lgs. 42/2004, |
-|                 | regionali,      |                 | L.394/1991, lr  |
-|                 | nonché i        |                 | 19/2009         |
-|                 | territori di    |                 |                 |
-|                 | protezione      |                 |                 |
-|                 | esterna dei     |                 |                 |
-|                 | parchi          |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Territori       |                 | comma 1, lett.  |
-|                 | coperti da      |                 | g art. 142 del  |
-|                 | foreste e da    |                 | D.lgs. 42/2004  |
-|                 | boschi          |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Zone gravate da |                 | comma , lett. h |
-|                 | usi civici      |                 | art. 142 del    |
-|                 |                 |                 | D.lgs. 42/2004  |
-+                 +-----------------+-----------------+-----------------+
-|                 | Zone umide      |                 | comma 1, lett.  |
-|                 |                 |                 | i art. 142 del  |
-|                 |                 |                 | D.lgs. 42/2004  |
-+                 +-----------------+-----------------+-----------------+
-|                 | Zone di         |                 | comma 1, lett.  |
-|                 | interesse       |                 | m art. 142 del  |
-|                 | archeologico    |                 | D.lgs. 42/2004  |
-+                 +-----------------+-----------------+-----------------+
-|                 | Rete Natura2000 | siti di         | Direttiva       |
-|                 |                 | importanza      | 92/43/CEE,      |
-|                 |                 | comunitaria     | Direttiva       |
-|                 |                 |                 | 2009/147/CEE,   |
-|                 |                 |                 | DPR 357/1997,   |
-|                 |                 |                 | l.r. 19/2009    |
-+                 +                 +-----------------+-----------------+
-|                 |                 | zone di         |                 |
-|                 |                 | protezione      |                 |
-|                 |                 | speciale        |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | zone speciali   |                 |
-|                 |                 | di              |                 |
-|                 |                 | conservazione   |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Elementi di     | zone naturali   | l.r. 19/2009    |
-|                 | interesse       | di salvaguardia |                 |
-|                 | naturalistico-t |                 |                 |
-|                 | erritoriale     |                 |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | corridoi        |                 |
-|                 |                 | ecologici       |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Siti inseriti   |                 |                 |
-|                 | nel patrimonio  |                 |                 |
-|                 | mondiale        |                 |                 |
-|                 | dell’UNESCO     |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Siti UNESCO -   |                 |                 |
-|                 | proposte di     |                 |                 |
-|                 | candidature in  |                 |                 |
-|                 | atto            |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Piani           | Piani           | l.r. 56/1977    |
-|                 | sovraordinati   | paesistici      |                 |
-|                 |                 | provinciali e   |                 |
-|                 |                 | regionali       |                 |
-+-----------------+-----------------+-----------------+-----------------+
+Tabella 1d - Vincoli di tutela culturale, paesaggistica e ambientale
 
-Tabella 1 (continua) Vincoli antropici
++--------------------------------+-------------------------+-----------------+
+|**Vincolo/tutela**                                        |**riferimento    |
+|                                                          |normativo**      |
++================================+=========================+=================+
+|**Liv. 2**                      |**Liv. 3**               |                 |
++--------------------------------+-------------------------+-----------------+
+|Beni culturali                  |                         |artt. 10 e 12    |
+|                                |                         |del D.lgs        |
+|                                |                         |42/2004          |
++--------------------------------+-------------------------+-----------------+
+|Beni e insediamenti di interesse|                         |art. 24 l.r.     |
+|storico artistico paesaggistico |                         |56/1977          |
+|(ex art 24 lr 56/77), compresi  |                         |                 |
+|gli elementi architettonici e/o |                         |                 |
+|decorativi di pregio meritevoli |                         |                 |
+|di tutela  [5]_                 |                         |                 |
++--------------------------------+-------------------------+-----------------+
+|Immobili e aree di notevole     |                         |art. 157 del     |
+|interesse pubblico (ex 778-1497)|                         |D.lgs. 42/2004   |
+|                                |                         |(L. 778/1922 e   |
+|                                |                         |L. 1497/1939)    |
++--------------------------------+-------------------------+-----------------+
+|Immobili e aree di notevole     |                         |art. 157 del     |
+|interesse pubblico              |                         |D.lgs. 42/2004   |
+|(c.d. "Galassini")              |                         |(L. 1497/1939,   |
+|                                |                         |D.M. 21/9/1984   |
+|                                |                         |e D.L. 312/1985  |
+|                                |                         |con DD.MM.       |
+|                                |                         |1/8/1985)        |
++--------------------------------+-------------------------+-----------------+
+|Immobili e aree di notevole     |                         |art. 136 del     |
+|interesse pubblico (ex Codice)  |                         |D.lgs. 42/2004   |
+|                                |                         |(artt. dal 138   |
+|                                |                         |al 141 del       |
+|                                |                         |Codice stesso)   |
++--------------------------------+-------------------------+-----------------+
+|Alberi monumentali              |                         |art. 157 del     |
+|                                |                         |D.lgs. 42/2004   |
+|                                |                         |(l.r. 50/1995)   |
++--------------------------------+-------------------------+-----------------+
+|Territori contermini ai laghi   |                         |comma 1, lett. B |
+|compresi in una fascia della    |                         |art. 142 del     |
+|profondità di 300 m             |                         |D.lgs. 42/2004   |
++--------------------------------+-------------------------+-----------------+
+|Fiumi, torrenti, corsi d'acqua e|                         |comma 1, lett.   |
+|le relative sponde o piedi degli|                         |c art. 142 del   |
+|argini per una fascia di 150 m  |                         |D.lgs. 42/2004   |
++--------------------------------+-------------------------+-----------------+
+|Montagne per la parte eccedente |                         |comma 1, lett.   |
+|1.600 m s.l.m. per la catena    |                         |d art. 142 del   |
+|alpina e 1.200 m s.l.m. per la  |                         |D.lgs. 42/2004   |
+|catena appenninica              |                         |                 |
++--------------------------------+-------------------------+-----------------+
+|Ghiacciai e circhi glaciali     |                         |comma 1, lett. e |
+|                                |                         |art. 142 del     |
+|                                |                         |D.lgs. 42/2004   |
++--------------------------------+-------------------------+-----------------+
+|Parchi e riserve  nazionali o   |                         |comma1, lett. f  |
+|regionali, nonché i territori   |                         |art. 142 del     |
+|di protezione esterna dei parchi|                         |D.lgs. 42/2004,  |
+|                                |                         |L.394/1991, lr   |
+|                                |                         |19/2009          |
++--------------------------------+-------------------------+-----------------+
+|Territori coperti da foreste e  |                         |comma 1, lett. g |
+|da boschi                       |                         |art. 142 del     |
+|                                |                         |D.lgs. 42/2004   |
++--------------------------------+-------------------------+-----------------+
+|Zone gravate da usi civici      |                         |comma , lett. h  |
+|                                |                         |art. 142 del     |
+|                                |                         |D.lgs. 42/2004   |
++--------------------------------+-------------------------+-----------------+
+|Zone umide                      |                         |comma 1, lett. i |
+|                                |                         |art. 142 del     |
+|                                |                         |D.lgs. 42/2004   |
++--------------------------------+-------------------------+-----------------+
+|Zone di interesse  archeologico |                         |comma 1, lett. m |
+|                                |                         |art. 142 del     |
+|                                |                         |D.lgs. 42/2004   |
++--------------------------------+-------------------------+-----------------+
+|Rete Natura2000                 |siti di                  |Direttiva        |
+|                                |importanza               |92/43/CEE,       |
+|                                |comunitaria              |Direttiva        |
++                                +-------------------------+2009/147/CEE,    +
+|                                |zone di protezione       |DPR 357/1997,    |
+|                                |speciale                 |l.r. 19/2009     |
++                                +-------------------------+                 +
+|                                |zone speciali di         |                 |
+|                                |conservazione            |                 |
++--------------------------------+-------------------------+-----------------+
+|Elementi di interesse           |zone naturali            |l.r. 19/2009     |
+|naturalistico-territoriale      |di salvaguardia          |                 |
++                                +-------------------------+                 +
+|                                |corridoi                 |                 |
+|                                |ecologici                |                 |
++--------------------------------+-------------------------+-----------------+
+|Siti inseriti nel patrimonio    |                         |                 |
+|mondiale dell’UNESCO            |                         |                 |
++--------------------------------+-------------------------+-----------------+
+|Siti UNESCO - proposte di       |                         |                 |
+|candidature in atto             |                         |                 |
++--------------------------------+-------------------------+-----------------+
+|Piani sovraordinati             |Piani paesistici         |l.r. 56/1977     |
+|                                |provinciali e regionali  |                 |
++--------------------------------+-------------------------+-----------------+
+
+
+Tabella 1e - Vincoli antropici
 
 +-----------------------------------------------------+-----------------+
 |**Vincolo/tutela**                                   |**riferimento    |
