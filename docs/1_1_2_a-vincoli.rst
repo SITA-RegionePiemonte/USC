@@ -363,223 +363,152 @@ Tabella 1d - Vincoli di tutela culturale, paesaggistica e ambientale
 
 Tabella 1e - Vincoli antropici
 
-+-----------------------------------------------------+-----------------+
-|**Vincolo/tutela**                                   |**riferimento    |
-|                                                     |normativo**      |
-+=================+=================+=================+=================+
-| **Liv. 1**      | **Liv. 2**      | **Liv. 3**      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|    VINCOLI      | Fascia di       |                 | art. 27, c.4,   |
-|    ANTROPICI    | rispetto        |                 | l.r. n. 56/1977 |
-|                 | cimiteriale     |                 | smi; L.         |
-|                 | (200 m dal      |                 | 166/2002        |
-|                 | centro abitato) |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       | fascia di       | art. 27 l.r. n. |
-|                 | rispetto        | rispetto da     | 56/1977 smi, L. |
-|                 | stradale        | rete            | 166/2002,       |
-|                 |                 | autostradale    | Codice della    |
-|                 |                 | (tipo a > = 60  | strada          |
-|                 |                 | m / 30 m        |                 |
-|                 |                 | all’interno     |                 |
-|                 |                 | dell’abitato)   |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | fascia di       |                 |
-|                 |                 | rispetto da     |                 |
-|                 |                 | strada          |                 |
-|                 |                 | extraurbana     |                 |
-|                 |                 | principale      |                 |
-|                 |                 | (tipo b > = 40  |                 |
-|                 |                 | m)              |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | fascia di       |                 |
-|                 |                 | rispetto da     |                 |
-|                 |                 | strada          |                 |
-|                 |                 | extraurbana     |                 |
-|                 |                 | secondaria      |                 |
-|                 |                 | (tipo c > = 30  |                 |
-|                 |                 | m / 20 m        |                 |
-|                 |                 | interno         |                 |
-|                 |                 | abitato)        |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | fascia di       |                 |
-|                 |                 | rispetto da     |                 |
-|                 |                 | strada urbana   |                 |
-|                 |                 | di scorrimento  |                 |
-|                 |                 | (tipo d > = 20  |                 |
-|                 |                 | m)              |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | fascia di       |                 |
-|                 |                 | rispetto da     |                 |
-|                 |                 | strada urbana   |                 |
-|                 |                 | di quartiere    |                 |
-|                 |                 | (tipo e > = 20  |                 |
-|                 |                 | m)              |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | fascia di       |                 |
-|                 |                 | rispetto da     |                 |
-|                 |                 | strada locale   |                 |
-|                 |                 | (tipo f > = 20  |                 |
-|                 |                 | m)              |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       | fascia di       | art. 27 l.r. n. |
-|                 | rispetto        | rispetto        | 56/1977 smi     |
-|                 | ferroviaria     | ferroviaria     |                 |
-|                 |                 | (alta velocità) | art. 49 d.P.R.  |
-|                 |                 |                 | n. 753/1980     |
-+                 +                 +-----------------+-----------------+
-|                 |                 | fascia di       |                 |
-|                 |                 | rispetto        |                 |
-|                 |                 | ferroviaria (30 |                 |
-|                 |                 | m)              |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | fascia di       |                 |
-|                 |                 | rispetto della  |                 |
-|                 |                 | metropolitana   |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       |                 | R.D. 635/40;    |
-|                 | rispetto da     |                 | circ. 35/53;    |
-|                 | lavorazione/dep |                 | circ. 91/54;    |
-|                 | osito           |                 | circ. 74/56;    |
-|                 | di materiali    |                 | art 27 l.r.     |
-|                 | pericolosi o    |                 | 56/1977 e       |
-|                 | insalubri       |                 | s.m.i.          |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       |                 | art.27 l.r. n.  |
-|                 | rispetto da     |                 | 56/1977 smi;    |
-|                 | impianto di     |                 | art. 31 c. 3    |
-|                 | depurazione (>= |                 | Piano Tutela    |
-|                 | 100 m)          |                 | Acque           |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       |                 | circ.56/54;     |
-|                 | rispetto da     |                 | circ.91/54;     |
-|                 | metanodotto     |                 | circ.74/56;     |
-|                 |                 |                 | D.M.24/11/1984; |
-|                 |                 |                 | DM 16/11/1999   |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       |                 |                 |
-|                 | rispetto da     |                 |                 |
-|                 | gasdotto        |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       |                 |                 |
-|                 | rispetto da     |                 |                 |
-|                 | oleodotto       |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       | DPA e APA       | legge 36 del    |
-|                 | rispetto per    |                 | 22/02/2001;     |
-|                 | gli             |                 |                 |
-|                 | elettrodotti    |                 | DPCM            |
-|                 |                 |                 | 08/07/2003; DM  |
-|                 |                 |                 | 29/05/2008      |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       |                 | l.r. 14/12/89   |
-|                 | rispetto da     |                 | n. 74, l.r.     |
-|                 | impianto di     |                 | 2/2009          |
-|                 | risalita a fune |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Area sciabile   |                 | l.r. 2/2009     |
-+                 +-----------------+-----------------+-----------------+
-|                 | Fascia di       | fascia di       | art. 27 l.r. n. |
-|                 | rispetto dalle  | rispetto delle  | 56/1977 smi     |
-|                 | stalle          | nuove stalle    |                 |
-|                 |                 | dall'abitazione |                 |
-|                 |                 | del conduttore  |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | fascia di       |                 |
-|                 |                 | rispetto delle  |                 |
-|                 |                 | nuove stalle da |                 |
-|                 |                 | altri edifici   |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | fascia di       |                 |
-|                 |                 | rispetto delle  |                 |
-|                 |                 | stalle da       |                 |
-|                 |                 | centri abitati  |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | Fascia di       |                 |
-|                 |                 | rispetto delle  |                 |
-|                 |                 | nuove           |                 |
-|                 |                 | abitazioni      |                 |
-|                 |                 | dalle stalle    |                 |
-|                 |                 | esistenti       |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Servitù alla    | Servitù         | L.58/63; nota   |
-|                 | navigazione     | navigazione     | M.T./90         |
-|                 | aerea           | aerea - fascia  | ostacoli alla   |
-|                 |                 | perimetrale 1:7 | navigazione     |
-|                 |                 | (300 m)         | aerea           |
-+                 +                 +-----------------+-----------------+
-|                 |                 | Servitù         |                 |
-|                 |                 | navigazione     |                 |
-|                 |                 | aerea - piano   |                 |
-|                 |                 | orizzontale     |                 |
-|                 |                 | (h=+45m)        |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | Servitù         |                 |
-|                 |                 | navigazione     |                 |
-|                 |                 | aerea - piano   |                 |
-|                 |                 | conico 1:20     |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Servitù alla    | Servitù alla    | L.58/63; nota   |
-|                 | direzione di    | direzione di    | M.T./90         |
-|                 | volo            | volo -          | ostacoli alla   |
-|                 |                 | inedificabilità | direzione di    |
-|                 |                 | assoluta        | volo            |
-+                 +                 +-----------------+-----------------+
-|                 |                 | servitù alla    |                 |
-|                 |                 | direzione di    |                 |
-|                 |                 | volo - pendenza |                 |
-|                 |                 | 1:50            |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | servitù alla    |                 |
-|                 |                 | direzione di    |                 |
-|                 |                 | volo - pendenza |                 |
-|                 |                 | 1:40            |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Servitù         |                 | D.P.R.780/79    |
-|                 | militare        |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Vincolo         |                 | DPR 43/1973     |
-|                 | doganale        |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Area di         | zona di tutela  | art. 94 d.lgs.  |
-|                 | salvaguardia    | assoluta delle  | 152/2006        |
-|                 | delle risorse   | opere di presa  |                 |
-|                 | idriche         | idrica (> = 10  |                 |
-|                 |                 | m.)             |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | zona di         |                 |
-|                 |                 | rispetto delle  |                 |
-|                 |                 | risorse idriche |                 |
-|                 |                 | (> = 200 m.)    |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | zona di         | regolamento     |
-|                 |                 | rispetto        | 15/R/2006       |
-|                 |                 | ristretta delle |                 |
-|                 |                 | risorse idriche |                 |
-+                 +                 +-----------------+-----------------+
-|                 |                 | zona di         |                 |
-|                 |                 | rispetto        |                 |
-|                 |                 | allargata delle |                 |
-|                 |                 | risorse idriche |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Area di         |                 | Piano di Tutela |
-|                 | salvaguardia    |                 | delle Acque     |
-|                 | delle aree di   |                 | approvato con   |
-|                 | ricarica        |                 | DCR 117- 10731  |
-|                 | dell’acquifero  |                 | del 13/03/2007  |
-|                 | profondo        |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Edificio        |                 |  d.lgs.         |
-|                 | industriale/azi |                 | 105/2015 ex     |
-|                 | enda            |                 | Direttiva       |
-|                 | a rischio di    |                 | 2012/18UE-DM9/5 |
-|                 | incidente       |                 | /2001           |
-|                 | rilevante       |                 |                 |
-+                 +-----------------+-----------------+-----------------+
-|                 | Vincolo di      |                 | Art 13 l.r.     |
-|                 | inedificabilità |                 | 56/1977 s.m.i.  |
-|                 | generica        |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
++---------------------------------------------------+---------------------+
+|**Vincolo/tutela**                                 |**riferimento        |
+|                                                   |normativo**          |
++=======================+===========================+=====================+
+|**Liv. 2**             |**Liv. 3**                 |                     |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto     |                           |art. 27, c.4,        |
+|cimiteriale (200 m dal |                           |l.r. n. 56/1977 smi; |
+|centro abitato)        |                           |L.166/2002           |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto     |fascia di rispetto da rete |art. 27 l.r. n.      |
+|stradale               |autostradale (tipo a       |56/1977 smi;         |
+|                       |> = 60 m / 30 m            |L.166/2002, Codice   |
+|                       |all’interno dell’abitato)  |della strada         |
++                       +---------------------------+                     +
+|                       |fascia di rispetto da      |                     |
+|                       |strada extraurbana         |                     |
+|                       |principale (tipo b >= 40m) |                     |
++                       +---------------------------+                     +
+|                       |fascia di rispetto da      |                     |
+|                       |strada extraurbana         |                     |
+|                       |secondaria (tipo c >= 30m  |                     |
+|                       |/ 20 m  interno abitato)   |                     |
++                       +---------------------------+                     +
+|                       |fascia di rispetto da      |                     |
+|                       |strada urbana di           |                     |
+|                       |scorrimento  (tipo d >= 20 |                     |
+|                       |m)                         |                     |
++                       +---------------------------+                     +
+|                       |fascia di rispetto da      |                     |
+|                       |strada urbana di quartiere |                     |
+|                       |(tipo e >= 20 m)           |                     |
++                       +---------------------------+                     +
+|                       |fascia di rispetto da      |                     |
+|                       |strada locale              |                     |
+|                       |(tipo f >= 20 m)           |                     |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto     |fascia di rispetto         |art. 27 l.r. n.      |
+|ferroviaria            |ferroviaria (alta velocità)|56/1977 smi;         |
++                       +---------------------------|art. 49 d.P.R.       |
+|                       |fascia di rispetto         |n. 753/1980          |
+|                       |ferroviaria (30 m)         |                     |
++                       +---------------------------+                     +
+|                       |fascia di rispetto della   |                     |
+|                       |metropolitana              |                     |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto da  |                           |R.D. 635/40;         |
+|lavorazione/deposito   |                           |circ. 35/53;         |
+|di materiali pericolosi|                           |circ. 91/54;         |
+|o insalubri            |                           |circ. 74/56;         |
+|                       |                           |art 27 l.r.56/1977 e |
+|                       |                           |s.m.i.               |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto da  |                           |art.27 l.r. n.       |
+|impianto di depurazione|                           |56/1977 smi;         |
+|(>= 100 m)             |                           |art. 31 c. 3  Piano  |
+|                       |                           |Tutela Acque         |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto da  |                           |circ.56/54;          |
+|metanodotto            |                           |circ.91/54;          |
+|                       |                           |circ.74/56;          |
+|                       |                           |D.M.24/11/1984;      |
+|                       |                           |DM 16/11/1999        |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto da  |                           |                     |
+|gasdotto               |                           |                     |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto da  |                           |                     |
+|oleodotto              |                           |                     |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto per |DPA e APA                  |legge 36/2001;       |
+|gli elettrodotti       |                           |DPCM 08/07/2003;     |
+|                       |                           |DM 29/05/2008        |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto da  |                           |l.r. 14/12/89        |
+|impianto di risalita a |                           |n. 74, l.r.          |
+|fune                   |                           |2/2009               |
++-----------------------+---------------------------+---------------------+
+|Area sciabile          |                           |l.r. 2/2009          |
++-----------------------+---------------------------+---------------------+
+|Fascia di rispetto     |fascia di rispetto delle   |art. 27 l.r. n.      |
+|dalle stalle           |nuove stalle               |56/1977 smi          |
+|                       |dall'abitazione del        |                     |
+|                       |conduttore                 |                     |
++                       +---------------------------+                     +
+|                       |fascia di rispetto delle   |                     |
+|                       |nuove stalle da altri      |                     |
+|                       | edifici                   |                     |
++                       +---------------------------+                     +
+|                       |fascia di rispetto delle   |                     |
+|                       |stalle da centri abitati   |                     |
++                       +---------------------------+                     +
+|                       |Fascia di rispetto delle   |                     |
+|                       |nuove abitazioni dalle     |                     |
+|                       |stalle esistenti           |                     |
++-----------------------+---------------------------+---------------------+
+|Servitù alla           |Servitù navigazione aerea  |L.58/63; nota M.T./90|
+|navigazione aerea      |- fascia perimetrale       |ostacoli alla        |
+|                       |1:7 (300 m)                |navigazione aerea    |
++                       +---------------------------+                     +
+|                       |Servitù navigazione aerea  |                     |
+|                       |- piano orizzontale        |                     |
+|                       |(h=+45m)                   |                     |
++                       +---------------------------+                     +
+|                       |Servitù navigazione aerea  |                     |
+|                       |- piano conico 1:20        |                     |
++-----------------------+---------------------------+---------------------+
+|Servitù alla direzione |Servitù alla direzione di  |L.58/63; nota M.T./90|
+|di volo                |volo - inedificabilità     |ostacoli alla        |
+|                       |assoluta                   |direzione di volo    |
++                       +---------------------------+                     +
+|                       |servitù alla direzione di  |                     |
+|                       |volo - pendenza 1:50       |                     |
++                       +---------------------------+                     +
+|                       |servitù alla direzione di  |                     |
+|                       |volo - pendenza 1:40       |                     |
++-----------------------+---------------------------+---------------------+
+|Servitù militare       |                           |D.P.R.780/79         |
++-----------------------+---------------------------+---------------------+
+|Vincolo doganale       |                           |DPR 43/1973          |
++-----------------------+---------------------------+---------------------+
+|Area di salvaguardia   |zona di tutela assoluta    |art. 94 d.lgs.       |
+|delle risorse idriche  |delle opere di presa idrica|152/2006             |
+|                       |(> = 10 m)                 |                     |
++                       +---------------------------+                     +
+|                       |zona di rispetto delle     |                     |
+|                       |risorse idriche (> = 200 m)|                     |
++                       +---------------------------+---------------------+
+|                       |zona di rispetto ristretta |regolamento 15/R/2006|
+|                       |delle risorse idriche      |                     |
++                       +---------------------------+                     +
+|                       |zona di rispetto allargata |                     |
+|                       |delle risorse idriche      |                     |
++-----------------------+---------------------------+---------------------+
+|Area di salvaguardia   |                           |Piano di Tutela delle|
+|delle aree di ricarica |                           |Acque (DCR 117- 10731|
+|dell’acquifero profondo|                           |del 13/03/2007)      |
++-----------------------+---------------------------+---------------------+
+|Edificio industriale/  |                           |d.lgs. 105/2015      |
+|azienda a rischio di   |                           |ex Direttiva         |
+|incidente rilevante    |                           |2012/18UE-DM9/5/2001 |
++-----------------------+---------------------------+---------------------+
+|Vincolo di             |                           |Art 13 l.r.          |
+|inedificabilità        |                           |56/1977 s.m.i.       |
+|generica               |                           |                     |
++-----------------------+---------------------------+---------------------+
 
 .. raw:: html
            :file: disqus.html
