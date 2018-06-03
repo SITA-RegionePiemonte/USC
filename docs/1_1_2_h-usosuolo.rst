@@ -137,8 +137,8 @@ Tabella 7 - Copertura del suolo (le classi fanno riferimento alla BDTRE)
 |           |           | giardini   |           |           |           |
 +-----------+-----------+------------+-----------+-----------+-----------+
 | Cave -    | Area      | miniera    |Sotterranea|           |           |
-| discarich | estrattiv |            |           |           |           |
-| e         | a         |            |           |           |           |
+| discariche| estrattiv |            |           |           |           |
+|           | a         |            |           |           |           |
 |           | *[classe  |            |           |           |           |
 |           | CV_AES]*  |            |           |           |           |
 +           +           +            +-----------+-----------+-----------+
@@ -151,11 +151,10 @@ Tabella 7 - Copertura del suolo (le classi fanno riferimento alla BDTRE)
 |           | *[classe  |            |           |           |           |
 |           | CV_DIS]*  |            |           |           |           |
 +-----------+-----------+------------+-----------+-----------+-----------+
-| Urbanizza |           |            |           |           |           |
-| to        |           |            |           |           |           |
+|Urbanizzato|           |            |           |           |           |
 +-----------+-----------+------------+-----------+-----------+-----------+
-| Infrastru |           |            |           |           |           |
-| tture     |           |            |           |           |           |
+| Infrastrut|           |            |           |           |           |
+| ture      |           |            |           |           |           |
 +-----------+-----------+------------+-----------+-----------+-----------+
 
 
