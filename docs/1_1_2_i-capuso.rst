@@ -6,46 +6,46 @@ del suolo omogenea, descritte secondo la tabella:
 
 Tabella 8 – Capacità d’uso dei suoli
 
-+-----------------------------------+-----------------------------------+
-| **CAPACITÀ D’USO DEI SUOLI**                                          |
-+===================================+===================================+
-| **CLASSE**                        | **CARATTERISTICHE**               |
-+-----------------------------------+-----------------------------------+
-| 1                                 | Suoli privi o quasi di            |
-|                                   | limitazioni, adatti per una ampia |
-|                                   | scelta di colture agrarie         |
-+-----------------------------------+-----------------------------------+
-| 2                                 | Suoli con alcune moderate         |
-|                                   | limitazioni che riducono la       |
-|                                   | produzione delle colture agrarie  |
-+-----------------------------------+-----------------------------------+
-| 3                                 | Suoli con alcune limitazioni che  |
-|                                   | riducono la scelta e la           |
-|                                   | produzione delle colture agrarie  |
-+-----------------------------------+-----------------------------------+
-| 4                                 | Suoli con molte limitazioni che   |
-|                                   | restringono la scelta delle       |
-|                                   | colture agrarie e richiedono      |
-|                                   | specifiche pratiche agronomiche   |
-+-----------------------------------+-----------------------------------+
-| 5                                 | Suoli con forti limitazioni che   |
-|                                   | ne restringono notevolmente l’uso |
-|                                   | agrario                           |
-+-----------------------------------+-----------------------------------+
-| 6                                 | Suoli con limitazioni molto       |
-|                                   | forti; il loro uso è ristretto al |
-|                                   | pascolo e al bosco                |
-+-----------------------------------+-----------------------------------+
-| 7                                 | Suoli con limitazioni severe; il  |
-|                                   | loro uso è ristretto al pascolo   |
-|                                   | poco produttivo e al bosco di     |
-|                                   | protezione                        |
-+-----------------------------------+-----------------------------------+
-| 8                                 | Suoli con limitazioni molto       |
-|                                   | severe, tali da precludere il     |
-|                                   | loro uso a qualsiasi fine         |
-|                                   | produttivo.                       |
-+-----------------------------------+-----------------------------------+
++-----------------------------------------------------------------+
+| **CAPACITÀ D’USO DEI SUOLI**                                    |
++=============+===================================================+
+| **CLASSE**  | **CARATTERISTICHE**                               |
++-------------+---------------------------------------------------+
+| 1           | Suoli privi o quasi di                            |
+|             | limitazioni, adatti per una ampia                 |
+|             | scelta di colture agrarie                         |
++-------------+---------------------------------------------------+
+| 2           | Suoli con alcune moderate                         |
+|             | limitazioni che riducono la                       |
+|             | produzione delle colture agrarie                  |
++-------------+---------------------------------------------------+
+| 3           | Suoli con alcune limitazioni che                  |
+|             | riducono la scelta e la                           |
+|             | produzione delle colture agrarie                  |
++-------------+---------------------------------------------------+
+| 4           | Suoli con molte limitazioni che                   |
+|             | restringono la scelta delle                       |
+|             | colture agrarie e richiedono                      |
+|             | specifiche pratiche agronomiche                   |
++-------------+---------------------------------------------------+
+| 5           | Suoli con forti limitazioni che                   |
+|             | ne restringono notevolmente l’uso                 |
+|             | agrario                                           |
++-------------+---------------------------------------------------+
+| 6           | Suoli con limitazioni molto                       |
+|             | forti; il loro uso è ristretto al                 |
+|             | pascolo e al bosco                                |
++-------------+---------------------------------------------------+
+| 7           | Suoli con limitazioni severe; il                  |
+|             | loro uso è ristretto al pascolo                   |
+|             | poco produttivo e al bosco di                     |
+|             | protezione                                        |
++-------------+---------------------------------------------------+
+| 8           | Suoli con limitazioni molto                       |
+|             | severe, tali da precludere il                     |
+|             | loro uso a qualsiasi fine                         |
+|             | produttivo.                                       |
++-------------+---------------------------------------------------+
 
 La cartografia della Capacità d’uso dei suoli del Piemonte è stata
 adottata ufficialmente con D.G.R . 30 novembre 2010 n. 75-1148 "D.G.R.
