@@ -116,16 +116,16 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |              |aree a rischio molto  |                           |
 |              |elevato vigenti (rme) |                           |
 +--------------+----------------------+---------------------------+
-|PGRA (piano   |H        - P3         |                           |
+|PGRA (piano   |H (P3)                |                           |
 |di gestione   |aree interessate da   |                           |
 |rischio       |alluvione frequente P3|                           |
 +alluvioni)    +----------------------+---------------------------+
-|              |M        - P2         |                           |
+|              |M (P2)                |                           |
 |              |aree interessate da   |                           |
 |              |alluvione poco        |                           |
 |              |frequente             |                           |
 +              +----------------------+---------------------------+
-|              |L         - P1        |                           |
+|              |L (P1)                |                           |
 |              |aree interessate da   |                           |
 |              |alluvione rara        |                           |
 +--------------+----------------------+---------------------------+
