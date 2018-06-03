@@ -402,7 +402,7 @@ Tabella 1e - Vincoli antropici
 +-----------------------+---------------------------+---------------------+
 |Fascia di rispetto     |fascia di rispetto         |art. 27 l.r. n.      |
 |ferroviaria            |ferroviaria (alta velocità)|56/1977 smi;         |
-+                       +---------------------------|art. 49 d.P.R.       |
++                       +---------------------------+art. 49 d.P.R.       +
 |                       |fascia di rispetto         |n. 753/1980          |
 |                       |ferroviaria (30 m)         |                     |
 +                       +---------------------------+                     +
