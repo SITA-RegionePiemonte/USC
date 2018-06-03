@@ -15,7 +15,7 @@ modificare la struttura generale proposta.
 
 Tabella 1a - Limitazioni e vincoli di tutela territoriale
 
-+-------------------------------------+---------------------------+
++--------------+----------------------+---------------------------+
 |**Vincolo/tutela**                   |**riferimento normativo**  |
 +==============+======================+===========================+
 |**Liv. 2**    | **Liv. 3**           |                           |
