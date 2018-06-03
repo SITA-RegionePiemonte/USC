@@ -133,6 +133,7 @@ Tabella 1a - Limitazioni e vincoli di tutela territoriale
 |archeologico  |                      |artt. 95 e 96              |
 +--------------+----------------------+---------------------------+
 
+-----------
 
 Tabella 1b - Limitazioni e idoneità di carattere geologico, geomorfologico,
 geotecnco (*per i codici relativi alle varie tipologie di movimento occorre fare riferimento alle indicazioni contenute al punto 3 della parte II dell'Allegato A alla DGR n. 64-7417 del 7/4/2014*)
@@ -221,6 +222,7 @@ geotecnco (*per i codici relativi alle varie tipologie di movimento occorre fare
 |           |                   |migliorativi |                   |
 +-----------+-------------------+-------------+-------------------+
 
+-----------
 
 Tabella 1c - Idoneità geologica all'utilizzazione urbanistica del territorio
 
@@ -252,6 +254,7 @@ Tabella 1c - Idoneità geologica all'utilizzazione urbanistica del territorio
 |                       |rilocalizzare (Classe IIIc)     |                 |
 +-----------------------+-------------------+------------+-----------------+
 
+-----------
 
 Tabella 1d - Vincoli di tutela culturale, paesaggistica e ambientale
 
@@ -360,6 +363,7 @@ Tabella 1d - Vincoli di tutela culturale, paesaggistica e ambientale
 |                                |provinciali e regionali  |                 |
 +--------------------------------+-------------------------+-----------------+
 
+-----------
 
 Tabella 1e - Vincoli antropici
 
