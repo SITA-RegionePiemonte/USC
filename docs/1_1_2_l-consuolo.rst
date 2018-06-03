@@ -134,10 +134,10 @@ Tabella 10 – monitoraggio del progressivo consumo di suolo
 | **MONITORAGGIO DEL PROGRESSIVO CONSUMO DI SUOLO**                     |
 +===========+=========+=========+=========+=========+=========+=========+
 |           |**Sup    | **CSU** | **CSU   | **CSU   | **Δ**   | **Δ**   |
-|           |comune** |     (m2)| in      | in      |         |         |
-|           |    (m2) |         | increme | increme | mq      | %       |
+|           |comune** | (m2)    | in      | in      |         |         |
+|           |(m2)     |         | increme | increme | mq      | %       |
 |           |         |         | nto**   | nto**   |         |         |
-|           |         |         | (3%     |     (6% |         |         |
+|           |         |         | (3%     | (6%     |         |         |
 |           |         |         | max-5   | max -   |         |         |
 |           |         |         | anni)   | 10      |         |         |
 |           |         |         |         | anni)   |         |         |
@@ -155,7 +155,7 @@ Tabella 10 – monitoraggio del progressivo consumo di suolo
 |**Variante |         |         |         |         |         |         |
 |n…**       |         |         |         |         |         |         |
 |           |         |         |         |         |         |         |
-|**anno… ** |         |         |         |         |         |         |
+|**anno…**  |         |         |         |         |         |         |
 +-----------+---------+---------+---------+---------+---------+---------+
 |**…**      |         |         |         |         |         |         |
 +-----------+---------+---------+---------+---------+---------+---------+
