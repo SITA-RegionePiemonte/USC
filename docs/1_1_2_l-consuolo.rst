@@ -135,7 +135,7 @@ Tabella 10 – monitoraggio del progressivo consumo di suolo
 +===========+=========+=========+=========+=========+==========+=========+
 |           |**Sup    | **CSU** |**CSU    | **CSU   |**Δ**     | **Δ**   |
 |           |comune** |         |in       | in      |          |         |
-|           |         | (m2)    |incremen | incremen|m :sup:'2'|         |
+|           |         | (m2)    |incremen | incremen|(m2)      |         |
 |           |(m2)     |         |to**     | to**    |          | %       |
 |           |         |         |         |         |          |         |
 |           |         |         |(3%      | (6%     |          |         |
