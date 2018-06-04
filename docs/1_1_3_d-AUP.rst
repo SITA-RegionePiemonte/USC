@@ -14,20 +14,18 @@ Tabella 14 – Aree urbanistiche di progetto
 +=================+=================+=================+=================+
 | **Codice**      | **Nome**        | **Descrizione** |                 |
 +-----------------+-----------------+-----------------+-----------------+
-| **CN**          | .. rubric:: Are | confermate      | Tessuto saturo  |
-|                 | e               |                 | ove non sono    |
-|                 |    consolidate  |                 | previsti        |
-|                 |    :name: aree- |                 | significativi   |
-|                 | consolidate     |                 | incrementi      |
+| **CN**          | Aree            | confermate      | Tessuto saturo  |
+|                 | consolidate     |                 | ove non sono    |
+|                 |                 |                 | previsti        |
+|                 |                 |                 | significativi   |
+|                 |                 |                 | incrementi      |
 |                 |                 |                 | edificatori.    |
 |                 |                 |                 | Aree totalmente |
 |                 |                 |                 | edificate e     |
-|                 |                 |                 | infrastrutturat |
-|                 |                 |                 | e.              |
+|                 |                 |                 | infrastrutturate|
 +-----------------+-----------------+-----------------+-----------------+
-|                 | .. rubric::     | di nuova        |                 |
-|                 |    :name: secti | previsione      |                 |
-|                 | on              |                 |                 |
+|                 |                 | di nuova        |                 |
+|                 |                 | previsione      |                 |
 +-----------------+-----------------+-----------------+-----------------+
 | **CM**          | Aree di         | confermate      | Tessuto non     |
 |                 | completamento   |                 | saturo con      |
@@ -36,8 +34,7 @@ Tabella 14 – Aree urbanistiche di progetto
 |                 |                 |                 | suscettibili di |
 |                 |                 |                 | edificazione.   |
 |                 |                 |                 | Aree già        |
-|                 |                 |                 | infrastrutturat |
-|                 |                 |                 | e.              |
+|                 |                 |                 | infrastrutturate|
 +-----------------+-----------------+-----------------+-----------------+
 |                 |                 | di nuova        |                 |
 |                 |                 | previsione      |                 |
@@ -51,8 +48,7 @@ Tabella 14 – Aree urbanistiche di progetto
 |                 |                 |                 | d'uso,          |
 |                 |                 |                 | attraverso      |
 |                 |                 |                 | interventi di   |
-|                 |                 |                 | ristrutturazion |
-|                 |                 |                 | e               |
+|                 |                 |                 | ristrutturazione|
 |                 |                 |                 | urbanistica o   |
 |                 |                 |                 | rigenerazione   |
 |                 |                 |                 | urbana.         |
@@ -90,55 +86,29 @@ previsioni del Prg vigente e del nuovo Prg/variante")
 
 Tabella 15 – Aree urbanistiche stralciate
 
-+-----------------+-----------------+-----------------+-----------------+
-| **AREE          |
-| URBANISTICHE    |
-| STRALCIATE**    |
-+=================+=================+=================+=================+
-| **Codice**      | **Nome**        | **Descrizione** |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **SC**          | Aree di         |                 | Tessuto non     |
-|                 | completamento   |                 | saturo con      |
-|                 |                 |                 | presenza di     |
-|                 |                 |                 | porzioni ancora |
-|                 |                 |                 | suscettibili di |
-|                 |                 |                 | edificazione.   |
-|                 |                 |                 | Aree già        |
-|                 |                 |                 | infrastrutturat |
-|                 |                 |                 | e.              |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **ST**          | Aree di         |                 | Aree totalmente |
-|                 | trasformazione  |                 | urbanizzate ed  |
-|                 | / sostituzione  |                 | insediate di    |
-|                 | e riordino /    |                 | cui si rende    |
-|                 | rigenerazione   |                 | necessario un   |
-|                 |                 |                 | radicale cambio |
-|                 |                 |                 | d'uso,          |
-|                 |                 |                 | attraverso      |
-|                 |                 |                 | interventi di   |
-|                 |                 |                 | ristrutturazion |
-|                 |                 |                 | e               |
-|                 |                 |                 | urbanistica o   |
-|                 |                 |                 | rigenerazione   |
-|                 |                 |                 | urbana.         |
-|                 |                 |                 | Comprendono     |
-|                 |                 |                 | anche le aree   |
-|                 |                 |                 | degradate, da   |
-|                 |                 |                 | rigenerare,     |
-|                 |                 |                 | inutilizzate,   |
-|                 |                 |                 | ecc.            |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **SN**          | Aree di nuovo   |                 | Area di nuovo   |
-|                 | impianto        |                 | impianto e      |
-|                 |                 |                 | nuovo           |
-|                 |                 |                 | insediamento    |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
++-----------------+-----------------+----------------------------------+
+| **AREE URBANISTICHE  STRALCIATE**                                    |
++=================+=================+==================================+
+| **Codice**      | **Nome**        | **Descrizione**                  |
++-----------------+-----------------+----------------------------------+
+| **SC**          | Aree di         |Tessuto non saturo con presenza di|
+|                 | completamento   |porzioni ancora suscettibili di   |
+|                 |                 |edificazione.                     |
+|                 |                 |Aree già infrastrutturate.        |
++-----------------+-----------------+----------------------------------+
+| **ST**          | Aree di         |Aree totalmente urbanizzate ed    |
+|                 | trasformazione  |insediate di cui si rende         |
+|                 | / sostituzione  |necessario un radicale cambio     |
+|                 | e riordino /    |d'uso, attraverso interventi di   |
+|                 | rigenerazione   |ristrutturazione urbanistica o    |
+|                 |                 |rigenerazione urbana.             |
+|                 |                 |Comprendono anche le aree         |
+|                 |                 |degradate, da rigenerare,         |
+|                 |                 |inutilizzate, ecc.                |
++-----------------+-----------------+----------------------------------+
+| **SN**          | Aree di nuovo   |Area di nuovo impianto e nuovo    |
+|                 | impianto        |insediamento                      |
++-----------------+-----------------+----------------------------------+
 
 
 .. raw:: html
