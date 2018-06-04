@@ -18,8 +18,8 @@ piano/variante
 +=======================+=======================+=======================+
 | **Codice**            | **Nome**              | **Note**              |
 +-----------------------+-----------------------+-----------------------+
-| .. rubric:: AUC       | Area urbanstica       | *Riportare, per ogni  |
-|    :name: auc         | confermata            | poligono individuato, |
+| **AUC**               | Area urbanstica       | *Riportare, per ogni  |
+|                       | confermata            | poligono individuato, |
 |                       |                       | la corrispondente     |
 |                       |                       | destinazione d’uso,   |
 |                       |                       | area urbanistica e    |
@@ -28,12 +28,12 @@ piano/variante
 |                       |                       | le indicazioni dei    |
 |                       |                       | paragrafi             |
 |                       |                       | precedenti.*          |
-+-----------------------+-----------------------+-----------------------+
++-----------------------+-----------------------+                       +
 | **AUE**               | Area urbanstica       |                       |
 |                       | eliminata             |                       |
-+-----------------------+-----------------------+-----------------------+
++-----------------------+-----------------------+                       +
 | **AUN**               | Area urbanstica nuova |                       |
-+-----------------------+-----------------------+-----------------------+
++-----------------------+-----------------------+                       +
 | **AUS**               | Area urbanistica      |                       |
 |                       | stralciata            |                       |
 +-----------------------+-----------------------+-----------------------+
