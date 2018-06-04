@@ -20,24 +20,16 @@ Tabella 12 – Destinazioni d’uso
 +=======================+=======================+=======================+
 | **Livello 1**         | **Livello 2**         | **Livello 3**         |
 +-----------------------+-----------------------+-----------------------+
-| **A - AGRICOLO**      | **AA**                | Seminativi            |
-|                       |                       |                       |
-| Parti di              | Aree utilizzate a     |                       |
-| territorio non        | fini agricoli         |                       |
-| urbanizzate e non     |                       |                       |
-| interessate da        |                       |                       |
-| processi di           |                       |                       |
-| edificazione, in atto |                       |                       |
-| o in progetto         |                       |                       |
+| **A - AGRICOLO**      | **AA**                |Seminativi             |
 +                       +                       +-----------------------+
-|                       |                       | Prati                 |
-+                       +                       +-----------------------+
-|                       |                       | Colture legnose       |
-|                       |                       | specializzate         |
-+                       +                       +-----------------------+
-|                       |                       | Colture orticole e    |
-|                       |                       | floricole             |
-|                       |                       | specializzate         |
+| Parti di              | Aree utilizzate a     |Prati                  |
++ territorio non        + fini agricoli         +-----------------------+
+| urbanizzate e non     |                       |Colture legnose        |
+| interessate da        |                       |specializzate          |
++ processi di           +                       +-----------------------+
+| edificazione, in atto |                       |Colture orticole e     |
+| o in progetto         |                       |floricole              |
+|                       |                       |specializzate          |
 +                       +                       +-----------------------+
 |                       |                       | Pascoli e             |
 |                       |                       | prati-pascoli         |
@@ -54,23 +46,19 @@ Tabella 12 – Destinazioni d’uso
 +                       +-----------------------+-----------------------+
 |                       | **AS**                | Zone speciali di      |
 |                       |                       | tutela                |
-|                       | Zone agricole         |                       |
-|                       | speciali              |                       |
 +                       +                       +-----------------------+
-|                       |                       | Area sciabile         |
-|                       |                       | (L2/2009)             |
+|                       | Zone agricole         | Area sciabile         |
+|                       | speciali              | (L2/2009)             |
 +                       +                       +-----------------------+
 |                       |                       | Attività estrattiva   |
 +                       +                       +-----------------------+
 |                       |                       | Agriturismo           |
 +                       +-----------------------+-----------------------+
 |                       | **AT**                | Deposito macchinari o |
-|                       | Attrezzature e        | ricovero attrezzi     |
-|                       | residenze connesse    |                       |
-|                       | all’attività agricola |                       |
-+                       +                       +-----------------------+
-|                       |                       | Conservazione derrate |
-+                       +                       +-----------------------+
+|                       |                       | ricovero attrezzi     |
++                       + Attrezzature e        +-----------------------+
+|                       | residenze connesse    | Conservazione derrate |
++                       + all’attività agricola +-----------------------+
 |                       |                       | Residenza agricola    |
 +                       +                       +-----------------------+
 |                       |                       | Ricovero animali a    |
@@ -79,88 +67,70 @@ Tabella 12 – Destinazioni d’uso
 +                       +-----------------------+-----------------------+
 |                       | **AZ**                | Attività zootecnica a |
 |                       |                       | carattere produttivo  |
-|                       | Attività zootecnica   |                       |
-+                       +                       +-----------------------+
++                       + Attività zootecnica   +-----------------------+
 |                       |                       | Maneggi /             |
 |                       |                       | addestramenti animali |
 +-----------------------+-----------------------+-----------------------+
-| **R - RESIDENZIALE ** |                       | Residenza privata     |
-| Parti di              |                       | (comprende B&B)       |
-| territorio a          |                       |                       |
-| prevalente            |                       |                       |
-| destinazione          |                       |                       |
-| residenziale          |                       |                       |
-+                       +                       +-----------------------+
-|                       |                       | Residenza collettiva  |
-|                       |                       | (comprende i campi    |
-|                       |                       | nomadi)               |
-+                       +                       +-----------------------+
+| **R - RESIDENZIALE**  |                       | Residenza privata     |
+|                       |                       | (comprende B&B)       |
++ Parti di              +                       +-----------------------+
+| territorio a          |                       | Residenza collettiva  |
+| prevalente            |                       | (comprende i campi    |
+| destinazione          |                       | nomadi)               |
++ residenziale          +                       +-----------------------+
 |                       |                       | Residenza in area     |
 |                       |                       | impropria             |
 +                       +                       +-----------------------+
 |                       |                       | Verde privato         |
 |                       |                       | inedificabile         |
 +-----------------------+-----------------------+-----------------------+
-| **P - PRODUTTIVO **   | **PA** Attività       | Attività produttiva   |
-| Parti di              | produttiva            | Artigianale           |
-| territorio a          | artigianale           |                       |
-| prevalente            |                       |                       |
-| destinazione          |                       |                       |
-| artigianale,          |                       |                       |
-| industriale           |                       |                       |
-+                       +-----------------------+-----------------------+
-|                       | **PX** Produttivo in  | Produttivo in area    |
-|                       | area impropria        | impropria             |
+| **P - PRODUTTIVO**    | **PA**                | Attività produttiva   |
+|                       |                       | Artigianale           |
+| Parti di              | Attività              |                       |
+| territorio a          | produttiva            |                       |
+| prevalente            | artigianale           |                       |
++ destinazione          +-----------------------+-----------------------+
+| artigianale,          | **PX**                | Produttivo in area    |
+| industriale           |                       | impropria             |
+|                       | Produttivo in         |                       |
+|                       | area impropria        |                       |
 +                       +-----------------------+-----------------------+
 |                       | **PI**                | Attività industriale  |
-|                       | Attività produttiva   | non pericolosa        |
-|                       | industriale           |                       |
-+                       +                       +-----------------------+
+|                       |                       | non pericolosa        |
+|                       | Attività produttiva   |                       |
++                       + industriale           +-----------------------+
 |                       |                       | Attività industriale  |
 |                       |                       | pericolosa (v.        |
 |                       |                       | elaborati di Prgc     |
 |                       |                       | relativi a RIR)       |
 +-----------------------+-----------------------+-----------------------+
 | **T - TERZIARIO**     | **TA**                | Servizi immateriali   |
-| Parti di              | Terziario avanzato,   | di tipo professionale |
-| territorio a          | direzionale e         | o di servizio alla    |
-| prevalente            | professionale         | produzione            |
-| destinazione          |                       |                       |
-| terziaria,            |                       |                       |
-| direzionale,          |                       |                       |
-| commerciale e diretta |                       |                       |
-| all'erogazione di     |                       |                       |
-| servizi               |                       |                       |
-|                       |                       |                       |
-| **Intrattenimento     |                       |                       |
-| culturale e servizi   |                       |                       |
-| ricreativi**          |                       |                       |
-+                       +                       +-----------------------+
-|                       |                       | Servizi finanziari e  |
-|                       |                       | assicurativi          |
-+                       +                       +-----------------------+
-|                       |                       | Ricerca e sviluppo    |
-+                       +                       +-----------------------+
-|                       |                       | Sede congressi, fiere |
+|                       |                       | di tipo professionale |
+| Parti di              | Terziario avanzato,   | o di servizio alla    |
+| territorio a          | direzionale e         | produzione            |
++ prevalente            | professionale         +-----------------------+
+| destinazione          |                       | Servizi finanziari e  |
+| terziaria,            |                       | assicurativi          |
++ direzionale,          |                       +-----------------------+
+| commerciale e diretta |                       | Ricerca e sviluppo    |
++ all'erogazione di     |                       +-----------------------+
+| servizi               |                       | Sede congressi, fiere |
 |                       |                       | ed esposizioni        |
-+                       +                       +-----------------------+
-|                       |                       | Attività direzionale  |
++ **Intrattenimento     |                       +-----------------------+
+| culturale e servizi   |                       | Attività direzionale  |
+| ricreativi**          |                       |                       |
 +                       +-----------------------+-----------------------+
 |                       | **TC**                | Esercizi di vicinato  |
-|                       | Terziario commerciale |                       |
-|                       | al dettaglio          |                       |
 +                       +                       +-----------------------+
-|                       |                       | Media distribuzione   |
-+                       +                       +-----------------------+
+|                       | Terziario commerciale | Media distribuzione   |
++                       + al dettaglio          +-----------------------+
 |                       |                       | Grande distribuzione  |
 +                       +-----------------------+-----------------------+
 |                       | **TI**                | Commercio             |
-|                       | Terziario commerciale | all'ingrosso          |
-|                       | all'ingrosso e        |                       |
-|                       | logistica             |                       |
-+                       +                       +-----------------------+
-|                       |                       | Servizi logistici     |
-+                       +                       +-----------------------+
+|                       |                       | all'ingrosso          |
++                       + Terziario commerciale +-----------------------+
+|                       | all'ingrosso e        | Servizi logistici     |
++                       + logistica             +-----------------------+
 |                       |                       | Centro                |
 |                       |                       | intermodale/autoporto |
 +                       +-----------------------+-----------------------+
@@ -178,100 +148,81 @@ Tabella 12 – Destinazioni d’uso
 +                       +                       +-----------------------+
 |                       |                       | Parchi tematici       |
 +-----------------------+-----------------------+-----------------------+
-
-
-
-*Tabella 12 (continua)*
-
-+-----------------------+-----------------------+-----------------------+
-| **DESTINAZIONI D'USO**                                                |
-+=======================+=======================+=======================+
-| **Livello 1**         | **Livello 2**         | **Livello 3**         |
-+-----------------------+-----------------------+-----------------------+
 | **H - TURISTICO       | **HT**                | Grande ricettività    |
-| RICETTIVO             | turistico ricettivo   | alberghiera           |
-| **\ Attività legate   |                       |                       |
-| all'economia          |                       |                       |
-| turistica e           |                       |                       |
-| alberghiera           |                       |                       |
+| RICETTIVO**           |                       | alberghiera           |
++                       + turistico ricettivo   +-----------------------+
+| Attività legate       |                       | Ricettività           |
+| all'economia          |                       | alberghiera minore    |
++ turistica e           +                       +-----------------------+
+| alberghiera           |                       | Campeggio             |
 +-----------------------+-----------------------+-----------------------+
-|                       |                       | Ricettività           |
-|                       |                       | alberghiera minore    |
+| **M - POLIFUNZIONALE**| *nessuna delle        |                       |
+|                       | destinazioni d'uso    |                       |
+| Parti di              | presenti può superare |                       |
+| territorio in cui è   | il 51% del totale*    |                       |
+| prevista una          |                       |                       |
+| compresenza di        | *per ciascuna area M  |                       |
+| attività              | deve essere definito  |                       |
+| residenziali,         | un apposito           |                       |
+| terziarie o di        | articolato normativo* |                       |
+| servizio              |                       |                       |
 +-----------------------+-----------------------+-----------------------+
-|                       |                       | Campeggio             |
-+-----------------------+-----------------------+-----------------------+
-| **M- POLIFUNZIONALE   | *nessuna delle        |                       |
-| **\ Parti di          | destinazioni d'uso    |                       |
-| territorio in cui è   | presenti può superare |                       |
-| prevista una          | il 51% del totale*    |                       |
-| compresenza di        |                       |                       |
-| attività              | *per ciascuna area M  |                       |
-| residenziali,         | deve essere definito  |                       |
-| terziarie o di        | un apposito           |                       |
-| servizio              | articolato normativo* |                       |
-+-----------------------+-----------------------+-----------------------+
-| **SR - SERVIZI        | **SRC                 | Attrezzatura          |
-| **\ Aree destinate    | **\ Servizi di        | religiosa e per il    |
-| all'insediamento di   | interesse comune      | culto                 |
-| servizi alle persone, |                       |                       |
-| pubblici e privati ad |                       |                       |
-| uso pubblico          |                       |                       |
-|                       |                       |                       |
-| (Art. 21)             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Attrezzatura          |
-|                       |                       | culturale e           |
-|                       |                       | ricreativa            |
-+-----------------------+-----------------------+-----------------------+
+| **SR - SERVIZI**      | **SRC**               | Attrezzatura          |
+|                       |                       | religiosa e per il    |
+| Aree destinate        | Servizi di            | culto                 |
++ all'insediamento di   +interesse comune       +-----------------------+
+| servizi alle persone, |                       | Attrezzatura          |
+| pubblici e privati ad |                       | culturale e           |
+| uso pubblico          |                       | ricreativa            |
++ (Art. 21)             +                       +-----------------------+
 |                       |                       | Attrezzatura          |
 |                       |                       | socio-assistenziale   |
 |                       |                       | (centri e servizi     |
 |                       |                       | sociali)              |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Attrezzatura          |
 |                       |                       | sanitaria-ospedaliera |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Attrezzatura          |
 |                       |                       | amministrativa        |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Attrezzatura per      |
 |                       |                       | mercati               |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Insediamento          |
 |                       |                       | abitativo a carattere |
 |                       |                       | temporaneo (area      |
 |                       |                       | camper, …)            |
-+-----------------------+-----------------------+-----------------------+
-|                       | **SRI** Servizi per   | Attrezzatura per      |
-|                       | l'istruzione          | l'istruzione          |
-|                       |                       | prescolare e          |
-|                       |                       | d'obbligo             |
-+-----------------------+-----------------------+-----------------------+
++                       +-----------------------+-----------------------+
+|                       | **SRI**               | Attrezzatura per      |
+|                       |                       | l'istruzione          |
+|                       | Servizi per           | prescolare e          |
+|                       | l'istruzione          | d'obbligo             |
++                       +-----------------------+-----------------------+
 |                       | **SRS**               | Aree per il gioco e   |
-|                       | Spazi pubblici o a    | lo sport, spazi       |
-|                       | uso pubblico a parco, | pubblici di relazione |
-|                       | per il gioco e lo     | (impianti sportivi)   |
-|                       | sport                 |                       |
-+-----------------------+-----------------------+-----------------------+
+|                       |                       | lo sport, spazi       |
+|                       | Spazi pubblici o a    | pubblici di relazione |
+|                       | uso pubblico a parco, | (impianti sportivi)   |
+|                       | per il gioco e lo     |                       |
++                       + sport                 +-----------------------+
 |                       |                       | Parchi pubblici e     |
 |                       |                       | aree verdi            |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Orti urbani           |
-+-----------------------+-----------------------+-----------------------+
-|                       | **SRP** Parcheggi     | Parcheggio pubblico   |
++                       +-----------------------+-----------------------+
+|                       | **SRP**               | Parcheggio pubblico   |
+|                       |                       |                       |
+|                       | Parcheggi             |                       |
 +-----------------------+-----------------------+-----------------------+
 |  **SP - SERVIZI**     |                       | Parcheggio            |
 |                       |                       |                       |
-| Aree per attrezzature |                       |                       |
-| a servizio di         |                       |                       |
-| insediamenti          |                       |                       |
++ Aree per attrezzature +                       +-----------------------+
+| a servizio di         |                       | Verde e impianti      |
+| insediamenti          |                       | sportivi              |
 | produttivi, pubblici  |                       |                       |
 | e privati ad uso      |                       |                       |
 | pubblico (Art. 21,    |                       |                       |
 | c.1.2).               |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Verde e impianti      |
-|                       |                       | sportivi              |
 +-----------------------+-----------------------+-----------------------+
 | **SD - SERVIZI**      |                       | Parcheggio            |
 |                       |                       |                       |
@@ -284,34 +235,26 @@ Tabella 12 – Destinazioni d’uso
 | e privati ad uso      |                       |                       |
 | pubblico (Art. 21,    |                       |                       |
 | c.1.3).               |                       |                       |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Verde e impianti      |
 |                       |                       | sportivi              |
 +-----------------------+-----------------------+-----------------------+
 | **SG – SERVIZI        | **SGI**               | Attrezzatura per      |
 | GENERALI**            |                       | l'istruzione          |
 |                       | Servizi per           | superiore all’obbligo |
-| Servizi e             | l’istruzione          |                       |
-| attrezzature di       | superiore             |                       |
-| interesse generale    |                       |                       |
-|                       |                       |                       |
-| (Art 22)              |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Attrezzatura per la   |
-|                       |                       | formazione            |
++ Servizi e             + l’istruzione          +-----------------------+
+| attrezzature di       | superiore             | Attrezzatura per la   |
+| interesse generale    |                       | formazione            |
 |                       |                       | universitaria e       |
-|                       |                       | post-universitaria    |
-+-----------------------+-----------------------+-----------------------+
+| (Art 22)              |                       | post-universitaria    |
++                       +-----------------------+-----------------------+
 |                       | **SGS**               | Attrezzatura          |
 |                       |                       | socio-assistenziale   |
 |                       | Servizi sociali,      | (case di riposo,…)    |
-|                       | sanitari e            |                       |
-|                       | ospedalieri di        |                       |
-|                       | livello superiore     |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Attrezzatura          |
-|                       |                       | sanitaria-ospedaliera |
-+-----------------------+-----------------------+-----------------------+
++                       + sanitari e            +-----------------------+
+|                       | ospedalieri di        | Attrezzatura          |
+|                       | livello superiore     | sanitaria-ospedaliera |
++                       +-----------------------+-----------------------+
 |                       | **SGP**               | Parchi pubblici       |
 |                       |                       | urbani e              |
 |                       | Parchi pubblici       | comprensoriali        |
@@ -319,58 +262,55 @@ Tabella 12 – Destinazioni d’uso
 |                       | comprensoriali        |                       |
 +-----------------------+-----------------------+-----------------------+
 | **I - INFRASTRUTTURE  | **IA**                | Cimitero              |
-| E IMPIANTI            | Altre infrastrutture  |                       |
-| **\ Infrastrutture ed | e impianti            |                       |
-| impianti di tutte le  |                       |                       |
-| tipologie             |                       |                       |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Strutture militari    |
-+-----------------------+-----------------------+-----------------------+
-|                       |                       | Strutture Protezione  |
-|                       |                       | Civile                |
-+-----------------------+-----------------------+-----------------------+
++ E IMPIANTI**          +                       +-----------------------+
+|                       | Altre infrastrutture  | Strutture militari    |
++                       + e impianti            +-----------------------+
+| Infrastrutture ed     |                       | Strutture Protezione  |
+| impianti di tutte le  |                       | Civile                |
++ tipologie             +-----------------------+-----------------------+
 |                       | **IR**                | Raccolta/depurazione/ |
-|                       | Infrastruttura        | distribuzione         |
-|                       | tecnologica           | acque                 |
-+-----------------------+-----------------------+-----------------------+
+|                       |                       | distribuzione         |
+|                       | Infrastruttura        | acque                 |
++                       + tecnologica           +-----------------------+
 |                       |                       | Deposito e            |
 |                       |                       | distribuzione         |
 |                       |                       | combustibili          |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Produzione/trasformaz |
 |                       |                       | ione/distribuzione    |
 |                       |                       | energia elettrica     |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Impianto per le       |
 |                       |                       | teleradiocomunicazion |
 |                       |                       | i                     |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Raccolta/smaltimento  |
 |                       |                       | rifiuti               |
-+-----------------------+-----------------------+-----------------------+
++                       +-----------------------+-----------------------+
 |                       | **IT**                | Infrastruttura per il |
-|                       | Infrastruttura per il | trasporto su ferro    |
-|                       | trasporto             |                       |
-+-----------------------+-----------------------+-----------------------+
+|                       |                       | trasporto su ferro    |
+|                       | Infrastruttura per il |                       |
++                       + trasporto             +-----------------------+
 |                       |                       | Infrastruttura per il |
 |                       |                       | trasporto su strada   |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Infrastruttura per il |
 |                       |                       | trasporto fluviale o  |
 |                       |                       | lacuale               |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Ciclopiste            |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Impianto di risalita  |
 |                       |                       | a fune                |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Infrastruttura per il |
 |                       |                       | trasporto aereo       |
-+-----------------------+-----------------------+-----------------------+
++                       +                       +-----------------------+
 |                       |                       | Distributore di       |
 |                       |                       | carburanti            |
 |                       |                       | extraurbano           |
 +-----------------------+-----------------------+-----------------------+
+
 
 .. raw:: html
            :file: disqus.html
