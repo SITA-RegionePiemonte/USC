@@ -156,16 +156,16 @@ Tabella 12 – Destinazioni d’uso
 + turistica e           +                       +-----------------------+
 | alberghiera           |                       | Campeggio             |
 +-----------------------+-----------------------+-----------------------+
-| **M - POLIFUNZIONALE**| *nessuna delle        |                       |
-|                       | destinazioni d'uso    |                       |
-| Parti di              | presenti può superare |                       |
-| territorio in cui è   | il 51% del totale*    |                       |
-| prevista una          |                       |                       |
-| compresenza di        | *per ciascuna area M  |                       |
-| attività              | deve essere definito  |                       |
-| residenziali,         | un apposito           |                       |
-| terziarie o di        | articolato normativo* |                       |
-| servizio              |                       |                       |
+| **M - POLIFUNZIONALE**| *nessuna delle                                |
+|                       | destinazioni d'uso                            |
+| Parti di              | presenti può superare                         |
+| territorio in cui è   | il 51% del totale*                            |
+| prevista una          |                                               |
+| compresenza di        | *per ciascuna area M                          |
+| attività              | deve essere definito                          |
+| residenziali,         | un apposito                                   |
+| terziarie o di        | articolato normativo*                         |
+| servizio              |                                               |
 +-----------------------+-----------------------+-----------------------+
 | **SR - SERVIZI**      | **SRC**               | Attrezzatura          |
 |                       |                       | religiosa e per il    |
