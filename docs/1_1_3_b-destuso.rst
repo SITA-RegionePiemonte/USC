@@ -170,7 +170,7 @@ Tabella 12 – Destinazioni d’uso
 | **SR - SERVIZI**      | **SRC**               | Attrezzatura          |
 |                       |                       | religiosa e per il    |
 | Aree destinate        | Servizi di            | culto                 |
-+ all'insediamento di   +interesse comune       +-----------------------+
++ all'insediamento di   + interesse comune      +-----------------------+
 | servizi alle persone, |                       | Attrezzatura          |
 | pubblici e privati ad |                       | culturale e           |
 | uso pubblico          |                       | ricreativa            |
@@ -214,7 +214,7 @@ Tabella 12 – Destinazioni d’uso
 |                       |                       |                       |
 |                       | Parcheggi             |                       |
 +-----------------------+-----------------------+-----------------------+
-|  **SP - SERVIZI**     |                       | Parcheggio            |
+| **SP - SERVIZI**      |                       | Parcheggio            |
 |                       |                       |                       |
 + Aree per attrezzature +                       +-----------------------+
 | a servizio di         |                       | Verde e impianti      |
