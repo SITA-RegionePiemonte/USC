@@ -116,9 +116,9 @@ Tabella 12 – Destinazioni d’uso
 + all'erogazione di     |                       +-----------------------+
 | servizi               |                       | Sede congressi, fiere |
 |                       |                       | ed esposizioni        |
-+ **Intrattenimento     |                       +-----------------------+
++ Intrattenimento       |                       +-----------------------+
 | culturale e servizi   |                       | Attività direzionale  |
-| ricreativi**          |                       |                       |
+| ricreativi            |                       |                       |
 +                       +-----------------------+-----------------------+
 |                       | **TC**                | Esercizi di vicinato  |
 +                       +                       +-----------------------+
