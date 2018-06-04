@@ -13,7 +13,7 @@ Tabella 157 – Tipi di intervento edilizio
 +----------+-----------------+-------------------------+-----------------+
 |                          **TIPI DI INTERVENTO EDILIZIO**               |
 +==========+=================+=========================+=================+
-|**Codice**|Nome             |**Descrizione**          | **Riferimenti** |
+|**Codice**|**Nome**         |**Descrizione**          | **Riferimenti** |
 +----------+-----------------+-------------------------+-----------------+
 |**MO**    |manutenzione     |Opere di                 | D.P.R. 380/2001 |
 |          |ordinaria        |riparazione,             |                 |
