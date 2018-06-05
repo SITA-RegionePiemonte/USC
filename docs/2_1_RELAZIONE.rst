@@ -236,10 +236,10 @@ Relazione illustrativa
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica Progetto preliminare - prima conferenza              |
 +-----------------------+-----------------------+-----------------------+
-| Proposta Tecnica      | elaborato da          | Relazione di progetto |
-| Progetto preliminare  | consegnare            | preliminare           |
-| – prima conferenza di |                       |                       |
-| copianificazione      |                       |                       |
+|                       | elaborato da          | Relazione di progetto |
+|                       | consegnare            | preliminare           |
+|                       |                       |                       |
+|                       |                       |                       |
 +                       +-----------------------+-----------------------+
 |                       | contenuti             | n.a.                  |
 |                       | dell'elaborato        |                       |
@@ -250,9 +250,9 @@ Relazione illustrativa
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica Progetto Definitivo - seconda conferenza             |
 +-----------------------+-----------------------+-----------------------+
-| Proposta Tecnica      | elaborato da          | Relazione di progetto |
-| Progetto definitivo – | consegnare            | definitivo            |
-| seconda conferenza    |                       |                       |
+|                       | elaborato da          | Relazione di progetto |
+|                       | consegnare            | definitivo            |
+|                       |                       |                       |
 +                       +-----------------------+-----------------------+
 |                       | contenuti             | n.a.                  |
 |                       | dell'elaborato        |                       |
