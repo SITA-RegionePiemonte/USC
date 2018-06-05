@@ -7,7 +7,7 @@ Contenuti
 
 .. toctree::
     :caption: Indice
-    :maxdepth: 2
+    :maxdepth: 3
 
     docs/1_____progetto
     docs/1____regole_e_strumenti
