@@ -37,9 +37,10 @@ Contenuti
     docs/2_2_SQU
     docs/2_3_GEO_T
     docs/2_4_GEO_R
-    docs/2_
-    docs/2_
-    docs/2_
+    docs/2_5_CAP_USO
+    docs/2_6_COP_SUOLO
+    docs/2_7_ACU
+    docs/2_8_RIR
     docs/licenza
     docs/Acura
 
