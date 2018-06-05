@@ -34,6 +34,12 @@ Contenuti
     docs/1_1_3_i-znorm
     docs/2____elaborati
     docs/2_1_RELAZIONE
+    docs/2_2_SQU
+    docs/2_3_GEO_T
+    docs/2_4_GEO_R
+    docs/2_
+    docs/2_
+    docs/2_
     docs/licenza
     docs/Acura
 
