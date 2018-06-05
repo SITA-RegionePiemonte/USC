@@ -56,8 +56,8 @@ Confronto tra le previsioni del Prg vigente e del nuovo Prg/variante e illustraz
 |                       | previsioni introdotte                         |
 |                       | dalla variante                                |
 +-----------------------+-----------------------+-----------------------+
-| Livelli informativi   | - Monitoraggio del                            |
-| disponibili           | consumo di suolo                              |
+| Livelli informativi   | Monitoraggio del consumo di suolo             |
+| disponibili           |                                               |
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica      | elaborato da          | versione preliminare  |
 | Progetto preliminare  | consegnare            | degli elaborati,      |
