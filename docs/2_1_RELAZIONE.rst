@@ -1,12 +1,15 @@
 Relazione illustrativa
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+
+
 +-----------------------+-----------------------+-----------------------+
-| Elaborato             |    Relazione  illustrativa                    |
-+=======================+=======================+=======================+
-| Sigla elaborato       | REL                                           |
+| *Elaborato*           | Relazione  illustrativa                       |
 +-----------------------+-----------------------+-----------------------+
-| Riferimenti normativi | Art 14 comma1, punto                          |
+| *Sigla elaborato*     | **REL**                                       |
++-----------------------+-----------------------+-----------------------+
+|*Riferimenti normativi*| Art 14 comma1, punto                          |
 |                       | 1, lettere a, b, c,                           |
 |                       | d, d bis, della lr                            |
 |                       | 56/77                                         |
@@ -41,9 +44,9 @@ Relazione illustrativa
 |                       | 2, lettera c, lr                              |
 |                       | 56/77                                         |
 +-----------------------+-----------------------+-----------------------+
-| Scala                 | n.a.                                          |
+|*Scala*                | n.a.                                          |
 +-----------------------+-----------------------+-----------------------+
-| Descrizione contenuti | Nell’ambito della                             |
+|*Descrizione contenuti*| Nell’ambito della                             |
 |                       | relazione                                     |
 |                       | illustrativa dovranno                         |
 |                       | trovare opportuna                             |
@@ -203,31 +206,12 @@ Relazione illustrativa
 |                       | anche adeguati                                |
 |                       | cartogrammi.                                  |
 +-----------------------+-----------------------+-----------------------+
-| Livelli informativi   | dati statistici                               |
-| disponibili           | (PiSta – PIemonte                             |
+|*Livelli informativi   | dati statistici                               |
+|disponibili*           | (PiSta – PIemonte                             |
 |                       | STAtistica e B.D.D.E                          |
 |                       | – Sistemapiemonte)                            |
 |                       |                                               |
 |                       | Consumo di suolo                              |
-+-----------------------+-----------------------+-----------------------+
-| Proposta Tecnica      | elaborato da          | Relazione di progetto |
-| Progetto preliminare  | consegnare            | preliminare           |
-| – prima conferenza di |                       |                       |
-| copianificazione      |                       |                       |
-+                       +-----------------------+-----------------------+
-|                       | contenuti             | n.a.                  |
-|                       | dell'elaborato        |                       |
-+                       +-----------------------+-----------------------+
-|                       | shapefile             | n.a.                  |
-+-----------------------+-----------------------+-----------------------+
-| Proposta Tecnica      | elaborato da          | Relazione di progetto |
-| Progetto definitivo – | consegnare            | definitivo            |
-| seconda conferenza    |                       |                       |
-+                       +-----------------------+-----------------------+
-|                       | contenuti             | n.a.                  |
-|                       | dell'elaborato        |                       |
-+                       +-----------------------+-----------------------+
-|                       | shapefile             | n.a.                  |
 +-----------------------+-----------------------+-----------------------+
 
 
