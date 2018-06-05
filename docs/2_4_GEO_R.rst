@@ -113,14 +113,14 @@ Relazione geologico-Tecnica
 | copianificazione      |                       | successiva Nota       |
 |                       |                       | Tecnica Esplicativa   |
 |                       |                       | del 1999              |
-+-----------------------+-----------------------+-----------------------+
++                       +-----------------------+-----------------------+
 |                       | contenuti             | Vedi allegato A alla  |
 |                       | dell'elaborato        | Circolare PGR n.      |
 |                       |                       | 7/LAP/1996 e          |
 |                       |                       | successiva Nota       |
 |                       |                       | Tecnica Esplicativa   |
 |                       |                       | del 1999              |
-+-----------------------+-----------------------+-----------------------+
++                       +-----------------------+-----------------------+
 |                       | shapefile             | Vedi le specifiche    |
 |                       |                       | tecniche per la       |
 |                       |                       | consegna dei dati in  |
@@ -137,14 +137,14 @@ Relazione geologico-Tecnica
 |                       |                       | successiva Nota       |
 |                       |                       | Tecnica Esplicativa   |
 |                       |                       | del 1999              |
-+-----------------------+-----------------------+-----------------------+
++                       +-----------------------+-----------------------+
 |                       | contenuti             | Vedi allegato A alla  |
 |                       | dell'elaborato        | Circolare PGR n.      |
 |                       |                       | 7/LAP/1996 e          |
 |                       |                       | successiva Nota       |
 |                       |                       | Tecnica Esplicativa   |
 |                       |                       | del 1999              |
-+-----------------------+-----------------------+-----------------------+
++                       +-----------------------+-----------------------+
 |                       | shapefile             | Vedi le specifiche    |
 |                       |                       | tecniche per la       |
 |                       |                       | consegna dei dati in  |
