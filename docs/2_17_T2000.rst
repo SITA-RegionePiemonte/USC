@@ -1,4 +1,261 @@
-
+Sviluppi del PRGC
+^^^^^^^^^^^^^^^^^^^^
++-----------------------+-----------------------+-----------------------+
+| Elaborato             | 17. Sviluppi del PRGC                         |
++-----------------------+-----------------------+-----------------------+
+| Sigla elaborato:      | T2000                                         |
++-----------------------+-----------------------+-----------------------+
+| Riferimenti normativi | Art 14 c.1, punto 3,                          |
+|                       | lettera c) lr56/77                            |
+|                       | smi:                                          |
+|                       |                                               |
+|                       | gli sviluppi del                              |
+|                       | piano regolatore                              |
+|                       | generale, in scala                            |
+|                       | non inferiore a                               |
+|                       | 1:2.000, relativi ai                          |
+|                       | territori urbanizzati                         |
+|                       | ed urbanizzandi ed ai                         |
+|                       | dintorni di                                   |
+|                       | pertinenza                                    |
+|                       | ambientale; per i                             |
+|                       | territori urbanizzati                         |
+|                       | dei comuni con                                |
+|                       | popolazione superiore                         |
+|                       | a 30.000 abitanti                             |
+|                       | residenti gli                                 |
+|                       | sviluppi del P.R.G.                           |
+|                       | in scala 1:2.000                              |
+|                       | possono limitarsi                             |
+|                       | alle parti modificate                         |
+|                       | o sottoposte a                                |
+|                       | particolare                                   |
+|                       | disciplina dal piano                          |
+|                       | medesimo                                      |
+|                       |                                               |
+|                       | Circolare 16URE/1989,                         |
+|                       | sez I, scheda C,                              |
+|                       | 3.3.3                                         |
++-----------------------+-----------------------+-----------------------+
+| Scala                 | 1: 2000                                       |
++-----------------------+-----------------------+-----------------------+
+| Descrizione contenuti | Rappresenta:                                  |
+|                       |                                               |
+|                       | - le Zone                                     |
+|                       | territoriali omogenee                         |
+|                       | D.M. 1444/68                                  |
+|                       | (contrassegnate da                            |
+|                       | una sigla                                     |
+|                       | nell’etichetta, es.                           |
+|                       | A-B-C-D-E-F);                                 |
+|                       |                                               |
+|                       | - la perimetrazione                           |
+|                       | del centro storico;                           |
+|                       |                                               |
+|                       | - la perimetrazione                           |
+|                       | del centro abitato;                           |
+|                       |                                               |
+|                       | - le Morfologie                               |
+|                       | insediative di                                |
+|                       | progetto;                                     |
+|                       |                                               |
+|                       | - le Destinazioni                             |
+|                       | d’uso livello 3;                              |
+|                       |                                               |
+|                       | - le Aree                                     |
+|                       | urbanistiche di                               |
+|                       | progetto (distinte                            |
+|                       | tra aree consolidate,                         |
+|                       | di completamento di                           |
+|                       | trasformazione e di                           |
+|                       | nuovo impianto,                               |
+|                       | corrispondenti alle                           |
+|                       | morfologie                                    |
+|                       | insediative di                                |
+|                       | progetto);                                    |
+|                       |                                               |
+|                       | - le Modalità di                              |
+|                       | attuazione;                                   |
+|                       |                                               |
+|                       | - [le Zone                                    |
+|                       | normative];                                   |
+|                       |                                               |
+|                       | - le limitazioni e i                          |
+|                       | vincoli di tutela                             |
+|                       | territoriale;                                 |
+|                       |                                               |
+|                       | - le limitazioni di                           |
+|                       | carattere geologico,                          |
+|                       | geomorfologico,                               |
+|                       | geotecnico e sismico;                         |
+|                       |                                               |
+|                       | - l’idoneità                                  |
+|                       | geologica                                     |
+|                       | all’utilizzazione                             |
+|                       | urbanistica del                               |
+|                       | territorio;                                   |
+|                       |                                               |
+|                       | - la tutela                                   |
+|                       | culturale,                                    |
+|                       | paesaggistica (tav.                           |
+|                       | P2 Ppr) e ambientale;                         |
+|                       |                                               |
+|                       | - i vincoli                                   |
+|                       | antropici;                                    |
+|                       |                                               |
+|                       | - una selezione delle                         |
+|                       | componenti della                              |
+|                       | tavola P4 del Ppr.                            |
++-----------------------+-----------------------+-----------------------+
+| Livelli informativi   | - Base topografica                            |
+| disponibili           | BDTRE                                         |
+|                       |                                               |
+|                       | - Particelle                                  |
+|                       | catastali                                     |
+|                       |                                               |
+|                       | - Carta di sintesi                            |
+|                       | geologica                                     |
+|                       |                                               |
+|                       | - PPR                                         |
+|                       |                                               |
+|                       | - dissesti PAI                                |
+|                       |                                               |
+|                       | - aree RME                                    |
++-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica      | elaborato da          |                       |
+| Progetto preliminare  | consegnare            |                       |
+| – prima conferenza di |                       |                       |
+| copianificazione      |                       |                       |
++                       +-----------------------+-----------------------+
+|                       | contenuti             |                       |
+|                       | dell'elaborato        |                       |
++                       +-----------------------+-----------------------+
+|                       | shapefile             |                       |
++-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica      | elaborato da          | versione definitiva   |
+| Progetto definitivo – | consegnare            | degli elaborati       |
+| seconda conferenza    |                       |                       |
++                       +-----------------------+-----------------------+
+|                       | contenuti             |- zone territoriali    |
+|                       | dell'elaborato        | omogenee (D.M. 2      |
+|                       |                       | aprile 1968, n. 1444, |
+|                       |                       | art. 2)               |
+|                       |                       |                       |
+|                       |                       |- Perimetrazioni (     |
+|                       |                       | perimetrazione del    |
+|                       |                       | centro storico, p.    |
+|                       |                       | del centro abitato    |
+|                       |                       | (art. 12, comma 2, n. |
+|                       |                       | 5 bis l.r. 56/1977 e  |
+|                       |                       | s.m.i.), p. del       |
+|                       |                       | centro abitato da     |
+|                       |                       | codice della strada,  |
+|                       |                       | p. secondo PTCP/PTCM) |
+|                       |                       |                       |
+|                       |                       | - Morfologie          |
+|                       |                       | insediative di        |
+|                       |                       | progetto              |
+|                       |                       |                       |
+|                       |                       |- destinazioni d'uso   |
+|                       |                       | L3                    |
+|                       |                       |                       |
+|                       |                       |- Aree urbanistiche    |
+|                       |                       | di progetto           |
+|                       |                       |                       |
+|                       |                       |- Modalità di          |
+|                       |                       | attuazione            |
+|                       |                       |                       |
+|                       |                       |- [Zone normative]     |
+|                       |                       |                       |
+|                       |                        - Componenti           |
+|                       |                       | paesaggistiche (Tav.  |
+|                       |                       | P4 PPR)               |
+|                       |                       |                       |
+|                       |                       |- Tutela culturale,    |
+|                       |                       | paesaggistica,        |
+|                       |                       | ambientale            |
+|                       |                       |                       |
+|                       |                       |- Limitazioni e        |
+|                       |                       |  idoneità di carattere|
+|                       |                       |  geologico,           |
+|                       |                       |  geomorfologico,      |
+|                       |                       |  geotecnico           |
+|                       |                       |                       |
+|                       |                       |- Limitazioni e        |
+|                       |                       | vincoli di tutela     |
+|                       |                       | territoriale          |
+|                       |                       |                       |
+|                       |                       |- Vincoli antropici    |
++                       +-----------------------+-----------------------+
+|                       | shapefile             |- MIP                  |
+|                       |                       |                       |
+|                       |                       |- TID                  |
+|                       |                       |                       |
+|                       |                       |- ZTO                  |
+|                       |                       |                       |
+|                       |                       |- PERIM                |
+|                       |                       |  (limitatamente       |
+|                       |                       |  alla                 |
+|                       |                       |  perimetrazione del   |
+|                       |                       |  centro storico e     |
+|                       |                       |  alla                 |
+|                       |                       |  perimetrazione del   |
+|                       |                       |  centro abitato)      |
+|                       |                       |                       |
+|                       |                       |- DESTUSO - L3         |
+|                       |                       |                       |
+|                       |                       |- AUP (limitatamente   |
+|                       |                       |  alle aree di         |
+|                       |                       |  completamento, di    |
+|                       |                       |  trasformazione e     |
+|                       |                       |  di nuovo impianto    |
+|                       |                       |  con colori           |
+|                       |                       |  associati alle       |
+|                       |                       |  Morfologie           |
+|                       |                       |  insediative di       |
+|                       |                       |  progetto)            |
+|                       |                       |                       |
+|                       |                       |- MOD_ATT              |
+|                       |                       |                       |
+|                       |                       |- COMPONENTI           |
+|                       |                       |  NATURALISTICO        |
+|                       |                       |  AMBIENTALI           |
+|                       |                       |                       |
+|                       |                       |- COMPONENTI STORICO   |
+|                       |                       |  CULTURALI            |
+|                       |                       |                       |
+|                       |                       |- COMPONENTI           |
+|                       |                       |  PERCETTIVO           |
+|                       |                       |  IDENTITARIE          |
+|                       |                       |                       |
+|                       |                       |- COMPONENTI           |
+|                       |                       |  MORFOLOGICO          |
+|                       |                       |  INSEDIATIVE          |
+|                       |                       |                       |
+|                       |                       |- AREE CON ELEMENTI    |
+|                       |                       |  CRITICI              |
+|                       |                       |                       |
+|                       |                       |- LIMITAZIONI E        |
+|                       |                       |  VINCOLI              |
+|                       |                       |  TERRITORIALI         |
+|                       |                       |                       |
+|                       |                       |- LIMITAZIONI DI       |
+|                       |                       |  CARATTERE            |
+|                       |                       |  GEOLOGICO,           |
+|                       |                       |  GEOMORFOLOGICO,      |
+|                       |                       |  GEOTECNICO,          |
+|                       |                       |  IDRAULICO E          |
+|                       |                       |  SISMICO              |
+|                       |                       |                       |
+|                       |                       |- TUTELA CULTURALE,    |
+|                       |                       |  PAESAGGISTICA E      |
+|                       |                       |  AMBIENTALE (tranne   |
+|                       |                       |  Elementi archit.     |
+|                       |                       |  di pregio)           |
+|                       |                       |                       |
+|                       |                       |- VINCOLI              |
+|                       |                       |  URBANISTICI          |
++-----------------------+-----------------------+-----------------------+
 
 
 

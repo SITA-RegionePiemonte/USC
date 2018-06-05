@@ -1,4 +1,100 @@
+Caratteristiche delle zone di insediamento commerciale
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
++-----------------------+-----------------------+-----------------------+
+| Elaborato             | 26. Caratteristiche   |                       |
+|                       |     delle zone di     |                       |
+|                       |     insediamento      |                       |
+|                       |     commerciale       |                       |
++-----------------------+-----------------------+-----------------------+
+| Sigla elaborato:      | COM                   |                       |
++-----------------------+-----------------------+-----------------------+
+| Riferimenti normativi | Art 14 c.2, lr56/77   |                       |
+|                       | smi:                  |                       |
+|                       |                       |                       |
+|                       | I comuni, utilizzando |                       |
+|                       | le tavole di cui al   |                       |
+|                       | primo comma, numero   |                       |
+|                       | 3) ed avvalendosi di  |                       |
+|                       | quelle in scala       |                       |
+|                       | idonea, rappresentano |                       |
+|                       | altresì le            |                       |
+|                       | perimetrazioni con    |                       |
+|                       | riferimento alle      |                       |
+|                       | caratteristiche delle |                       |
+|                       | zone di insediamento  |                       |
+|                       | commerciale, secondo  |                       |
+|                       | quanto previsto dagli |                       |
+|                       | indirizzi e dai       |                       |
+|                       | criteri di cui alla   |                       |
+|                       | normativa regionale   |                       |
+|                       | sulla disciplina del  |                       |
+|                       | commercio.            |                       |
++-----------------------+-----------------------+-----------------------+
+| Scala                 | 2000 – 10.000         |                       |
++-----------------------+-----------------------+-----------------------+
+| Descrizione contenuti | tavola/e con          |                       |
+|                       | previsione delle zone |                       |
+|                       | d'insediamento        |                       |
+|                       | commerciale coerenti  |                       |
+|                       | con i contenuti della |                       |
+|                       | DCC di criteri di cui |                       |
+|                       | all'art. 9 del d.lgs. |                       |
+|                       | 114/98 e s.m.i.       |                       |
+|                       |                       |                       |
+|                       | - descrizione delle   |                       |
+|                       | previsioni            |                       |
+|                       | commerciali           |                       |
+|                       | all'interno della     |                       |
+|                       | relazione del PRGC    |                       |
+|                       |                       |                       |
+|                       | - nelle NTA inserire  |                       |
+|                       | riferimento alla      |                       |
+|                       | normativa commerciale |                       |
+|                       | per le aree incluse   |                       |
+|                       | nelle zone            |                       |
+|                       | d'insediamento        |                       |
+|                       | commerciale (vedi     |                       |
+|                       | art. 21 c.2 della LR  |                       |
+|                       | 56/77 e s.m.i.)       |                       |
++-----------------------+-----------------------+-----------------------+
+| Livelli informativi   |                       |                       |
+| disponibili           |                       |                       |
++-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica      | elaborato da          | versione preliminare  |
+| Progetto preliminare  | consegnare            | dell’elaborato,       |
+| – prima conferenza di |                       | completo di tutti i   |
+| copianificazione      |                       | contenuti previsti,   |
+|                       |                       | con il maggior        |
+|                       |                       | dettaglio disponibile |
+|                       |                       | (in scala >=          |
+|                       |                       | 1:10.000)             |
++-----------------------+-----------------------+-----------------------+
+|                       | contenuti             |                       |
+|                       | dell'elaborato        |                       |
++-----------------------+-----------------------+-----------------------+
+|                       | shapefile             | -  ZIC zonizzazione   |
+|                       |                       |    commerciale        |
+|                       |                       |                       |
+|                       |                       | -  DESTUSO            |
+|                       |                       |    destinazioni d’uso |
+|                       |                       |                       |
+|                       |                       | -  AUP aree           |
+|                       |                       |    urbanistiche di    |
+|                       |                       |    progetto           |
+|                       |                       |                       |
+|                       |                       | -  MODATT modalità di |
+|                       |                       |    attuazione         |
++-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica      | elaborato da          | versione definitiva   |
+| Progetto definitivo – | consegnare            | degli elaborati, in   |
+| seconda conferenza    |                       | scala 1:2.000         |
++-----------------------+-----------------------+-----------------------+
+|                       | contenuti             | come sopra            |
+|                       | dell'elaborato        |                       |
++-----------------------+-----------------------+-----------------------+
+|                       | shapefile             | come sopra            |
++-----------------------+-----------------------+-----------------------+
 
 
 .. raw:: html

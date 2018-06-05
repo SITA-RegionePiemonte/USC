@@ -1,5 +1,96 @@
+Norme di attuazione
+^^^^^^^^^^^^^^^^^^^^
 
 
++-----------------------+-----------------------+-----------------------+
+| Elaborato             | 20. Norme di          |                       |
+|                       |     attuazione        |                       |
++-----------------------+-----------------------+-----------------------+
+| Sigla elaborato:      | NTA                   |                       |
++-----------------------+-----------------------+-----------------------+
+| Riferimenti normativi | Art 14 c.1, punto 4,  |                       |
+|                       | lr56/77 smi:          |                       |
+|                       |                       |                       |
+|                       | le norme di           |                       |
+|                       | attuazione,           |                       |
+|                       | contenenti le         |                       |
+|                       | definizioni e le      |                       |
+|                       | prescrizioni generali |                       |
+|                       | e particolari         |                       |
+|                       | relative alle classi  |                       |
+|                       | di destinazione       |                       |
+|                       | d'uso, ai tipi di     |                       |
+|                       | intervento, ai modi   |                       |
+|                       | di attuazione ed alla |                       |
+|                       | gestione del piano,   |                       |
+|                       | ivi comprese quelle   |                       |
+|                       | relative agli         |                       |
+|                       | insediamenti          |                       |
+|                       | commerciali al        |                       |
+|                       | dettaglio             |                       |
+|                       |                       |                       |
+|                       | Circolare 16URE/1989, |                       |
+|                       | sez I, scheda C, 2 e  |                       |
+|                       | 3.4                   |                       |
++-----------------------+-----------------------+-----------------------+
+| Scala                 | n.a.                  |                       |
++-----------------------+-----------------------+-----------------------+
+| Descrizione contenuti | Evitare ripetizioni   |                       |
+|                       | di prescrizioni       |                       |
+|                       | legislative nazionali |                       |
+|                       | e/o regionali e dei   |                       |
+|                       | contenuti del         |                       |
+|                       | Regolamento Edilizio  |                       |
+|                       | (includere solo       |                       |
+|                       | rimandi).             |                       |
+|                       |                       |                       |
+|                       | Inserire riferimenti  |                       |
+|                       | alle prescrizioni     |                       |
+|                       | specifiche di cui al  |                       |
+|                       | catalogo dei beni     |                       |
+|                       | paesaggistici del     |                       |
+|                       | PPR.                  |                       |
+|                       |                       |                       |
+|                       | Inserire eventuali    |                       |
+|                       | schede d’area         |                       |
+|                       | riferite agli ambiti  |                       |
+|                       | di particolare        |                       |
+|                       | complessità o         |                       |
+|                       | soggetti a strumento  |                       |
+|                       | esecutivo.            |                       |
++-----------------------+-----------------------+-----------------------+
+| Livelli informativi   | catalogo dei beni     |                       |
+| disponibili           | paesaggistici del PPR |                       |
++-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica      | elaborato da          | versione preliminare  |
+| Progetto preliminare  | consegnare            | dell’elaborato,       |
+| – prima conferenza di |                       | completo di tutti i   |
+| copianificazione      |                       | contenuti previsti,   |
+|                       |                       | con il maggior        |
+|                       |                       | dettaglio disponibile |
++-----------------------+-----------------------+-----------------------+
+|                       | contenuti             | Elementi essenziali   |
+|                       | dell'elaborato        | ma sufficienti a      |
+|                       |                       | illustrare            |
+|                       |                       | completamente         |
+|                       |                       | l’intero apparato     |
+|                       |                       | normativo per le      |
+|                       |                       | varianti generali o   |
+|                       |                       | le modifiche          |
+|                       |                       | apportate per le      |
+|                       |                       | varianti strutturali  |
++-----------------------+-----------------------+-----------------------+
+|                       | shapefile             | n.a.                  |
++-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica      | elaborato da          | versione definitiva   |
+| Progetto definitivo – | consegnare            | degli elaborati       |
+| seconda conferenza    |                       |                       |
++-----------------------+-----------------------+-----------------------+
+|                       | contenuti             | Intero apparato       |
+|                       | dell'elaborato        | normativo             |
++-----------------------+-----------------------+-----------------------+
+|                       | shapefile             | n.a.                  |
++-----------------------+-----------------------+-----------------------+
 
 
 
