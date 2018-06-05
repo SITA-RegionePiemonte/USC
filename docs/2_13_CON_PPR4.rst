@@ -33,8 +33,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola di raffronto)
 |                       | paesaggistiche della                          |
 |                       | Tavola P4 del Ppr,                            |
 |                       | già                                           |
-|                       | corrette/integrate/sp                         |
-|                       | ecificate                                     |
+|                       | corrette/integrate/specificate                |
 |                       | come da Tavola                                |
 |                       | CON_PPR_2                                     |
 +-----------------------+-----------------------+-----------------------+
@@ -53,7 +52,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola di raffronto)
 |                       | dell'elaborato        |    paesaggistiche     |
 |                       |                       |    (già               |
 |                       |                       |    corrette/integrate |
-|                       |                       | /specificate          |
+|                       |                       |    /specificate       |
 |                       |                       |    dal Comune);       |
 |                       |                       |                       |
 |                       |                       | -  Aree urbanistiche  |
@@ -65,7 +64,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola di raffronto)
 |                       |                       |                       |
 |                       |                       | -  Destinazioni d’uso |
 +                       +-----------------------+-----------------------+
-|                       | shapefile             | - AUP (limitatamente  |
+|                       | shapefile             | AUP (limitatamente    |
 |                       |                       | alle aree di          |
 |                       |                       | completamento, di     |
 |                       |                       | trasformazione e di   |
@@ -75,28 +74,28 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola di raffronto)
 |                       |                       | insediative di        |
 |                       |                       | progetto)             |
 |                       |                       |                       |
-|                       |                       | - AUS                 |
+|                       |                       | AUS                   |
 |                       |                       |                       |
-|                       |                       | - AU_CFR              |
+|                       |                       | AU_CFR                |
 |                       |                       |                       |
-|                       |                       | - DESTUSO (livello 1) |
+|                       |                       | DESTUSO (livello 1)   |
 |                       |                       |                       |
-|                       |                       | - COMPONENTI          |
+|                       |                       | COMPONENTI            |
 |                       |                       | NATURALISTICO         |
 |                       |                       | AMBIENTALI            |
 |                       |                       |                       |
-|                       |                       | - COMPONENTI STORICO  |
+|                       |                       | COMPONENTI STORICO    |
 |                       |                       | CULTURALI             |
 |                       |                       |                       |
-|                       |                       | - COMPONENTI          |
+|                       |                       | COMPONENTI            |
 |                       |                       | PERCETTIVO            |
 |                       |                       | IDENTITARIE           |
 |                       |                       |                       |
-|                       |                       | - COMPONENTI          |
+|                       |                       | COMPONENTI            |
 |                       |                       | MORFOLOGICO           |
 |                       |                       | INSEDIATIVE           |
 |                       |                       |                       |
-|                       |                       | - AREE CON ELEMENTI   |
+|                       |                       | AREE CON ELEMENTI     |
 |                       |                       | CRITICI               |
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica      | elaborato da          | -                     |
