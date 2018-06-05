@@ -210,7 +210,6 @@ Relazione illustrativa
 |                       |                                               |
 |                       | Consumo di suolo                              |
 +=======================+=======================+=======================+
-+-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica      | elaborato da          | Relazione di progetto |
 | Progetto preliminare  | consegnare            | preliminare           |
 | – prima conferenza di |                       |                       |
