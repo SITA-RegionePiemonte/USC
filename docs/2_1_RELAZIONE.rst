@@ -60,7 +60,7 @@ Relazione illustrativa
 |                       | adottati per la sua                           |
 |                       | elaborazione.                                 |
 |                       |                                               |
-|                       | In particolare,, con                          |
+|                       | In particolare, con                           |
 |                       | riferimento alle                              |
 |                       | relazioni tra le                              |
 |                       | previsioni del piano                          |
