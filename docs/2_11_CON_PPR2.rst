@@ -69,22 +69,22 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola delle componenti Paesaggistich
 |                       |                       | del PPR stesso        |
 +                       +-----------------------+-----------------------+
 |                       | shapefile             | - COMPONENTI          |
-|                       |                       | NATURALISTICO         |
-|                       |                       | AMBIENTALI            |
+|                       |                       |   NATURALISTICO       |
+|                       |                       |   AMBIENTALI          |
 |                       |                       |                       |
 |                       |                       | - COMPONENTI STORICO  |
-|                       |                       | CULTURALI             |
+|                       |                       |   CULTURALI           |
 |                       |                       |                       |
 |                       |                       | - COMPONENTI          |
-|                       |                       | PERCETTIVO            |
-|                       |                       | IDENTITARIE           |
+|                       |                       |   PERCETTIVO          |
+|                       |                       |   IDENTITARIE         |
 |                       |                       |                       |
 |                       |                       | - COMPONENTI          |
-|                       |                       | MORFOLOGICO           |
-|                       |                       | INSEDIATIVE           |
+|                       |                       |   MORFOLOGICO         |
+|                       |                       |   INSEDIATIVE         |
 |                       |                       |                       |
 |                       |                       | - AREE CON ELEMENTI   |
-|                       |                       | CRITICI               |
+|                       |                       |   CRITICI             |
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica      | elaborato da          | -                     |
 | Progetto definitivo – | consegnare            |                       |
