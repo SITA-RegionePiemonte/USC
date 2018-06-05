@@ -210,6 +210,28 @@ Relazione illustrativa
 |                       |                                               |
 |                       | Consumo di suolo                              |
 +-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica      | elaborato da          | Relazione di progetto |
+| Progetto preliminare  | consegnare            | preliminare           |
+| – prima conferenza di |                       |                       |
+| copianificazione      |                       |                       |
++                       +-----------------------+-----------------------+
+|                       | contenuti             | n.a.                  |
+|                       | dell'elaborato        |                       |
++                       +-----------------------+-----------------------+
+|                       | shapefile             | n.a.                  |
++-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica      | elaborato da          | Relazione di progetto |
+| Progetto definitivo – | consegnare            | definitivo            |
+| seconda conferenza    |                       |                       |
++                       +-----------------------+-----------------------+
+|                       | contenuti             | n.a.                  |
+|                       | dell'elaborato        |                       |
++                       +-----------------------+-----------------------+
+|                       | shapefile             | n.a.                  |
++-----------------------+-----------------------+-----------------------+
+
+
+
 
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica Progetto preliminare - prima conferenza              |
@@ -236,6 +258,34 @@ Relazione illustrativa
 |                       | dell'elaborato        |                       |
 +                       +-----------------------+-----------------------+
 |                       | shapefile             | n.a.                  |
++-----------------------+-----------------------+-----------------------+
+
+
++-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica Progetto preliminare - prima conferenza              |
++-----------------------+-----------------------+-----------------------+
+| elaborato da          | Relazione di progetto                         |
+| consegnare            | preliminare                                   |
+|                       |                                               |
+|                       |                                               |
++-----------------------+-----------------------------------------------+
+| contenuti             | n.a.                                          |
+| dell'elaborato        |                                               |
++-----------------------+-----------------------------------------------+
+| shapefile             | n.a.                                          |
++-----------------------+-----------------------+-----------------------+
+|                                                                       |
++-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica Progetto Definitivo - seconda conferenza             |
++-----------------------+-----------------------+-----------------------+
+| elaborato da          | Relazione di progetto                         |
+| consegnare            | definitivo                                    |
+|                       |                                               |
++-----------------------+-----------------------------------------------+
+| contenuti             | n.a.                                          |
+| dell'elaborato        |                                               |
++-----------------------+-----------------------------------------------+
+| shapefile             | n.a.                                          |
 +-----------------------+-----------------------+-----------------------+
 
 .. raw:: html
