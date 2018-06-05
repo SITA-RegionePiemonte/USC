@@ -261,9 +261,9 @@ Relazione illustrativa
 +-----------------------+-----------------------+-----------------------+
 
 
-+=======================+=======================+=======================+
-| Proposta Tecnica Progetto preliminare - prima conferenza              |
 +-----------------------+-----------------------+-----------------------+
+| Proposta Tecnica Progetto preliminare - prima conferenza              |
++=======================+=======================+=======================+
 | elaborato da          | Relazione di progetto                         |
 | consegnare            | preliminare                                   |
 |                       |                                               |
