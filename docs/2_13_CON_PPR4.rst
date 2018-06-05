@@ -64,7 +64,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola di raffronto)
 |                       |                       |                       |
 |                       |                       | -  Destinazioni d’uso |
 +                       +-----------------------+-----------------------+
-|                       | shapefile             | AUP (limitatamente    |
+|                       | shapefile             | AUP *(limitatamente   |
 |                       |                       | alle aree di          |
 |                       |                       | completamento, di     |
 |                       |                       | trasformazione e di   |
@@ -72,13 +72,13 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola di raffronto)
 |                       |                       | colori associati alle |
 |                       |                       | Morfologie            |
 |                       |                       | insediative di        |
-|                       |                       | progetto)             |
+|                       |                       | progetto)*            |
 |                       |                       |                       |
 |                       |                       | AUS                   |
 |                       |                       |                       |
 |                       |                       | AU_CFR                |
 |                       |                       |                       |
-|                       |                       | DESTUSO (livello 1)   |
+|                       |                       | DESTUSO *(livello 1)* |
 |                       |                       |                       |
 |                       |                       | COMPONENTI            |
 |                       |                       | NATURALISTICO         |
