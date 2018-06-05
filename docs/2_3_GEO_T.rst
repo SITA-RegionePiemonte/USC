@@ -151,3 +151,8 @@ Aspetti geologici , idraulici e sismici
 |                       |                       | DGR n. 64-7417 del    |
 |                       |                       | 7/4/14                |
 +-----------------------+-----------------------+-----------------------+
+
+
+
+.. raw:: html
+       :file: disqus.html
