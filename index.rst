@@ -47,6 +47,20 @@ Contenuti
     docs/2_12_CON_PPR3
     docs/2_13_CON_PPR4
     docs/2_14_CON_PTP
+    docs/2_15_T25
+    docs/2_16_T10
+    docs/2_17_T2000
+    docs/2_18_T1000
+    docs/2_19_TVI
+    docs/2_20_NTA
+    docs/2_21_VAS_VER
+    docs/2_22_VAS_SPE
+    docs/2_23_VAS_RA
+    docs/2_24_VAS_SNT
+    docs/2_25_VAS_PMA
+    docs/2_26_COM
+    docs/2_30_SchedaQuant
+    docs/2_40_Elenchishapefile
     docs/licenza
     docs/Acura
 
