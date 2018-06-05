@@ -210,7 +210,7 @@ Relazione illustrativa
 |                       |                                               |
 |                       | Consumo di suolo                              |
 +-----------------------+-----------------------+-----------------------+
-
++=======================+=======================+=======================+
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica      | elaborato da          | Relazione di progetto |
 | Progetto preliminare  | consegnare            | preliminare           |
@@ -222,7 +222,6 @@ Relazione illustrativa
 +                       +-----------------------+-----------------------+
 |                       | shapefile             | n.a.                  |
 +-----------------------+-----------------------+-----------------------+
-
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica      | elaborato da          | Relazione di progetto |
 | Progetto definitivo – | consegnare            | definitivo            |
