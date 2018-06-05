@@ -88,15 +88,15 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola della percezione visiva)
 |                       |                       |    eventuali altre    |
 |                       |                       |    componenti         |
 |                       |                       |    percettivo-identit |
-|                       |                       | arie                  |
+|                       |                       |    arie               |
 |                       |                       |    ritenute rilevanti |
 |                       |                       |    per l’analisi e il |
 |                       |                       |    dimensionamento    |
 |                       |                       |    dei bacini visivi  |
 +                       +-----------------------+-----------------------+
 |                       | shapefile             | - COMPONENTI          |
-|                       |                       | PERCETTIVO            |
-|                       |                       | IDENTITARIE           |
+|                       |                       |   PERCETTIVO          |
+|                       |                       |   IDENTITARIE         |
 |                       |                       |                       |
 |                       |                       | - CONI VISUALI        |
 +-----------------------+-----------------------+-----------------------+
