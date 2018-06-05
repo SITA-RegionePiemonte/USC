@@ -41,6 +41,7 @@ Contenuti
     docs/2_6_COP_SUOLO
     docs/2_7_ACU
     docs/2_8_RIR
+    docs/2_9_CON_SUOLO.rst
     docs/licenza
     docs/Acura
 
