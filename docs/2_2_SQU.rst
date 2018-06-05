@@ -2,8 +2,6 @@ Scheda quantitativa dei dati urbani
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-
-
 +-----------------------+-----------------------+-----------------------+
 | Elaborato             | 2. Scheda                                     |
 |                       |    quantitativa dei                           |

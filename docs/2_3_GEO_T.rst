@@ -24,8 +24,7 @@ Aspetti geologici , idraulici e sismici
 |                       | Circolare 16URE/1989,                         |
 |                       | sez I, scheda C                               |
 |                       |                                               |
-|                       | DGR 64-7417 del                               |
-|                       | 7/4/14                                        |
+|                       | DGR 64-7417 del 7/4/14                        |
 |                       |                                               |
 |                       | DGR N. 4-3084 del                             |
 |                       | 12/12/2011                                    |
@@ -59,17 +58,13 @@ Aspetti geologici , idraulici e sismici
 |                       | territorio piemontese                         |
 +-----------------------+-----------------------+-----------------------+
 | Livelli informativi   | DISUW:                                        |
-| disponibili           | http://www.regione.pi                         |
-|                       | emonte.it/disuw/main.                         |
-|                       | php                                           |
+| disponibili           | http://www.regione.piemonte.it/disuw/main.php |
 |                       |                                               |
 |                       | RISKNAT EVENTI:                               |
-|                       | http://webgis.arpa.pi                         |
-|                       | emonte.it/bde_webapp/                         |
+|                       | http://webgis.arpa.piemonte.it/bde_webapp/    |
 |                       |                                               |
 |                       | RISKNAT:                                      |
-|                       | http://webgis.arpa.pi                         |
-|                       | emonte.it/risknat/                            |
+|                       | http://webgis.arpa.piemonte.it/risknat/       |
 |                       |                                               |
 |                       | RAPPORTI DI EVENTO                            |
 |                       | PIEMONTE:                                     |
@@ -83,8 +78,8 @@ Aspetti geologici , idraulici e sismici
 |                       | a=10&argomento=111                            |
 |                       |                                               |
 |                       | PAI:                                          |
-|                       | http://www.adbpo.gov.                         |
-|                       | it/                                           |
+|                       |                                               |
+|                       | http://www.adbpo.gov.it/                      |
 |                       |                                               |
 |                       | ARPA:                                         |
 |                       |                                               |
@@ -95,6 +90,7 @@ Aspetti geologici , idraulici e sismici
 |                       | licazioni                                     |
 |                       |                                               |
 |                       | IFFI:                                         |
+|                       |                                               |
 |                       | http://www.isprambien                         |
 |                       | te.gov.it/it/progetti                         |
 |                       | /suolo-e-territorio-1                         |
@@ -104,8 +100,8 @@ Aspetti geologici , idraulici e sismici
 |                       |                                               |
 |                       | GEOPOPRTALE                                   |
 |                       | NAZIONALE:                                    |
-|                       | http://www.pcn.minamb                         |
-|                       | iente.it/GN/                                  |
+|                       |                                               |
+|                       | http://www.pcn.minambiente.it/GN/             |
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica      | elaborato da          | Vedi allegato A alla  |
 | Progetto preliminare  | consegnare            | Circolare PGR n.      |
