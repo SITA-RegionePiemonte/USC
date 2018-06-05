@@ -214,28 +214,28 @@ Relazione illustrativa
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica Progetto preliminare - prima conferenza              |
 +=======================+=======================+=======================+
-| elaborato da          | Relazione di progetto                         |
-| consegnare            | preliminare                                   |
+| *elaborato da         | Relazione di progetto                         |
+| consegnare*           | preliminare                                   |
 |                       |                                               |
 |                       |                                               |
 +-----------------------+-----------------------+-----------------------+
-| contenuti             | n.a.                                          |
-| dell'elaborato        |                                               |
+|*contenuti             | n.a.                                          |
+|dell'elaborato*        |                                               |
 +-----------------------+-----------------------+-----------------------+
-| shapefile             | n.a.                                          |
+|*shapefile*            | n.a.                                          |
 +-----------------------+-----------------------+-----------------------+
 
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica Progetto Definitivo - seconda conferenza             |
 +=======================+=======================+=======================+
-| elaborato da          | Relazione di progetto                         |
-| consegnare            | definitivo                                    |
+|*elaborato da          | Relazione di progetto                         |
+|consegnare*            | definitivo                                    |
 |                       |                                               |
 +-----------------------+-----------------------+-----------------------+
-| contenuti             | n.a.                                          |
-| dell'elaborato        |                                               |
+|*contenuti             | n.a.                                          |
+|dell'elaborato*        |                                               |
 +-----------------------+-----------------------------------------------+
-| shapefile             | n.a.                                          |
+|*shapefile*            | n.a.                                          |
 +-----------------------+-----------------------+-----------------------+
 
 .. raw:: html
