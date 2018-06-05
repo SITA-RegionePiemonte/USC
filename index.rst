@@ -42,6 +42,11 @@ Contenuti
     docs/2_7_ACU
     docs/2_8_RIR
     docs/2_9_CON_SUOLO.rst
+    docs/2_10_CON_PPR1
+    docs/2_11_CON_PPR2
+    docs/2_12_CON_PPR3
+    docs/2_13_CON_PPR4
+    docs/2_14_CON_PTP
     docs/licenza
     docs/Acura
 
