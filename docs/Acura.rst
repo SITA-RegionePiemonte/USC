@@ -1,4 +1,5 @@
 A cura del Gruppo di Lavoro composto da:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 +------------------+--------------------+-----------------------+
 |Giovanni Assandri |Jessica Deffacis    |Gian Bartolomeo Siletto|
@@ -23,7 +24,7 @@ A cura del Gruppo di Lavoro composto da:
 |                  |                    |                       |
 +------------------+--------------------+-----------------------+
 
-Hanno inoltre contribuito: 
+Hanno inoltre contribuito:
 
 +------------------+-------------------+-------------------+
 |Livio Dezzani     |Mario Viano        |Roberta Lucà       |
