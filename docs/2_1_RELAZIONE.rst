@@ -223,7 +223,7 @@ Relazione illustrativa
 +-----------------------+-----------------------+-----------------------+
 |                                                                       |
 +-----------------------+-----------------------+-----------------------+
-| Proposta Tecnica Progetto Definitivo - seconda conferenza                                                                     |
+| Proposta Tecnica Progetto Definitivo - seconda conferenza             |
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica      | elaborato da          | Relazione di progetto |
 | Progetto definitivo – | consegnare            | definitivo            |
