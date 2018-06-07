@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'USC - Urbanstica senza Carta'
+project = 'USC - Urbanistica senza Carta'
 copyright = '[licenza CC-BY Regione Piemonte]'
 
 # The name of the Pygments (syntax highlighting) style to use.
