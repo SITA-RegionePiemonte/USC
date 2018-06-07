@@ -6,6 +6,15 @@
    background-color: #e5e5e5; /*f0f0f0;*/
 }
 
+/*blocco aggiunto */
+.wy-table-responsive {
+    margin-bottom: 24px;
+    max-width: 100%;
+    overflow: visible;
+}
+
+
+
 .line-block, .docutils.footnote {
     line-height: 24px;
 }
