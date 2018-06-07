@@ -43,7 +43,7 @@ Tabella 4 – Zonizzazione commerciale
 +----------------+--------------------------------------------------+
 | **L2**         | Localizzazioni commerciali urbano-periferiche    |
 |                | non addensate                                    |
-+-------------------------------------------------------------------+
++----------------+--------------------------------------------------+
 
 .. raw:: html
            :file: disqus.html
