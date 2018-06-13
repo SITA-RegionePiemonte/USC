@@ -1,2 +1,3 @@
 # USC
-pippo
+
+Documentazione relativa al progetto Urbanistica senza Carta
