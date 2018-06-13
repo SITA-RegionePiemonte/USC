@@ -1,5 +1,5 @@
 Tipi di intervento edilizio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+=====================================
 
 Il piano è tenuto a disciplinare per ogni area urbanistica di progetto
 o, a nel caso di ambiti disciplinati ai sensi dell’articolo 24 della

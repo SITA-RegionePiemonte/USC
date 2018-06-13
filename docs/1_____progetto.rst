@@ -1,6 +1,6 @@
-====================================
-**Perché l’Urbanistica Senza Carta**
-====================================
+####################################
+Perché l’Urbanistica Senza Carta
+####################################
 
 La dematerializzazione dei procedimenti e dei processi favorisce l'erogazione di servizi da parte della PA  in maniera più consapevole, rapida e trasparente, sia a livello locale che a livello regionale, come peraltro richiesto dalle norme europee e nazionali (direttiva 2003/98/CE PSI, direttiva 2007/2/EC INSPIRE, d.lgs. 82/2005 - Codice dell’amministrazione digitale, Agenda Digitale Italiana, d.lgs. 33/2013, ...).
 
@@ -16,7 +16,7 @@ E’ necessario, quindi, riprogettare gli attuali processi e costruire servizi i
 
 Questi servizi faciliteranno le attività in capo alla Regione, ai Comuni, alle province e alla Città Metropolitana, che sono i soggetti competenti individuati dalla l.r. 56/1977 e s.m.i., e dovranno contribuire alla costruzione del sistema informativo regionale.
 
-**Articolazione logica dei contenuti**
+Articolazione logica dei contenuti
 --------------------------------------
 
 Il progetto Urbanistica Senza Carta (USC) ha come obiettivo la dematerializzazione dei procedimenti urbanistici, promuovendo un passaggio graduale ma integrale alle procedure informatizzate, con l’obiettivo di arrivare alla semplificazione del procedimento urbanistico da parte di comune o sue forme associative, provincia, città metropolitana e regione, ricorrendo quanto più possibile alle soluzioni offerte dalla *Information Technology* .

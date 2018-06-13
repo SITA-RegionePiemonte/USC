@@ -1,4 +1,5 @@
-*Zonizzazione acustica*
+Zonizzazione acustica
+======================================
 
 Classificazione del territorio comunale in aree omogenee secondo 6
 classi acustiche (Classi di destinazione d’uso - Tabella A del D.P.C.M.

@@ -1,5 +1,5 @@
 Confronto fra le previsioni del Prg vigente e del nuovo Prg/variante
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+==========================================================================
 
 Al fine di verificare le variazioni proposte dalla nuovo strumento di
 pianificazione, si richiede di produrre una cartografia nella quale

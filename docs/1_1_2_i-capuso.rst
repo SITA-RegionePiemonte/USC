@@ -1,5 +1,5 @@
 Capacità d’uso dei suoli
-^^^^^^^^^^^^^^^^^^^^^^^^
+===========================
 
 Il territorio deve essere suddiviso in aree con classe di capacità d’uso
 del suolo omogenea, descritte secondo la tabella:

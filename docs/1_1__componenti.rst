@@ -1,8 +1,9 @@
-1.1 - Le componenti normalizzate
---------------------------------
 
-1.1.a - Struttura del piano
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Le componenti normalizzate
+==================================
+
+Struttura del piano
+--------------------
 
 Per una maggiore leggibilità e una rappresentazione gestibile del Prg
 informatizzato è stato previsto un modello a strati, formato da tanti

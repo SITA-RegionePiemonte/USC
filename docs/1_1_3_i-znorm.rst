@@ -1,5 +1,5 @@
 Zone Normative
-^^^^^^^^^^^^^^
+==================
 
 Il piano riconosce sul territorio comunale almeno 5 livelli progettuali
 che possiamo definire essenziali al fine di normare la tutela e l'uso

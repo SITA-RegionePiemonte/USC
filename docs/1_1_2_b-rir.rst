@@ -1,5 +1,5 @@
 Stabilimenti a rischio di incidente rilevante
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+=========================================================
 
 La normativa di riferimento relativa al controllo dei pericoli di
 incidente rilevante connessi con determinate sostanze pericolose è la

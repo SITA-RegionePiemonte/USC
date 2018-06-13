@@ -1,8 +1,9 @@
+**********************************************************************
 Livelli propedeutici alla progettazione urbanistica
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**********************************************************************
 
 Quadro dei Vincoli
-^^^^^^^^^^^^^^^^^^
+===================
 
 La tabella illustra la classificazione sinottica dei vincoli e delle
 tutele che possono essere presenti sul territorio, da quelli istituiti

@@ -1,5 +1,5 @@
 Perimetrazioni dei centri abitati e del centro storico
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+========================================================
 
 I centri abitati sono oggetto di diverse perimetrazioni. Qui verranno
 trattate esclusivamente quelle con significato urbanistico.
@@ -29,7 +29,7 @@ Tabella 6 - Perimetrazioni dei centri abitati e del centro storico
 +-----------------------------------+-----------------------------------+
 
 Perimetrazione del centro abitato [art. 12, comma 2, n. 5 bis) l.r. 56/1977 e s.m.i.]
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+-------------------------------------------------------------------------------------------
 
 L’articolo 12 della l.r. 56/1977 prevede al comma 2, numero 5 bis) che
 il Prg “determini la perimetrazione del centro abitato, redatta su mappa
@@ -94,7 +94,8 @@ La *“procedura per la perimetrazione degli abitati”* di cui all'articolo
 56/1977.
 
 
-**Criteri per la perimetrazione**
+Criteri per la perimetrazione
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Al fine di applicare correttamente i disposti delle norme su elencate,
 si definisce:
@@ -166,7 +167,7 @@ di attuazione del PTC2 può costituire proposta per l’avvio della
 procedura di cui all’ articolo 81 della l.r.56/1977.
 
 Perimetrazione del centro abitato [art 4 d.lgs. 285/1992 Codice della Strada]
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+-------------------------------------------------------------------------------
 
 I Comuni sono tenuti a perimetrare il centro abitato secondo le
 indicazione riportate nella circolare del Ministero dei Lavori Pubblici
@@ -175,7 +176,7 @@ diverse dagli scopi urbanistici, e pertanto non è necessaria una
 coincidenza con la perpetrazione ai sensi della l.r. 56/1977.
 
 Perimetrazione del centro abitato ai sensi del piano di coordinamento provinciale
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+-----------------------------------------------------------------------------------
 
 Qualora il piano territoriale di coordinamento provinciale preveda la
 perimetrazione del centro abitato, questa deve essere riportata sugli
@@ -183,7 +184,7 @@ elaborati di piano con segno grafico che ne permetta la distinzione
 dalle altre perimetrazioni.
 
 Perimetrazione del centro storico (art. 24 l.r. 56/1977 e s.m.i.)
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+-------------------------------------------------------------------------------
 
 Il centro storico, in generale corrispondente alla "zona A" ai sensi del
 D.M. 1444/1968, deve essere individuato ai sensi dell’Art. 24 della l.r.

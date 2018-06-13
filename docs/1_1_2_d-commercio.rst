@@ -1,5 +1,5 @@
 Zonizzazione commerciale
-^^^^^^^^^^^^^^^^^^^^^^^^
+==========================
 
 Secondo l’art.22 della D.C.R. 29 ottobre 1999 *“il piano regolatore
 generale delimita le zone di addensamento e le localizzazioni

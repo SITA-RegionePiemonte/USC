@@ -1,5 +1,5 @@
 Uso del suolo in atto ai fini agricoli, forestali, estrattivi (Carta della copertura del suolo)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+==================================================================================================
 
 La cartografia della copertura del suolo (uso del suolo in atto, come
 previsto all’art. 25 della l.r. 56/1977 e s.m.i.) può utilmente essere

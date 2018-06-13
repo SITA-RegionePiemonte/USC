@@ -1,8 +1,9 @@
+********************************
 Livelli progettuali del Prg
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+********************************
 
 Morfologie insediative di progetto
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+=====================================
 
 Le morfologie insediative di progetto derivano dalle morfologie
 insediative (stato di fatto), ossia le morfologie del Ppr eventualmente

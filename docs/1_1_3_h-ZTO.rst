@@ -1,5 +1,5 @@
 Zone Territoriali Omogenee (d.m. 1444/1968)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===============================================
 
 Il piano dovrà esprimere una chiara corrispondenza tra zone normative e
 Zone Territoriali Omogenee, tale da poter riconoscere ciascun ambito

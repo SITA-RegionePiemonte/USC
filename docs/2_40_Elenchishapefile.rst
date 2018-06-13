@@ -1,5 +1,5 @@
  Elenchi shapefile
- ^^^^^^^^^^^^^^^^^^^^^^
+ ===================
 
  Vengono qui esplicitati gli elenchi di shapefile che nelle schede
  precedenti sono indicati sinteticamente per argomenti.

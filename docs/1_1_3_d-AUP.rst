@@ -1,5 +1,5 @@
 Aree urbanistiche di progetto
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+=====================================
 
 La tabella, relativa alla caratterizzazione urbanistica dei tessuti
 urbani edificati e da edificare, distingue i tessuti consolidati da
@@ -76,7 +76,7 @@ nuovo impianto del vigente strumento non attuate che vengono riportate a
 destinazione d’uso agricola o a servizi.
 
 Aree urbanistiche stralciate
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+=====================================
 
 Le aree pianificate in precedenti piani e stralciate devono essere
 indicate, complete di riferimento alla tipologia a suo tempo prevista.

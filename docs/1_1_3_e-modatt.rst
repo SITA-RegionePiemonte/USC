@@ -1,5 +1,5 @@
 Modalità di Attuazione
-^^^^^^^^^^^^^^^^^^^^^^
+=====================================
 
 Classificazione delle modalità con cui attuare gli interventi in una
 data area. Comprende sia gli interventi diretti che i piani esecutivi.

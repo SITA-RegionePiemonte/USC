@@ -1,5 +1,5 @@
 Matrice delle destinazioni d’uso compatibili e complementari
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------------------------------
 
 Al fine di uniformare sul territorio regionale l’interpretazione e
 l’applicazione delle destinazioni d’uso prevalenti, si intende in questa

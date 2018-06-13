@@ -1,8 +1,9 @@
+***********************************
 1. Livelli di base
-~~~~~~~~~~~~~~~
+***********************************
 
 Base cartografica di riferimento
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===================================
 
 La base cartografica di riferimento per Regione Piemonte e tutti i
 soggetti pubblici e privati che con essa interagiscono è costituita
@@ -55,7 +56,7 @@ dati geografici potranno utilizzare questa versione per le operazioni di
 aggiornamento cartografico speditivo sui territori di loro competenza.
 
 Catasto georiferito
-^^^^^^^^^^^^^^^^^^^
+======================
 
 La cartografia catastale risente della sua storia secolare. Nonostante
 gli sforzi compiuti, soprattutto negli ultimi anni, dall’Agenzia delle
