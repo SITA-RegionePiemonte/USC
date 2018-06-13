@@ -1,9 +1,9 @@
 ####################################
-2. ELABORATI DI CONSEGNA
+B. ELABORATI DI CONSEGNA
 ####################################
 
 Elenchi elaborati, nomi tavole
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------
 
 Il piano regolatore redatto secondo lo schema tradizionale (ai sensi
 dell’art. 14 della l.r. 56/1977 e s.m.i.) comprende una serie di

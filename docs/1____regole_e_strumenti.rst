@@ -1,5 +1,5 @@
 ########################################################################
-1. LE REGOLE E GLI STRUMENTI INFORMATIZZATI PER LA PIANIFICAZIONE
+A. LE REGOLE E GLI STRUMENTI INFORMATIZZATI PER LA PIANIFICAZIONE
 ########################################################################
 
 Una componente fondamentale del progetto Urbanistica senza Carta è quella che mira a mettere a sistema le informazioni e le previsioni dei Piani Regolatori Comunali rendendole patrimonio informativo condiviso e riutilizzabile dagli enti pubblici, dai professionisti e dai cittadini a diverso titolo interessati al governo del territorio, secondo quanto stabilito dalla l.r. 56/1977 (art.3), dalla recente normativa in ambito OpenData e OpenGovernment (si veda p.es. il "Piano triennale per l’informatica nella pubblica amministrazione 2017 - 2019" \ [#F1]_\      e le “Linee guida per la valorizzazione del patrimonio informativo pubblico”), nonché dalla l.r. 21 del 1/12/2017 “Infrastruttura regionale per l’informazione geografica”.
