@@ -184,7 +184,7 @@ elaborati di piano con segno grafico che ne permetta la distinzione
 dalle altre perimetrazioni.
 
 Perimetrazione del centro storico (art. 24 l.r. 56/1977 e s.m.i.)
--------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 Il centro storico, in generale corrispondente alla "zona A" ai sensi del
 D.M. 1444/1968, deve essere individuato ai sensi dell’Art. 24 della l.r.
