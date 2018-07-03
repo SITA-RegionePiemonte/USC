@@ -4,12 +4,8 @@ Industrie a rischio di incidente rilevante
 
 
 +-----------------------+-----------------------+-----------------------+
-| Elaborato             | 8. | Industrie a                              |
-|                       |      rischio di                               |
-|                       |      incidente                                |
-|                       |      rilevante                                |
-|                       |    | (Elaborato                               |
-|                       |      tecnico RIR e                            |
+| Elaborato             | 8.   Industrie a rischio incidente            |
+|                       |      rilevante (Elaborato tecnico RIR e       |
 |                       |      cartografia)                             |
 +-----------------------+-----------------------+-----------------------+
 | Sigla elaborato:      | RIR_R                                         |

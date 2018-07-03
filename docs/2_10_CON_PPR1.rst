@@ -92,9 +92,9 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 +                 +-----------------+-------------+---------------------+
 |                 | shapefile       | BENIP_PNT   |bene_ex_L_1497_39    |
 |                 |                 |             |_punti               |
-+                 +                 +-------------+---------------------+
++                 +                 +             +---------------------+
 |                 |                 |             |alberi_monumentali   |
-+                 +                 +-------------+---------------------+
++                 +                 +             +---------------------+
 |                 |                 |             |bene_ex_Dlgs_42_2004 |
 |                 |                 |             |_artt_138-141        |
 +                 +                 +-------------+---------------------+
@@ -103,7 +103,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 +                 +                 +-------------+---------------------+
 |                 |                 | BENIP_POLY  |bene_ex_L_1497       |
 |                 |                 |             |_39_poligoni         |
-+                 +                 +-------------+---------------------+
++                 +                 +             +---------------------+
 |                 |                 |             |bene_ex_DDMM_1       |
 |                 |                 |             |_8_1985              |
 +                 +                 +-------------+---------------------+
@@ -136,17 +136,17 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 |                 |                 | P_ARCHEO    |Lettera_m_zone       |
 |                 |                 |             |_archeologiche       |
 +-----------------+-----------------+-------------+---------------------+
-| Proposta        | elaborato da    | -           |                     |
+| Proposta        | elaborato da    | --          |                     |
 | Tecnica         | consegnare      |             |                     |
 | Progetto        |                 |             |                     |
 | definitivo –    |                 |             |                     |
 | seconda         |                 |             |                     |
 | conferenza      |                 |             |                     |
 +                 +-----------------+-------------+---------------------+
-|                 | contenuti       | -           |                     |
+|                 | contenuti       | --          |                     |
 |                 | dell'elaborato  |             |                     |
 +                 +-----------------+-------------+---------------------+
-|                 | shapefile       | -           |                     |
+|                 | shapefile       | --          |                     |
 +-----------------+-----------------+-------------+---------------------+
 
 Fare riferimento al Regolamento di attuazione di cui all’art. 46 delle
