@@ -75,11 +75,9 @@ Compatibilità delle aree oggetto di nuova previsione con la classificazione acu
 |                       |                       | aree urbanistiche di  |
 |                       |                       | progetto              |
 +                       +-----------------------+-----------------------+
-|                       | shapefile             | -  ZAC                |
-|                       |                       |                       |
-|                       |                       | -  DESTUSO            |
-|                       |                       |                       |
-|                       |                       | -  AUP                |
+|                       | shapefile             | - ZAC                 |
+|                       |                       | - DESTUSO             |
+|                       |                       | - AUP                 |
 +-----------------------+-----------------------+-----------------------+
 | Proposta Tecnica      | elaborato da          | versione definitiva   |
 | Progetto definitivo – | consegnare            | degli elaborati       |
