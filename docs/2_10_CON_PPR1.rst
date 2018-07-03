@@ -90,8 +90,8 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 |                 |                 | elaborati del                     |
 |                 |                 | PPR stesso                        |
 +                 +-----------------+-------------+---------------------+
-|                 | shapefile       | BENIP_PNT   |bene_ex_L_1497_39_pun|
-|                 |                 |             |ti                   |
+|                 | shapefile       | BENIP_PNT   |bene_ex_L_1497_39    |
+|                 |                 |             |_punti               |
 +                 +                 +-------------+---------------------+
 |                 |                 |             |alberi_monumentali   |
 +                 +                 +-------------+---------------------+
@@ -101,11 +101,11 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 |                 |                 | BENIP_LIN   |bene_ex_L_1497       |
 |                 |                 |             |_39_linee            |
 +                 +                 +-------------+---------------------+
-|                 |                 | BENIP_POLY  |bene_ex_L_1497_      |
-|                 |                 |             |39_poligoni          |
+|                 |                 | BENIP_POLY  |bene_ex_L_1497       |
+|                 |                 |             |_39_poligoni         |
 +                 +                 +-------------+---------------------+
-|                 |                 |             |bene_ex_DDMM_1_      |
-|                 |                 |             |8_1985               |
+|                 |                 |             |bene_ex_DDMM_1       |
+|                 |                 |             |_8_1985              |
 +                 +                 +-------------+---------------------+
 |                 |                 | P_LAGHI     |Lettera_b_fasce      |
 |                 |                 |             |_laghi               |
@@ -123,18 +123,18 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 +                 +                 +-------------+---------------------+
 |                 |                 | P_GHIACC    |Lettera_e_ghiacciai  |
 +                 +                 +-------------+---------------------+
-|                 |                 |             |Lettera_e_circhi_    |
-|                 |                 |             |glaciali             |
+|                 |                 |             |Lettera_e_circhi     |
+|                 |                 |             |_glaciali            |
 +                 +                 +-------------+---------------------+
 |                 |                 | P_PARCHI    |Lettera_f_parchi     |
 +                 +                 +-------------+---------------------+
-|                 |                 | P_BOSCHI    |Lettera_g_foreste_   |
-|                 |                 |             |boschi               |
+|                 |                 | P_BOSCHI    |Lettera_g_foreste    |
+|                 |                 |             |_boschi              |
 +                 +                 +-------------+---------------------+
 |                 |                 | P_USICIV    |Lettera_h_usi_civici |
 +                 +                 +-------------+---------------------+
-|                 |                 | P_ARCHEO    |Lettera_m_zone_      |
-|                 |                 |             |archeologiche        |
+|                 |                 | P_ARCHEO    |Lettera_m_zone       |
+|                 |                 |             |_archeologiche       |
 +-----------------+-----------------+-------------+---------------------+
 | Proposta        | elaborato da    | -           |                     |
 | Tecnica         | consegnare      |             |                     |
