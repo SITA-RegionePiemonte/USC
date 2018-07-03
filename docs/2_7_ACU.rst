@@ -64,16 +64,16 @@ Compatibilità delle aree oggetto di nuova previsione con la classificazione acu
 |                       |                       | tavola relativa       |
 +                       +-----------------------+-----------------------+
 |                       | contenuti             |- zonizzazione acustica|
-|                       | dell'elaborato        | vigente               |
+|                       | dell'elaborato        |  vigente              |
 |                       |                       |                       |
 |                       |                       |- eventuale proposta di|
-|                       |                       | zonizzazione acustica |
-|                       |                       | modificata            |
+|                       |                       |  zonizzazione acustica|
+|                       |                       |  modificata           |
 |                       |                       |                       |
 |                       |                       |- destinazioni d'uso   |
 |                       |                       |                       |
 |                       |                       |- aree urbanistiche di |
-|                       |                       | progetto              |
+|                       |                       |  progetto             |
 +                       +-----------------------+-----------------------+
 |                       | shapefile             | - ZAC                 |
 |                       |                       | - DESTUSO             |
@@ -86,12 +86,12 @@ Compatibilità delle aree oggetto di nuova previsione con la classificazione acu
 |                       |                       | compatibilità e       |
 |                       |                       | tavola relativa       |
 +                       +-----------------------+-----------------------+
-|                       | contenuti             | zonizzazione acustica |
+|                       | contenuti             |- zonizzazione acustica|
 |                       | dell'elaborato        |                       |
-|                       |                       | destinazioni d'uso    |
+|                       |                       |- destinazioni d'uso   |
 |                       |                       |                       |
-|                       |                       | aree urbanistiche di  |
-|                       |                       | progetto              |
+|                       |                       |- aree urbanistiche di |
+|                       |                       |  progetto             |
 +                       +-----------------------+-----------------------+
 |                       | shapefile             | Come sopra            |
 +-----------------------+-----------------------+-----------------------+
