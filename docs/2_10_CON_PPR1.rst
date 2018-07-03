@@ -6,7 +6,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 
 +-----------------+-----------------+-------------+---------------------+
 | Elaborato       | 10. Illustrazione del rapporto tra PRGC e           |
-|                 | PPR (Tavola dei beni paesaggistici)                  |
+|                 | PPR (Tavola dei beni paesaggistici)                 |
 +-----------------+-----------------+-------------+---------------------+
 | Sigla           | CON_PPR_1                                           |
 | elaborato:      |                                                     |
@@ -16,7 +16,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 |                 | lettera 0a) lr                                      |
 |                 | 56/77 smi:                                          |
 |                 |                                                     |
-|                 | *l’illustrazione                                     |
+|                 | *l’illustrazione                                    |
 |                 | del rapporto                                        |
 |                 | tra le                                              |
 |                 | previsioni del                                      |
@@ -24,7 +24,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 |                 | strumenti di                                        |
 |                 | pianificazione                                      |
 |                 | di cui al                                           |
-|                 | Titolo II*                                           |
+|                 | Titolo II*                                          |
 +-----------------+-----------------+-------------+---------------------+
 | Scala           | ≥10.000                                             |
 |                 | (suggerito                                          |
