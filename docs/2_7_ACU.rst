@@ -63,16 +63,16 @@ Compatibilità delle aree oggetto di nuova previsione con la classificazione acu
 |                       |                       | compatibilità e       |
 |                       |                       | tavola relativa       |
 +                       +-----------------------+-----------------------+
-|                       | contenuti             | zonizzazione acustica |
+|                       | contenuti             |- zonizzazione acustica|
 |                       | dell'elaborato        | vigente               |
 |                       |                       |                       |
-|                       |                       | eventuale proposta di |
+|                       |                       |- eventuale proposta di|
 |                       |                       | zonizzazione acustica |
 |                       |                       | modificata            |
 |                       |                       |                       |
-|                       |                       | destinazioni d'uso    |
+|                       |                       |- destinazioni d'uso   |
 |                       |                       |                       |
-|                       |                       | aree urbanistiche di  |
+|                       |                       |- aree urbanistiche di |
 |                       |                       | progetto              |
 +                       +-----------------------+-----------------------+
 |                       | shapefile             | - ZAC                 |
