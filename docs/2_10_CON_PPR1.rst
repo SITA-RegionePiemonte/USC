@@ -122,7 +122,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 |                 |                 | P_MONTAGNA  |Lettera_d_montagna   |
 +                 +                 +-------------+---------------------+
 |                 |                 | P_GHIACC    |Lettera_e_ghiacciai  |
-+                 +                 +-------------+---------------------+
++                 +                 +             +---------------------+
 |                 |                 |             |Lettera_e_circhi     |
 |                 |                 |             |_glaciali            |
 +                 +                 +-------------+---------------------+
