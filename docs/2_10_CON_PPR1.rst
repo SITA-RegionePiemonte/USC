@@ -2,8 +2,6 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 ==========================================================================
 
 
-
-
 +-----------------+-----------------+-------------+---------------------+
 | Elaborato       | 10. Illustrazione del rapporto tra PRGC e           |
 |                 | PPR (Tavola dei beni paesaggistici)                 |
@@ -92,16 +90,16 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 |                 |                 | elaborati del                     |
 |                 |                 | PPR stesso                        |
 +                 +-----------------+-------------+---------------------+
-|                 | shapefile       | BENIP_PNT   |bene_ex_L_1497_      |
-|                 |                 |             |39_punti             |
+|                 | shapefile       | BENIP_PNT   |bene_ex_L_1497_39_pun|
+|                 |                 |             |ti                   |
 +                 +                 +-------------+---------------------+
 |                 |                 |             |alberi_monumentali   |
 +                 +                 +-------------+---------------------+
-|                 |                 |             |bene_ex_Dlgs_42      |
-|                 |                 |             |_2004_artt_138-141   |
+|                 |                 |             |bene_ex_Dlgs_42_2004 |
+|                 |                 |             |_artt_138-141        |
 +                 +                 +-------------+---------------------+
-|                 |                 | BENIP_LIN   |bene_ex_L_1497_      |
-|                 |                 |             |39_linee             |
+|                 |                 | BENIP_LIN   |bene_ex_L_1497       |
+|                 |                 |             |_39_linee            |
 +                 +                 +-------------+---------------------+
 |                 |                 | BENIP_POLY  |bene_ex_L_1497_      |
 |                 |                 |             |39_poligoni          |
@@ -150,6 +148,7 @@ Illustrazione del rapporto tra PRGC e PPR (Tavola dei beni Paesaggistici)
 +                 +-----------------+-------------+---------------------+
 |                 | shapefile       | -           |                     |
 +-----------------+-----------------+-------------+---------------------+
+
 Fare riferimento al Regolamento di attuazione di cui all’art. 46 delle
 NdA del PPR
 
