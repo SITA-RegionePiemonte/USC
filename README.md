@@ -1,7 +1,8 @@
 # USC
 
-Documentazione relativa al progetto Urbanistica senza Carta
-La documentazione corretta è allegata alla [Deliberazione della Giunta Regionale della Regione Piemonte n. 44-8769 del 12 aprile 2019](/dgr_08769_1050_12042019.pdf) e disponibile ai link qui sotto.
+Documentazione relativa al progetto Urbanistica senza Carta.
+
+La documentazione corretta è allegata alla [Deliberazione della Giunta Regionale della Regione Piemonte n. 44-8769 del 12 aprile 2019](/dgr_08769_1050_12042019.pdf) e disponibile ai link:
 
 [Fascicolo 1 - Le componenti normalizzate](/USC_fascicolo1_ComponentiNormalizzate_v01_2019.pdf)
 
