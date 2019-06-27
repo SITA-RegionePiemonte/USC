@@ -7,6 +7,6 @@ La documentazione corretta è allegata alla [Deliberazione della Giunta Regional
 
 [Fascicolo 2 - Gli elaborati di consegna](/USC_fascicolo2_ElaboratiConsegna_v01_2019.pdf)
 
-[Fascicolo 3 - Catalogo della banca dati urbanistica - Specifica informatica](/USC-fascicolo3_Catalogo della Banca Dati Urbanistica - Specifica Informatica_v01.pdf)
+[Fascicolo 3 - Catalogo della banca dati urbanistica - Specifica informatica](/USC-fascicolo3_Catalogo_della_Banca_Dati_Urbanistica-SpecificaInformatica_v01.pdf)
 
 ![ScreenShot](/static/USC.png)
