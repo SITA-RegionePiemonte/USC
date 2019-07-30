@@ -1,6 +1,3 @@
-<p align="right"> 
-<img src="/static/USC.png" alt="drawing" width="400">
-</p>
 
 # USC  
 
@@ -18,3 +15,6 @@ Maggiori informazioni su https://www.regione.piemonte.it/web/temi/ambiente-terri
 
 Un progetto QGIS3.x e gli shapefile vuoti strutturati come da specifica è disponibile nella cartella [shapefile](/shapefiles).
 
+<p align="center"> 
+<img src="/static/USC.png" alt="drawing" width="400">
+</p>
