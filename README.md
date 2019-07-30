@@ -1,5 +1,5 @@
 <p align="right"> 
-<img src="/static/USC.jpg" alt="drawing" width="400">
+<img src="/static/USC.png" alt="drawing" width="400">
 </p>
 
 # USC  
