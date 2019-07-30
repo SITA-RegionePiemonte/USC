@@ -1,4 +1,7 @@
-# USC
+# USC     
+<p align="right"> 
+<img src="/static/USC.png" alt="drawing" width="400">
+</p>
 
 Documentazione relativa al progetto Urbanistica senza Carta.
 
@@ -10,8 +13,7 @@ La documentazione corretta è allegata alla [Deliberazione della Giunta Regional
 
 [Fascicolo 3 - Catalogo della banca dati urbanistica - Specifica informatica](/USC-fascicolo3_Catalogo_della_Banca_Dati_Urbanistica-SpecificaInformatica_v01.pdf)
 
-Maggiori informazioni su https://www.regione.piemonte.it/web/temi/ambiente-territorio/territorio/urbanistica/urbanistica-senza-carta
+Maggiori informazioni su https://www.regione.piemonte.it/web/temi/ambiente-territorio/territorio/urbanistica/urbanistica-senza-carta.
 
-Un progetto QGIS3.x e gli shapefile vuoti strutturati come da specifica è disponibile nella cartella [shapefile](/shapefiles)
+Un progetto QGIS3.x e gli shapefile vuoti strutturati come da specifica è disponibile nella cartella [shapefile](/shapefiles).
 
-![ScreenShot](/static/USC.png)
