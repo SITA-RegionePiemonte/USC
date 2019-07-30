@@ -1,7 +1,8 @@
-# USC     
 <p align="right"> 
 <img src="/static/USC.png" alt="drawing" width="400">
 </p>
+
+# USC  
 
 Documentazione relativa al progetto Urbanistica senza Carta.
 
