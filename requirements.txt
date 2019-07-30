@@ -1,3 +1,0 @@
-#tentativo per usare disqus
-#pip install sphinxcontrib-disqus
-#pip install git+https://github.com/Robpol86/sphinxcontrib-disqus.git
