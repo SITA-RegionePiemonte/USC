@@ -6,6 +6,8 @@ Documentazione relativa al progetto Urbanistica senza Carta.
 ***ATTENZIONE: questa pagina è obsoleta, la documentazione aggiornata è su: https://github.com/SITA-RegionePiemonte/USC2020***
 
 
+
+
 La documentazione corretta è allegata alla [Deliberazione della Giunta Regionale della Regione Piemonte n. 44-8769 del 12 aprile 2019](http://www.regione.piemonte.it/governo/bollettino/abbonati/2019/16/attach/dgr_08769_1050_12042019.pdf) e disponibile ai link:
 
 [Fascicolo 1 - Le componenti normalizzate](/USC_fascicolo1_ComponentiNormalizzate_v01_2019.pdf)
